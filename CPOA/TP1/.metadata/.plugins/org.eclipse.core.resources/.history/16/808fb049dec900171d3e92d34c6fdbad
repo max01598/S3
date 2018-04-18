@@ -1,0 +1,9 @@
+
+public class PeutCancaner implements ComportementCancaner{
+
+	public void cancaner() {
+		System.out.println("Je cancane!");
+		
+	}
+
+}

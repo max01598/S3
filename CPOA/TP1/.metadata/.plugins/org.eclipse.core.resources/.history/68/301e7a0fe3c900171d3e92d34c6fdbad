@@ -1,0 +1,8 @@
+package appli;
+
+public class Reine {
+	
+	public void combattre(){
+		System.out.println("Le reine attaque");
+	}
+}

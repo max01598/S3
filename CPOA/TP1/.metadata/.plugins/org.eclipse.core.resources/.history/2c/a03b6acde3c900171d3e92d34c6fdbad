@@ -1,0 +1,14 @@
+package appli;
+
+import ComportementsArme.ComportementPoignard;
+
+public class Roi extends Personnage{
+	
+	public Roi() {
+		super(new ComportementEpee());
+		// TODO Auto-generated constructor stub
+	}
+	public void Combattre() {
+		System.out.println("Le roi attaque");
+	}
+}

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="Voler"/>
+<fullyQualifiedTypeName name="ComportementVoler"/>
+<fullyQualifiedTypeName name="PeutpasVoler"/>
+<fullyQualifiedTypeName name="volerAvecDesAiles"/>
+<fullyQualifiedTypeName name="ComportementCancaner"/>
+<fullyQualifiedTypeName name="PeutCancaner"/>
+<fullyQualifiedTypeName name="java.util.Scanner"/>
+<fullyQualifiedTypeName name="Comportements.ComportementArme"/>
+<fullyQualifiedTypeName name="ComportementsArme.ComportementPoignard"/>
+<fullyQualifiedTypeName name="ComportementsArme.ComportementArc"/>
+<fullyQualifiedTypeName name="ComportementsArme.ComportementEpee"/>
+</qualifiedTypeNameHistroy>

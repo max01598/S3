@@ -1,0 +1,16 @@
+/**
+ * @author bruel
+ *
+ */
+public class Colvert extends Canard {
+	
+	public Colvert() {
+		this.cptmV=new volerAvecDesAiles();
+	}
+
+	@Override
+	public void afficher() {
+		System.out.println("Je suis un Colvert");
+	}
+
+}

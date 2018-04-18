@@ -1,0 +1,800 @@
+!SESSION 2017-11-22 15:59:14.255 -----------------------------------------------
+eclipse.buildId=4.7.0.I20170612-0950
+java.version=1.8.0_152
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=fr_FR
+Framework arguments:  -product org.eclipse.epp.package.modeling.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.modeling.product
+
+!ENTRY org.eclipse.jface 2 0 2017-11-22 16:02:27.456
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2017-11-22 16:02:27.456
+!MESSAGE A conflict occurred for ALT+C:
+Binding(ALT+C,
+	ParameterizedCommand(Command(org.eclipse.emf.emfstore.client.ui.commitProject,commit,
+		,
+		Category(org.eclipse.emf.emfstore.client.ui.project,ECP,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@25c66a5a,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(ALT+C,
+	ParameterizedCommand(Command(org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples.tableschemaeditor.copycolumn,Copy,
+		,
+		Category(org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples.tableschemaedtor.10x,ASA 9.x table schema editor,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@9ba905b,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.jface.text 2 0 2017-11-22 16:02:30.349
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.number'
+
+!ENTRY org.eclipse.jface.text 2 0 2017-11-22 16:02:30.349
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.round'
+
+!ENTRY org.eclipse.egit.ui 2 0 2017-11-22 16:02:32.511
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\localuser'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.infinitest.eclipse 1 0 2017-11-22 16:03:08.612
+!MESSAGE Filter file E:\S3\CPOA\tp1\JeuAventure\infinitest.filters does not exist.
+
+!ENTRY org.infinitest.eclipse 1 0 2017-11-22 16:03:08.638
+!MESSAGE Reloading core JeuAventure
+
+!ENTRY org.infinitest.eclipse 1 0 2017-11-22 16:03:08.646
+!MESSAGE Added core JeuAventure with classpath E:\S3\CPOA\tp1\JeuAventure\bin;C:/Users/LOCALU~1/AppData/Local/Temp/infinitest.jar
+
+!ENTRY org.infinitest.eclipse 1 0 2017-11-22 16:03:08.652
+!MESSAGE JeuAventure Files changed: [E:\S3\CPOA\tp1\JeuAventure\bin\appli\main.class, E:\S3\CPOA\tp1\JeuAventure\bin\appli\Reine.class, E:\S3\CPOA\tp1\JeuAventure\bin\ComportementsArme\ComportementEpee.class, E:\S3\CPOA\tp1\JeuAventure\bin\appli\Troll.class, E:\S3\CPOA\tp1\JeuAventure\bin\appli\Personnage.class, E:\S3\CPOA\tp1\JeuAventure\bin\Comportements\ComportementArme.class, E:\S3\CPOA\tp1\JeuAventure\bin\ComportementsArme\ComportementPoignard.class, E:\S3\CPOA\tp1\JeuAventure\bin\Test\TestUniqueInstance.class, E:\S3\CPOA\tp1\JeuAventure\bin\appli\Roi.class, E:\S3\CPOA\tp1\JeuAventure\bin\ComportementsArme\ComportementArc.class, E:\S3\CPOA\tp1\JeuAventure\bin\appli\Chevalier.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2017-11-22 16:03:11.242
+!MESSAGE Files removed. Reloading JeuAventure
+
+!ENTRY org.infinitest.eclipse 1 0 2017-11-22 16:03:11.247
+!MESSAGE Reloading core JeuAventure
+
+!ENTRY org.infinitest.eclipse 1 0 2017-11-22 16:03:11.458
+!MESSAGE JeuAventure Files changed: [E:\S3\CPOA\tp1\JeuAventure\bin\appli\main.class, E:\S3\CPOA\tp1\JeuAventure\bin\appli\Reine.class, E:\S3\CPOA\tp1\JeuAventure\bin\ComportementsArme\ComportementEpee.class, E:\S3\CPOA\tp1\JeuAventure\bin\appli\Troll.class, E:\S3\CPOA\tp1\JeuAventure\bin\appli\Personnage.class, E:\S3\CPOA\tp1\JeuAventure\bin\Comportements\ComportementArme.class, E:\S3\CPOA\tp1\JeuAventure\bin\ComportementsArme\ComportementPoignard.class, E:\S3\CPOA\tp1\JeuAventure\bin\Test\TestUniqueInstance.class, E:\S3\CPOA\tp1\JeuAventure\bin\appli\Roi.class, E:\S3\CPOA\tp1\JeuAventure\bin\ComportementsArme\ComportementArc.class, E:\S3\CPOA\tp1\JeuAventure\bin\appli\Chevalier.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2017-11-22 16:06:35.248
+!MESSAGE Files removed. Reloading JeuAventure
+
+!ENTRY org.infinitest.eclipse 1 0 2017-11-22 16:06:35.252
+!MESSAGE Reloading core JeuAventure
+
+!ENTRY org.infinitest.eclipse 1 0 2017-11-22 16:06:35.262
+!MESSAGE JeuAventure Files changed: [E:\S3\CPOA\tp1\JeuAventure\bin\appli\main.class, E:\S3\CPOA\tp1\JeuAventure\bin\appli\Reine.class, E:\S3\CPOA\tp1\JeuAventure\bin\ComportementsArme\ComportementEpee.class, E:\S3\CPOA\tp1\JeuAventure\bin\Test\Test.class, E:\S3\CPOA\tp1\JeuAventure\bin\appli\Troll.class, E:\S3\CPOA\tp1\JeuAventure\bin\appli\Personnage.class, E:\S3\CPOA\tp1\JeuAventure\bin\Comportements\ComportementArme.class, E:\S3\CPOA\tp1\JeuAventure\bin\ComportementsArme\ComportementPoignard.class, E:\S3\CPOA\tp1\JeuAventure\bin\appli\Roi.class, E:\S3\CPOA\tp1\JeuAventure\bin\ComportementsArme\ComportementArc.class, E:\S3\CPOA\tp1\JeuAventure\bin\appli\Chevalier.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2017-11-22 16:08:31.402
+!MESSAGE Files removed. Reloading JeuAventure
+
+!ENTRY org.infinitest.eclipse 1 0 2017-11-22 16:08:31.407
+!MESSAGE Reloading core JeuAventure
+
+!ENTRY org.infinitest.eclipse 1 0 2017-11-22 16:08:31.418
+!MESSAGE JeuAventure Files changed: [E:\S3\CPOA\tp1\JeuAventure\bin\appli\main.class, E:\S3\CPOA\tp1\JeuAventure\bin\appli\Reine.class, E:\S3\CPOA\tp1\JeuAventure\bin\ComportementsArme\ComportementEpee.class, E:\S3\CPOA\tp1\JeuAventure\bin\appli\Troll.class, E:\S3\CPOA\tp1\JeuAventure\bin\appli\Personnage.class, E:\S3\CPOA\tp1\JeuAventure\bin\Comportements\ComportementArme.class, E:\S3\CPOA\tp1\JeuAventure\bin\ComportementsArme\ComportementPoignard.class, E:\S3\CPOA\tp1\JeuAventure\bin\appli\Roi.class, E:\S3\CPOA\tp1\JeuAventure\bin\ComportementsArme\ComportementArc.class, E:\S3\CPOA\tp1\JeuAventure\bin\appli\Chevalier.class]
+
+!ENTRY org.eclipse.jface.text 2 0 2017-11-22 16:11:18.568
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.number'
+
+!ENTRY org.eclipse.jface.text 2 0 2017-11-22 16:11:18.573
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.round'
+
+!ENTRY org.infinitest.eclipse 1 0 2017-11-22 16:11:23.909
+!MESSAGE Reloading core JeuAventure
+
+!ENTRY org.infinitest.eclipse 1 0 2017-11-22 16:11:24.074
+!MESSAGE JeuAventure Files changed: [E:\S3\CPOA\tp1\JeuAventure\bin\appli\main.class, E:\S3\CPOA\tp1\JeuAventure\bin\appli\Reine.class, E:\S3\CPOA\tp1\JeuAventure\bin\ComportementsArme\ComportementEpee.class, E:\S3\CPOA\tp1\JeuAventure\bin\Test\testArchi.class, E:\S3\CPOA\tp1\JeuAventure\bin\appli\Troll.class, E:\S3\CPOA\tp1\JeuAventure\bin\appli\Personnage.class, E:\S3\CPOA\tp1\JeuAventure\bin\Comportements\ComportementArme.class, E:\S3\CPOA\tp1\JeuAventure\bin\ComportementsArme\ComportementPoignard.class, E:\S3\CPOA\tp1\JeuAventure\bin\appli\Roi.class, E:\S3\CPOA\tp1\JeuAventure\bin\ComportementsArme\ComportementArc.class, E:\S3\CPOA\tp1\JeuAventure\bin\appli\Chevalier.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2017-11-22 16:11:24.090
+!MESSAGE JeuAventure Running tests: [Test.testArchi]
+
+!ENTRY org.infinitest.eclipse 1 0 2017-11-22 16:11:24.100
+!MESSAGE Launching test runner process with the following configuration:
+Directory: E:\S3\CPOA\tp1\JeuAventure
+Environment: {USERDOMAIN_ROAMINGPROFILE=B101P06, PROCESSOR_LEVEL=6, PYTHON_INCLUDE=C:\Python27\include, VS140COMNTOOLS=C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\Tools\, GRAILS_HOME=C:\Program Files\Apache Software Foundation\Grails, SESSIONNAME=Console, ALLUSERSPROFILE=C:\ProgramData, GDAL_DATA=C:\Python27\GDAL\data, PROCESSOR_ARCHITECTURE=AMD64, VirtualC=C:\Program Files (x86)\VirtualC\Virtual-C IDE\, PSModulePath=C:\Program Files (x86)\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules;C:\Program Files (x86)\AutoIt3\AutoItX;C:\Program Files (x86)\Microsoft SQL Server\130\Tools\PowerShell\Modules\;C:\Program Files (x86)\Google\Cloud SDK\google-cloud-sdk\platform\PowerShell, SystemDrive=C:, MAVEN_HOME=C:\Program Files\Apache Software Foundation\Maven, MOZ_PLUGIN_PATH=C:\Program Files\Tracker Software\PDF Viewer\Win32\, USERNAME=localuser, ProgramFiles(x86)=C:\Program Files (x86), PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC;.RB;.RBW;.CH;.PY;.PYW, PYTHON_LIB=C:\Python27\libs\python27.lib, ProgramData=C:\ProgramData, ProgramW6432=C:\Program Files, HOMEPATH=\Users\localuser, PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 94 Stepping 3, GenuineIntel, ProgramFiles=C:\Program Files, PUBLIC=C:\Users\Public, windir=C:\Windows, =::=::\, LOCALAPPDATA=C:\Users\localuser\AppData\Local, MSMPI_BIN=C:\Program Files\Microsoft MPI\Bin\, USERDOMAIN=B101P06, LOGONSERVER=\\B101P06, JAVA_HOME=C:\Program Files\Java\jdk1.8, GDAL_DRIVER_PATH=C:\Python27\Lib\site-packages\osgeo\gdalplugins, ANT_HOME=C:\Program Files\Apache Software Foundation\Ant, QT_DEVICE_PIXEL_RATIO=auto, APPDATA=C:\Users\localuser\AppData\Roaming, VBOX_MSI_INSTALL_PATH=C:\Program Files\Oracle\VirtualBox\, CommonProgramFiles=C:\Program Files\Common Files, Path=C:/Program Files/Java/jdk1.8/bin/../jre/bin/server;C:/Program Files/Java/jdk1.8/bin/../jre/bin;C:/Program Files/Java/jdk1.8/bin/../jre/lib/amd64;C:\Program Files\Java\jdk1.8\bin;C:\Program Files\Oracle\VirtualBox;C:\Program Files\Apache Software Foundation\Ant\bin;C:\Program Files\Apache Software Foundation\Grails\bin;C:\Program Files\Apache Software Foundation\Maven\bin;C:\Python27\Lib\site-packages\PyQt4;C:\Python34\Lib\site-packages\PyQt5;C:\Program Files\Microsoft MPI\Bin\;C:\Ruby22-x64\bin;C:\ProgramData\Oracle\Java\javapath;C:\Program Files\Runas;C:\Program Files\Sysinfo;C:\Oracle\product\11.2.0\client_1\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\PuTTY\;C:\Program Files (x86)\Windows Live\Shared;C:\Program Files\Git\cmd;C:\Program Files\TortoiseGit\bin;C:\Program Files\TortoiseSVN\bin;C:\Program Files\MySQL\MySQL Utilities 1.6\;C:\Ch\bin;C:\Program Files (x86)\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\130\DTS\Binn\;C:\Program Files\Microsoft SQL Server\130\DTS\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\130\Tools\Binn\;C:\Program Files\nodejs\;C:\Program Files (x86)\Microsoft SQL Server\Client SDK\ODBC\130\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\140\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\140\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\140\Tools\Binn\ManagementStudio\;C:\Python27;C:\Python27\DLLs;C:\Python27\Scripts;C:\Python27\Lib\site-packages\vtk;C:\Python27\gnuplot\binary;C:\Python27\Lib\site-packages\osgeo;C:\Python27\console;C:\Program Files (x86)\pythonxy\swig;C:\Python27\gettext\bin;C:\Program Files (x86)\Google\Cloud SDK\google-cloud-sdk\bin;C:\Program Files\Microsoft DNX\Dnvm\;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\Shield;C:\Users\localuser\AppData\Local\Microsoft\WindowsApps;C:\Users\localuser\AppData\Roaming\npm;C:\Program Files (x86)\Google\google_appengine\;C:\Program Files\Microsoft VS Code\bin;C:\Program Files\Eclipse;, PT7HOME=C:\Program Files\Cisco Packet Tracer 7.1, OS=Windows_NT, COMPUTERNAME=B101P06, PROCESSOR_REVISION=5e03, CommonProgramW6432=C:\Program Files\Common Files, CLASSPATH=E:\S3\CPOA\tp1\JeuAventure\bin;C:\Program Files\eclipse\plugins\org.junit_4.12.0.v201504281640\junit.jar;C:\Program Files\eclipse\plugins\org.hamcrest.core_1.3.0.v201303031735.jar;C:/Users/LOCALU~1/AppData/Local/Temp/infinitest.jar, ComSpec=C:\Windows\system32\cmd.exe, SystemRoot=C:\Windows, TEMP=C:\Users\LOCALU~1\AppData\Local\Temp, HOMEDRIVE=C:, PT6HOME=C:\Program Files (x86)\Cisco Packet Tracer 6.2, USERPROFILE=C:\Users\localuser, TMP=C:\Users\LOCALU~1\AppData\Local\Temp, CommonProgramFiles(x86)=C:\Program Files (x86)\Common Files, NUMBER_OF_PROCESSORS=8, SCITE_USERHOME=C:\Users\localuser\AppData\Local\AutoIt v3\SciTE}
+Command: [C:\Program Files\Java\jdk1.8\bin\java.exe, -mx256m, org.infinitest.testrunner.TestRunnerProcess, org.infinitest.testrunner.JUnit4Runner, 50228]
+
+!ENTRY org.infinitest.eclipse 1 0 2017-11-22 16:11:24.439
+!MESSAGE Update complete. Status FAILING
+
+!ENTRY org.infinitest.eclipse 1 0 2017-11-22 16:20:07.797
+!MESSAGE JeuAventure Files changed: [E:\S3\CPOA\tp1\JeuAventure\bin\Test\testArchi.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2017-11-22 16:20:08.469
+!MESSAGE JeuAventure Running tests: [Test.testArchi]
+
+!ENTRY org.infinitest.eclipse 1 0 2017-11-22 16:20:08.469
+!MESSAGE Launching test runner process with the following configuration:
+Directory: E:\S3\CPOA\tp1\JeuAventure
+Environment: {USERDOMAIN_ROAMINGPROFILE=B101P06, PROCESSOR_LEVEL=6, PYTHON_INCLUDE=C:\Python27\include, VS140COMNTOOLS=C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\Tools\, GRAILS_HOME=C:\Program Files\Apache Software Foundation\Grails, SESSIONNAME=Console, ALLUSERSPROFILE=C:\ProgramData, GDAL_DATA=C:\Python27\GDAL\data, PROCESSOR_ARCHITECTURE=AMD64, VirtualC=C:\Program Files (x86)\VirtualC\Virtual-C IDE\, PSModulePath=C:\Program Files (x86)\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules;C:\Program Files (x86)\AutoIt3\AutoItX;C:\Program Files (x86)\Microsoft SQL Server\130\Tools\PowerShell\Modules\;C:\Program Files (x86)\Google\Cloud SDK\google-cloud-sdk\platform\PowerShell, SystemDrive=C:, MAVEN_HOME=C:\Program Files\Apache Software Foundation\Maven, MOZ_PLUGIN_PATH=C:\Program Files\Tracker Software\PDF Viewer\Win32\, USERNAME=localuser, ProgramFiles(x86)=C:\Program Files (x86), PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC;.RB;.RBW;.CH;.PY;.PYW, PYTHON_LIB=C:\Python27\libs\python27.lib, ProgramData=C:\ProgramData, ProgramW6432=C:\Program Files, HOMEPATH=\Users\localuser, PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 94 Stepping 3, GenuineIntel, ProgramFiles=C:\Program Files, PUBLIC=C:\Users\Public, windir=C:\Windows, =::=::\, LOCALAPPDATA=C:\Users\localuser\AppData\Local, MSMPI_BIN=C:\Program Files\Microsoft MPI\Bin\, USERDOMAIN=B101P06, LOGONSERVER=\\B101P06, JAVA_HOME=C:\Program Files\Java\jdk1.8, GDAL_DRIVER_PATH=C:\Python27\Lib\site-packages\osgeo\gdalplugins, ANT_HOME=C:\Program Files\Apache Software Foundation\Ant, QT_DEVICE_PIXEL_RATIO=auto, APPDATA=C:\Users\localuser\AppData\Roaming, VBOX_MSI_INSTALL_PATH=C:\Program Files\Oracle\VirtualBox\, CommonProgramFiles=C:\Program Files\Common Files, Path=C:/Program Files/Java/jdk1.8/bin/../jre/bin/server;C:/Program Files/Java/jdk1.8/bin/../jre/bin;C:/Program Files/Java/jdk1.8/bin/../jre/lib/amd64;C:\Program Files\Java\jdk1.8\bin;C:\Program Files\Oracle\VirtualBox;C:\Program Files\Apache Software Foundation\Ant\bin;C:\Program Files\Apache Software Foundation\Grails\bin;C:\Program Files\Apache Software Foundation\Maven\bin;C:\Python27\Lib\site-packages\PyQt4;C:\Python34\Lib\site-packages\PyQt5;C:\Program Files\Microsoft MPI\Bin\;C:\Ruby22-x64\bin;C:\ProgramData\Oracle\Java\javapath;C:\Program Files\Runas;C:\Program Files\Sysinfo;C:\Oracle\product\11.2.0\client_1\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\PuTTY\;C:\Program Files (x86)\Windows Live\Shared;C:\Program Files\Git\cmd;C:\Program Files\TortoiseGit\bin;C:\Program Files\TortoiseSVN\bin;C:\Program Files\MySQL\MySQL Utilities 1.6\;C:\Ch\bin;C:\Program Files (x86)\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\130\DTS\Binn\;C:\Program Files\Microsoft SQL Server\130\DTS\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\130\Tools\Binn\;C:\Program Files\nodejs\;C:\Program Files (x86)\Microsoft SQL Server\Client SDK\ODBC\130\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\140\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\140\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\140\Tools\Binn\ManagementStudio\;C:\Python27;C:\Python27\DLLs;C:\Python27\Scripts;C:\Python27\Lib\site-packages\vtk;C:\Python27\gnuplot\binary;C:\Python27\Lib\site-packages\osgeo;C:\Python27\console;C:\Program Files (x86)\pythonxy\swig;C:\Python27\gettext\bin;C:\Program Files (x86)\Google\Cloud SDK\google-cloud-sdk\bin;C:\Program Files\Microsoft DNX\Dnvm\;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\Shield;C:\Users\localuser\AppData\Local\Microsoft\WindowsApps;C:\Users\localuser\AppData\Roaming\npm;C:\Program Files (x86)\Google\google_appengine\;C:\Program Files\Microsoft VS Code\bin;C:\Program Files\Eclipse;, PT7HOME=C:\Program Files\Cisco Packet Tracer 7.1, OS=Windows_NT, COMPUTERNAME=B101P06, PROCESSOR_REVISION=5e03, CommonProgramW6432=C:\Program Files\Common Files, CLASSPATH=E:\S3\CPOA\tp1\JeuAventure\bin;C:\Program Files\eclipse\plugins\org.junit_4.12.0.v201504281640\junit.jar;C:\Program Files\eclipse\plugins\org.hamcrest.core_1.3.0.v201303031735.jar;C:/Users/LOCALU~1/AppData/Local/Temp/infinitest.jar, ComSpec=C:\Windows\system32\cmd.exe, SystemRoot=C:\Windows, TEMP=C:\Users\LOCALU~1\AppData\Local\Temp, HOMEDRIVE=C:, PT6HOME=C:\Program Files (x86)\Cisco Packet Tracer 6.2, USERPROFILE=C:\Users\localuser, TMP=C:\Users\LOCALU~1\AppData\Local\Temp, CommonProgramFiles(x86)=C:\Program Files (x86)\Common Files, NUMBER_OF_PROCESSORS=8, SCITE_USERHOME=C:\Users\localuser\AppData\Local\AutoIt v3\SciTE}
+Command: [C:\Program Files\Java\jdk1.8\bin\java.exe, -mx256m, org.infinitest.testrunner.TestRunnerProcess, org.infinitest.testrunner.JUnit4Runner, 50361]
+
+!ENTRY org.infinitest.eclipse 1 0 2017-11-22 16:20:10.726
+!MESSAGE Update complete. Status PASSING
+
+!ENTRY org.infinitest.eclipse 1 0 2017-11-22 16:27:40.561
+!MESSAGE JeuAventure Files changed: [E:\S3\CPOA\tp1\JeuAventure\bin\Test\testArchi.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2017-11-22 16:27:42.780
+!MESSAGE JeuAventure Running tests: [Test.testArchi]
+
+!ENTRY org.infinitest.eclipse 1 0 2017-11-22 16:27:43.442
+!MESSAGE Launching test runner process with the following configuration:
+Directory: E:\S3\CPOA\tp1\JeuAventure
+Environment: {USERDOMAIN_ROAMINGPROFILE=B101P06, PROCESSOR_LEVEL=6, PYTHON_INCLUDE=C:\Python27\include, VS140COMNTOOLS=C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\Tools\, GRAILS_HOME=C:\Program Files\Apache Software Foundation\Grails, SESSIONNAME=Console, ALLUSERSPROFILE=C:\ProgramData, GDAL_DATA=C:\Python27\GDAL\data, PROCESSOR_ARCHITECTURE=AMD64, VirtualC=C:\Program Files (x86)\VirtualC\Virtual-C IDE\, PSModulePath=C:\Program Files (x86)\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules;C:\Program Files (x86)\AutoIt3\AutoItX;C:\Program Files (x86)\Microsoft SQL Server\130\Tools\PowerShell\Modules\;C:\Program Files (x86)\Google\Cloud SDK\google-cloud-sdk\platform\PowerShell, SystemDrive=C:, MAVEN_HOME=C:\Program Files\Apache Software Foundation\Maven, MOZ_PLUGIN_PATH=C:\Program Files\Tracker Software\PDF Viewer\Win32\, USERNAME=localuser, ProgramFiles(x86)=C:\Program Files (x86), PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC;.RB;.RBW;.CH;.PY;.PYW, PYTHON_LIB=C:\Python27\libs\python27.lib, ProgramData=C:\ProgramData, ProgramW6432=C:\Program Files, HOMEPATH=\Users\localuser, PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 94 Stepping 3, GenuineIntel, ProgramFiles=C:\Program Files, PUBLIC=C:\Users\Public, windir=C:\Windows, =::=::\, LOCALAPPDATA=C:\Users\localuser\AppData\Local, MSMPI_BIN=C:\Program Files\Microsoft MPI\Bin\, USERDOMAIN=B101P06, LOGONSERVER=\\B101P06, JAVA_HOME=C:\Program Files\Java\jdk1.8, GDAL_DRIVER_PATH=C:\Python27\Lib\site-packages\osgeo\gdalplugins, ANT_HOME=C:\Program Files\Apache Software Foundation\Ant, QT_DEVICE_PIXEL_RATIO=auto, APPDATA=C:\Users\localuser\AppData\Roaming, VBOX_MSI_INSTALL_PATH=C:\Program Files\Oracle\VirtualBox\, CommonProgramFiles=C:\Program Files\Common Files, Path=C:/Program Files/Java/jdk1.8/bin/../jre/bin/server;C:/Program Files/Java/jdk1.8/bin/../jre/bin;C:/Program Files/Java/jdk1.8/bin/../jre/lib/amd64;C:\Program Files\Java\jdk1.8\bin;C:\Program Files\Oracle\VirtualBox;C:\Program Files\Apache Software Foundation\Ant\bin;C:\Program Files\Apache Software Foundation\Grails\bin;C:\Program Files\Apache Software Foundation\Maven\bin;C:\Python27\Lib\site-packages\PyQt4;C:\Python34\Lib\site-packages\PyQt5;C:\Program Files\Microsoft MPI\Bin\;C:\Ruby22-x64\bin;C:\ProgramData\Oracle\Java\javapath;C:\Program Files\Runas;C:\Program Files\Sysinfo;C:\Oracle\product\11.2.0\client_1\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\PuTTY\;C:\Program Files (x86)\Windows Live\Shared;C:\Program Files\Git\cmd;C:\Program Files\TortoiseGit\bin;C:\Program Files\TortoiseSVN\bin;C:\Program Files\MySQL\MySQL Utilities 1.6\;C:\Ch\bin;C:\Program Files (x86)\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\130\DTS\Binn\;C:\Program Files\Microsoft SQL Server\130\DTS\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\130\Tools\Binn\;C:\Program Files\nodejs\;C:\Program Files (x86)\Microsoft SQL Server\Client SDK\ODBC\130\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\140\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\140\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\140\Tools\Binn\ManagementStudio\;C:\Python27;C:\Python27\DLLs;C:\Python27\Scripts;C:\Python27\Lib\site-packages\vtk;C:\Python27\gnuplot\binary;C:\Python27\Lib\site-packages\osgeo;C:\Python27\console;C:\Program Files (x86)\pythonxy\swig;C:\Python27\gettext\bin;C:\Program Files (x86)\Google\Cloud SDK\google-cloud-sdk\bin;C:\Program Files\Microsoft DNX\Dnvm\;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\Shield;C:\Users\localuser\AppData\Local\Microsoft\WindowsApps;C:\Users\localuser\AppData\Roaming\npm;C:\Program Files (x86)\Google\google_appengine\;C:\Program Files\Microsoft VS Code\bin;C:\Program Files\Eclipse;, PT7HOME=C:\Program Files\Cisco Packet Tracer 7.1, OS=Windows_NT, COMPUTERNAME=B101P06, PROCESSOR_REVISION=5e03, CommonProgramW6432=C:\Program Files\Common Files, CLASSPATH=E:\S3\CPOA\tp1\JeuAventure\bin;C:\Program Files\eclipse\plugins\org.junit_4.12.0.v201504281640\junit.jar;C:\Program Files\eclipse\plugins\org.hamcrest.core_1.3.0.v201303031735.jar;C:/Users/LOCALU~1/AppData/Local/Temp/infinitest.jar, ComSpec=C:\Windows\system32\cmd.exe, SystemRoot=C:\Windows, TEMP=C:\Users\LOCALU~1\AppData\Local\Temp, HOMEDRIVE=C:, PT6HOME=C:\Program Files (x86)\Cisco Packet Tracer 6.2, USERPROFILE=C:\Users\localuser, TMP=C:\Users\LOCALU~1\AppData\Local\Temp, CommonProgramFiles(x86)=C:\Program Files (x86)\Common Files, NUMBER_OF_PROCESSORS=8, SCITE_USERHOME=C:\Users\localuser\AppData\Local\AutoIt v3\SciTE}
+Command: [C:\Program Files\Java\jdk1.8\bin\java.exe, -mx256m, org.infinitest.testrunner.TestRunnerProcess, org.infinitest.testrunner.JUnit4Runner, 50373]
+
+!ENTRY org.infinitest.eclipse 1 0 2017-11-22 16:27:44.991
+!MESSAGE Update complete. Status PASSING
+
+!ENTRY org.infinitest.eclipse 1 0 2017-11-22 16:29:38.924
+!MESSAGE JeuAventure Files changed: [E:\S3\CPOA\tp1\JeuAventure\bin\Test\testArchi.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2017-11-22 16:29:40.364
+!MESSAGE JeuAventure Running tests: [Test.testArchi]
+
+!ENTRY org.infinitest.eclipse 1 0 2017-11-22 16:29:40.364
+!MESSAGE Launching test runner process with the following configuration:
+Directory: E:\S3\CPOA\tp1\JeuAventure
+Environment: {USERDOMAIN_ROAMINGPROFILE=B101P06, PROCESSOR_LEVEL=6, PYTHON_INCLUDE=C:\Python27\include, VS140COMNTOOLS=C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\Tools\, GRAILS_HOME=C:\Program Files\Apache Software Foundation\Grails, SESSIONNAME=Console, ALLUSERSPROFILE=C:\ProgramData, GDAL_DATA=C:\Python27\GDAL\data, PROCESSOR_ARCHITECTURE=AMD64, VirtualC=C:\Program Files (x86)\VirtualC\Virtual-C IDE\, PSModulePath=C:\Program Files (x86)\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules;C:\Program Files (x86)\AutoIt3\AutoItX;C:\Program Files (x86)\Microsoft SQL Server\130\Tools\PowerShell\Modules\;C:\Program Files (x86)\Google\Cloud SDK\google-cloud-sdk\platform\PowerShell, SystemDrive=C:, MAVEN_HOME=C:\Program Files\Apache Software Foundation\Maven, MOZ_PLUGIN_PATH=C:\Program Files\Tracker Software\PDF Viewer\Win32\, USERNAME=localuser, ProgramFiles(x86)=C:\Program Files (x86), PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC;.RB;.RBW;.CH;.PY;.PYW, PYTHON_LIB=C:\Python27\libs\python27.lib, ProgramData=C:\ProgramData, ProgramW6432=C:\Program Files, HOMEPATH=\Users\localuser, PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 94 Stepping 3, GenuineIntel, ProgramFiles=C:\Program Files, PUBLIC=C:\Users\Public, windir=C:\Windows, =::=::\, LOCALAPPDATA=C:\Users\localuser\AppData\Local, MSMPI_BIN=C:\Program Files\Microsoft MPI\Bin\, USERDOMAIN=B101P06, LOGONSERVER=\\B101P06, JAVA_HOME=C:\Program Files\Java\jdk1.8, GDAL_DRIVER_PATH=C:\Python27\Lib\site-packages\osgeo\gdalplugins, ANT_HOME=C:\Program Files\Apache Software Foundation\Ant, QT_DEVICE_PIXEL_RATIO=auto, APPDATA=C:\Users\localuser\AppData\Roaming, VBOX_MSI_INSTALL_PATH=C:\Program Files\Oracle\VirtualBox\, CommonProgramFiles=C:\Program Files\Common Files, Path=C:/Program Files/Java/jdk1.8/bin/../jre/bin/server;C:/Program Files/Java/jdk1.8/bin/../jre/bin;C:/Program Files/Java/jdk1.8/bin/../jre/lib/amd64;C:\Program Files\Java\jdk1.8\bin;C:\Program Files\Oracle\VirtualBox;C:\Program Files\Apache Software Foundation\Ant\bin;C:\Program Files\Apache Software Foundation\Grails\bin;C:\Program Files\Apache Software Foundation\Maven\bin;C:\Python27\Lib\site-packages\PyQt4;C:\Python34\Lib\site-packages\PyQt5;C:\Program Files\Microsoft MPI\Bin\;C:\Ruby22-x64\bin;C:\ProgramData\Oracle\Java\javapath;C:\Program Files\Runas;C:\Program Files\Sysinfo;C:\Oracle\product\11.2.0\client_1\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\PuTTY\;C:\Program Files (x86)\Windows Live\Shared;C:\Program Files\Git\cmd;C:\Program Files\TortoiseGit\bin;C:\Program Files\TortoiseSVN\bin;C:\Program Files\MySQL\MySQL Utilities 1.6\;C:\Ch\bin;C:\Program Files (x86)\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\130\DTS\Binn\;C:\Program Files\Microsoft SQL Server\130\DTS\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\130\Tools\Binn\;C:\Program Files\nodejs\;C:\Program Files (x86)\Microsoft SQL Server\Client SDK\ODBC\130\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\140\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\140\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\140\Tools\Binn\ManagementStudio\;C:\Python27;C:\Python27\DLLs;C:\Python27\Scripts;C:\Python27\Lib\site-packages\vtk;C:\Python27\gnuplot\binary;C:\Python27\Lib\site-packages\osgeo;C:\Python27\console;C:\Program Files (x86)\pythonxy\swig;C:\Python27\gettext\bin;C:\Program Files (x86)\Google\Cloud SDK\google-cloud-sdk\bin;C:\Program Files\Microsoft DNX\Dnvm\;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\Shield;C:\Users\localuser\AppData\Local\Microsoft\WindowsApps;C:\Users\localuser\AppData\Roaming\npm;C:\Program Files (x86)\Google\google_appengine\;C:\Program Files\Microsoft VS Code\bin;C:\Program Files\Eclipse;, PT7HOME=C:\Program Files\Cisco Packet Tracer 7.1, OS=Windows_NT, COMPUTERNAME=B101P06, PROCESSOR_REVISION=5e03, CommonProgramW6432=C:\Program Files\Common Files, CLASSPATH=E:\S3\CPOA\tp1\JeuAventure\bin;C:\Program Files\eclipse\plugins\org.junit_4.12.0.v201504281640\junit.jar;C:\Program Files\eclipse\plugins\org.hamcrest.core_1.3.0.v201303031735.jar;C:/Users/LOCALU~1/AppData/Local/Temp/infinitest.jar, ComSpec=C:\Windows\system32\cmd.exe, SystemRoot=C:\Windows, TEMP=C:\Users\LOCALU~1\AppData\Local\Temp, HOMEDRIVE=C:, PT6HOME=C:\Program Files (x86)\Cisco Packet Tracer 6.2, USERPROFILE=C:\Users\localuser, TMP=C:\Users\LOCALU~1\AppData\Local\Temp, CommonProgramFiles(x86)=C:\Program Files (x86)\Common Files, NUMBER_OF_PROCESSORS=8, SCITE_USERHOME=C:\Users\localuser\AppData\Local\AutoIt v3\SciTE}
+Command: [C:\Program Files\Java\jdk1.8\bin\java.exe, -mx256m, org.infinitest.testrunner.TestRunnerProcess, org.infinitest.testrunner.JUnit4Runner, 50379]
+
+!ENTRY org.infinitest.eclipse 1 0 2017-11-22 16:29:42.060
+!MESSAGE Update complete. Status PASSING
+
+!ENTRY org.eclipse.pde.build 4 3 2017-11-22 16:37:09.682
+!MESSAGE Illegal character in path at index 16: file:/C:/Program Files/eclipse/plugins/org.eclipse.pde.build_3.9.300.v20170515-0912/./
+!STACK 0
+java.net.URISyntaxException: Illegal character in path at index 16: file:/C:/Program Files/eclipse/plugins/org.eclipse.pde.build_3.9.300.v20170515-0912/./
+	at java.net.URI$Parser.fail(URI.java:2848)
+	at java.net.URI$Parser.checkChars(URI.java:3021)
+	at java.net.URI$Parser.parseHierarchical(URI.java:3105)
+	at java.net.URI$Parser.parse(URI.java:3053)
+	at java.net.URI.<init>(URI.java:588)
+	at java.net.URL.toURI(URL.java:946)
+	at org.eclipse.pde.internal.build.properties.PDEProperties.getAntPropertyValue(PDEProperties.java:54)
+	at org.eclipse.ant.core.Property.getValue(Property.java:123)
+	at org.eclipse.ant.internal.ui.model.AntModel.setGlobalProperties(AntModel.java:551)
+	at org.eclipse.ant.internal.ui.model.AntModel.setProperties(AntModel.java:461)
+	at org.eclipse.ant.internal.ui.model.AntModel.initializeProject(AntModel.java:429)
+	at org.eclipse.ant.internal.ui.model.AntModel.prepareForFullParse(AntModel.java:396)
+	at org.eclipse.ant.internal.ui.model.AntModel.parseDocument(AntModel.java:355)
+	at org.eclipse.ant.internal.ui.model.AntModel.reconcile(AntModel.java:313)
+	at org.eclipse.ant.internal.ui.model.AntModel.getProjectNode(AntModel.java:1518)
+	at org.eclipse.ant.internal.ui.model.AntModel.getProjectNode(AntModel.java:1531)
+	at org.eclipse.ant.internal.ui.editor.text.AntFoldingStructureProvider.updateFoldingRegions(AntFoldingStructureProvider.java:90)
+	at org.eclipse.ant.internal.ui.editor.AntEditor.projectionEnabled(AntEditor.java:1284)
+	at org.eclipse.jface.text.source.projection.ProjectionViewer.fireProjectionEnabled(ProjectionViewer.java:472)
+	at org.eclipse.jface.text.source.projection.ProjectionViewer.enableProjection(ProjectionViewer.java:520)
+	at org.eclipse.jface.text.source.projection.ProjectionViewer.doOperation(ProjectionViewer.java:1368)
+	at org.eclipse.ant.internal.ui.editor.AntEditor$StatusLineSourceViewer.doOperation(AntEditor.java:217)
+	at org.eclipse.ant.internal.ui.editor.AntEditor.createPartControl(AntEditor.java:998)
+	at org.eclipse.ui.internal.e4.compatibility.CompatibilityPart.createPartControl(CompatibilityPart.java:151)
+	at org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor.createPartControl(CompatibilityEditor.java:99)
+	at org.eclipse.ui.internal.e4.compatibility.CompatibilityPart.create(CompatibilityPart.java:355)
+	at sun.reflect.GeneratedMethodAccessor87.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.eclipse.e4.core.internal.di.MethodRequestor.execute(MethodRequestor.java:55)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.processAnnotated(InjectorImpl.java:990)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.processAnnotated(InjectorImpl.java:955)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.inject(InjectorImpl.java:124)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.internalMake(InjectorImpl.java:399)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.make(InjectorImpl.java:318)
+	at org.eclipse.e4.core.contexts.ContextInjectionFactory.make(ContextInjectionFactory.java:162)
+	at org.eclipse.e4.ui.internal.workbench.ReflectionContributionFactory.createFromBundle(ReflectionContributionFactory.java:105)
+	at org.eclipse.e4.ui.internal.workbench.ReflectionContributionFactory.doCreate(ReflectionContributionFactory.java:74)
+	at org.eclipse.e4.ui.internal.workbench.ReflectionContributionFactory.create(ReflectionContributionFactory.java:56)
+	at org.eclipse.e4.ui.workbench.renderers.swt.ContributedPartRenderer.createWidget(ContributedPartRenderer.java:129)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createWidget(PartRenderingEngine.java:997)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:666)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:772)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.access$0(PartRenderingEngine.java:743)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:737)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:721)
+	at org.eclipse.e4.ui.workbench.renderers.swt.StackRenderer.showTab(StackRenderer.java:1289)
+	at org.eclipse.e4.ui.workbench.renderers.swt.LazyStackRenderer.lambda$0(LazyStackRenderer.java:68)
+	at org.eclipse.e4.ui.services.internal.events.UIEventHandler$1.run(UIEventHandler.java:40)
+	at org.eclipse.swt.widgets.Synchronizer.syncExec(Synchronizer.java:233)
+	at org.eclipse.ui.internal.UISynchronizer.syncExec(UISynchronizer.java:144)
+	at org.eclipse.swt.widgets.Display.syncExec(Display.java:4889)
+	at org.eclipse.e4.ui.internal.workbench.swt.E4Application$1.syncExec(E4Application.java:212)
+	at org.eclipse.e4.ui.services.internal.events.UIEventHandler.handleEvent(UIEventHandler.java:36)
+	at org.eclipse.equinox.internal.event.EventHandlerWrapper.handleEvent(EventHandlerWrapper.java:201)
+	at org.eclipse.equinox.internal.event.EventHandlerTracker.dispatchEvent(EventHandlerTracker.java:197)
+	at org.eclipse.equinox.internal.event.EventHandlerTracker.dispatchEvent(EventHandlerTracker.java:1)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:230)
+	at org.eclipse.osgi.framework.eventmgr.ListenerQueue.dispatchEventSynchronous(ListenerQueue.java:148)
+	at org.eclipse.equinox.internal.event.EventAdminImpl.dispatchEvent(EventAdminImpl.java:135)
+	at org.eclipse.equinox.internal.event.EventAdminImpl.sendEvent(EventAdminImpl.java:78)
+	at org.eclipse.equinox.internal.event.EventComponent.sendEvent(EventComponent.java:39)
+	at org.eclipse.e4.ui.services.internal.events.EventBroker.send(EventBroker.java:52)
+	at org.eclipse.e4.ui.internal.workbench.UIEventPublisher.notifyChanged(UIEventPublisher.java:60)
+	at org.eclipse.emf.common.notify.impl.BasicNotifierImpl.eNotify(BasicNotifierImpl.java:374)
+	at org.eclipse.e4.ui.model.application.ui.impl.ElementContainerImpl.setSelectedElement(ElementContainerImpl.java:173)
+	at org.eclipse.e4.ui.internal.workbench.ModelServiceImpl.showElementInWindow(ModelServiceImpl.java:620)
+	at org.eclipse.e4.ui.internal.workbench.ModelServiceImpl.bringToTop(ModelServiceImpl.java:584)
+	at org.eclipse.e4.ui.internal.workbench.PartServiceImpl.delegateBringToTop(PartServiceImpl.java:768)
+	at org.eclipse.e4.ui.internal.workbench.PartServiceImpl.bringToTop(PartServiceImpl.java:401)
+	at org.eclipse.e4.ui.internal.workbench.PartServiceImpl.showPart(PartServiceImpl.java:1187)
+	at org.eclipse.ui.internal.WorkbenchPage.busyOpenEditor(WorkbenchPage.java:3261)
+	at org.eclipse.ui.internal.WorkbenchPage.access$25(WorkbenchPage.java:3176)
+	at org.eclipse.ui.internal.WorkbenchPage$10.run(WorkbenchPage.java:3158)
+	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:70)
+	at org.eclipse.ui.internal.WorkbenchPage.openEditor(WorkbenchPage.java:3153)
+	at org.eclipse.ui.internal.WorkbenchPage.openEditor(WorkbenchPage.java:3117)
+	at org.eclipse.ui.internal.WorkbenchPage.openEditor(WorkbenchPage.java:3107)
+	at org.eclipse.ui.ide.IDE.openEditor(IDE.java:563)
+	at org.eclipse.ui.ide.IDE.openEditor(IDE.java:518)
+	at org.eclipse.jdt.internal.ui.javaeditor.EditorUtility.openInEditor(EditorUtility.java:360)
+	at org.eclipse.jdt.internal.ui.javaeditor.EditorUtility.openInEditor(EditorUtility.java:167)
+	at org.eclipse.jdt.ui.actions.OpenAction.run(OpenAction.java:256)
+	at org.eclipse.jdt.ui.actions.OpenAction.run(OpenAction.java:221)
+	at org.eclipse.jdt.ui.actions.SelectionDispatchAction.dispatchRun(SelectionDispatchAction.java:271)
+	at org.eclipse.jdt.ui.actions.SelectionDispatchAction.run(SelectionDispatchAction.java:249)
+	at org.eclipse.jdt.internal.ui.navigator.OpenAndExpand.run(OpenAndExpand.java:50)
+	at org.eclipse.ui.actions.RetargetAction.run(RetargetAction.java:216)
+	at org.eclipse.ui.navigator.CommonNavigatorManager$2.open(CommonNavigatorManager.java:191)
+	at org.eclipse.ui.OpenAndLinkWithEditorHelper$InternalListener.open(OpenAndLinkWithEditorHelper.java:46)
+	at org.eclipse.jface.viewers.StructuredViewer$2.run(StructuredViewer.java:851)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.ui.internal.JFaceUtil.lambda$0(JFaceUtil.java:44)
+	at org.eclipse.jface.util.SafeRunnable.run(SafeRunnable.java:173)
+	at org.eclipse.jface.viewers.StructuredViewer.fireOpen(StructuredViewer.java:848)
+	at org.eclipse.jface.viewers.StructuredViewer.handleOpen(StructuredViewer.java:1163)
+	at org.eclipse.ui.navigator.CommonViewer.handleOpen(CommonViewer.java:451)
+	at org.eclipse.jface.util.OpenStrategy.fireOpenEvent(OpenStrategy.java:273)
+	at org.eclipse.jface.util.OpenStrategy.access$2(OpenStrategy.java:268)
+	at org.eclipse.jface.util.OpenStrategy$1.handleEvent(OpenStrategy.java:308)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:86)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4428)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1079)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4238)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3817)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1155)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:336)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1044)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:153)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:680)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:336)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:594)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:148)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:151)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:388)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:243)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:653)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:590)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1499)
+
+!ENTRY org.eclipse.pde.build 4 3 2017-11-22 16:37:11.167
+!MESSAGE Illegal character in path at index 16: file:/C:/Program Files/eclipse/plugins/org.eclipse.pde.build_3.9.300.v20170515-0912/scripts/
+!STACK 0
+java.net.URISyntaxException: Illegal character in path at index 16: file:/C:/Program Files/eclipse/plugins/org.eclipse.pde.build_3.9.300.v20170515-0912/scripts/
+	at java.net.URI$Parser.fail(URI.java:2848)
+	at java.net.URI$Parser.checkChars(URI.java:3021)
+	at java.net.URI$Parser.parseHierarchical(URI.java:3105)
+	at java.net.URI$Parser.parse(URI.java:3053)
+	at java.net.URI.<init>(URI.java:588)
+	at java.net.URL.toURI(URL.java:946)
+	at org.eclipse.pde.internal.build.properties.PDEProperties.getAntPropertyValue(PDEProperties.java:54)
+	at org.eclipse.ant.core.Property.getValue(Property.java:123)
+	at org.eclipse.ant.internal.ui.model.AntModel.setGlobalProperties(AntModel.java:551)
+	at org.eclipse.ant.internal.ui.model.AntModel.setProperties(AntModel.java:461)
+	at org.eclipse.ant.internal.ui.model.AntModel.initializeProject(AntModel.java:429)
+	at org.eclipse.ant.internal.ui.model.AntModel.prepareForFullParse(AntModel.java:396)
+	at org.eclipse.ant.internal.ui.model.AntModel.parseDocument(AntModel.java:355)
+	at org.eclipse.ant.internal.ui.model.AntModel.reconcile(AntModel.java:313)
+	at org.eclipse.ant.internal.ui.model.AntModel.getProjectNode(AntModel.java:1518)
+	at org.eclipse.ant.internal.ui.model.AntModel.getProjectNode(AntModel.java:1531)
+	at org.eclipse.ant.internal.ui.editor.text.AntFoldingStructureProvider.updateFoldingRegions(AntFoldingStructureProvider.java:90)
+	at org.eclipse.ant.internal.ui.editor.AntEditor.projectionEnabled(AntEditor.java:1284)
+	at org.eclipse.jface.text.source.projection.ProjectionViewer.fireProjectionEnabled(ProjectionViewer.java:472)
+	at org.eclipse.jface.text.source.projection.ProjectionViewer.enableProjection(ProjectionViewer.java:520)
+	at org.eclipse.jface.text.source.projection.ProjectionViewer.doOperation(ProjectionViewer.java:1368)
+	at org.eclipse.ant.internal.ui.editor.AntEditor$StatusLineSourceViewer.doOperation(AntEditor.java:217)
+	at org.eclipse.ant.internal.ui.editor.AntEditor.createPartControl(AntEditor.java:998)
+	at org.eclipse.ui.internal.e4.compatibility.CompatibilityPart.createPartControl(CompatibilityPart.java:151)
+	at org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor.createPartControl(CompatibilityEditor.java:99)
+	at org.eclipse.ui.internal.e4.compatibility.CompatibilityPart.create(CompatibilityPart.java:355)
+	at sun.reflect.GeneratedMethodAccessor87.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.eclipse.e4.core.internal.di.MethodRequestor.execute(MethodRequestor.java:55)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.processAnnotated(InjectorImpl.java:990)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.processAnnotated(InjectorImpl.java:955)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.inject(InjectorImpl.java:124)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.internalMake(InjectorImpl.java:399)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.make(InjectorImpl.java:318)
+	at org.eclipse.e4.core.contexts.ContextInjectionFactory.make(ContextInjectionFactory.java:162)
+	at org.eclipse.e4.ui.internal.workbench.ReflectionContributionFactory.createFromBundle(ReflectionContributionFactory.java:105)
+	at org.eclipse.e4.ui.internal.workbench.ReflectionContributionFactory.doCreate(ReflectionContributionFactory.java:74)
+	at org.eclipse.e4.ui.internal.workbench.ReflectionContributionFactory.create(ReflectionContributionFactory.java:56)
+	at org.eclipse.e4.ui.workbench.renderers.swt.ContributedPartRenderer.createWidget(ContributedPartRenderer.java:129)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createWidget(PartRenderingEngine.java:997)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:666)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:772)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.access$0(PartRenderingEngine.java:743)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:737)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:721)
+	at org.eclipse.e4.ui.workbench.renderers.swt.StackRenderer.showTab(StackRenderer.java:1289)
+	at org.eclipse.e4.ui.workbench.renderers.swt.LazyStackRenderer.lambda$0(LazyStackRenderer.java:68)
+	at org.eclipse.e4.ui.services.internal.events.UIEventHandler$1.run(UIEventHandler.java:40)
+	at org.eclipse.swt.widgets.Synchronizer.syncExec(Synchronizer.java:233)
+	at org.eclipse.ui.internal.UISynchronizer.syncExec(UISynchronizer.java:144)
+	at org.eclipse.swt.widgets.Display.syncExec(Display.java:4889)
+	at org.eclipse.e4.ui.internal.workbench.swt.E4Application$1.syncExec(E4Application.java:212)
+	at org.eclipse.e4.ui.services.internal.events.UIEventHandler.handleEvent(UIEventHandler.java:36)
+	at org.eclipse.equinox.internal.event.EventHandlerWrapper.handleEvent(EventHandlerWrapper.java:201)
+	at org.eclipse.equinox.internal.event.EventHandlerTracker.dispatchEvent(EventHandlerTracker.java:197)
+	at org.eclipse.equinox.internal.event.EventHandlerTracker.dispatchEvent(EventHandlerTracker.java:1)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:230)
+	at org.eclipse.osgi.framework.eventmgr.ListenerQueue.dispatchEventSynchronous(ListenerQueue.java:148)
+	at org.eclipse.equinox.internal.event.EventAdminImpl.dispatchEvent(EventAdminImpl.java:135)
+	at org.eclipse.equinox.internal.event.EventAdminImpl.sendEvent(EventAdminImpl.java:78)
+	at org.eclipse.equinox.internal.event.EventComponent.sendEvent(EventComponent.java:39)
+	at org.eclipse.e4.ui.services.internal.events.EventBroker.send(EventBroker.java:52)
+	at org.eclipse.e4.ui.internal.workbench.UIEventPublisher.notifyChanged(UIEventPublisher.java:60)
+	at org.eclipse.emf.common.notify.impl.BasicNotifierImpl.eNotify(BasicNotifierImpl.java:374)
+	at org.eclipse.e4.ui.model.application.ui.impl.ElementContainerImpl.setSelectedElement(ElementContainerImpl.java:173)
+	at org.eclipse.e4.ui.internal.workbench.ModelServiceImpl.showElementInWindow(ModelServiceImpl.java:620)
+	at org.eclipse.e4.ui.internal.workbench.ModelServiceImpl.bringToTop(ModelServiceImpl.java:584)
+	at org.eclipse.e4.ui.internal.workbench.PartServiceImpl.delegateBringToTop(PartServiceImpl.java:768)
+	at org.eclipse.e4.ui.internal.workbench.PartServiceImpl.bringToTop(PartServiceImpl.java:401)
+	at org.eclipse.e4.ui.internal.workbench.PartServiceImpl.showPart(PartServiceImpl.java:1187)
+	at org.eclipse.ui.internal.WorkbenchPage.busyOpenEditor(WorkbenchPage.java:3261)
+	at org.eclipse.ui.internal.WorkbenchPage.access$25(WorkbenchPage.java:3176)
+	at org.eclipse.ui.internal.WorkbenchPage$10.run(WorkbenchPage.java:3158)
+	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:70)
+	at org.eclipse.ui.internal.WorkbenchPage.openEditor(WorkbenchPage.java:3153)
+	at org.eclipse.ui.internal.WorkbenchPage.openEditor(WorkbenchPage.java:3117)
+	at org.eclipse.ui.internal.WorkbenchPage.openEditor(WorkbenchPage.java:3107)
+	at org.eclipse.ui.ide.IDE.openEditor(IDE.java:563)
+	at org.eclipse.ui.ide.IDE.openEditor(IDE.java:518)
+	at org.eclipse.jdt.internal.ui.javaeditor.EditorUtility.openInEditor(EditorUtility.java:360)
+	at org.eclipse.jdt.internal.ui.javaeditor.EditorUtility.openInEditor(EditorUtility.java:167)
+	at org.eclipse.jdt.ui.actions.OpenAction.run(OpenAction.java:256)
+	at org.eclipse.jdt.ui.actions.OpenAction.run(OpenAction.java:221)
+	at org.eclipse.jdt.ui.actions.SelectionDispatchAction.dispatchRun(SelectionDispatchAction.java:271)
+	at org.eclipse.jdt.ui.actions.SelectionDispatchAction.run(SelectionDispatchAction.java:249)
+	at org.eclipse.jdt.internal.ui.navigator.OpenAndExpand.run(OpenAndExpand.java:50)
+	at org.eclipse.ui.actions.RetargetAction.run(RetargetAction.java:216)
+	at org.eclipse.ui.navigator.CommonNavigatorManager$2.open(CommonNavigatorManager.java:191)
+	at org.eclipse.ui.OpenAndLinkWithEditorHelper$InternalListener.open(OpenAndLinkWithEditorHelper.java:46)
+	at org.eclipse.jface.viewers.StructuredViewer$2.run(StructuredViewer.java:851)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.ui.internal.JFaceUtil.lambda$0(JFaceUtil.java:44)
+	at org.eclipse.jface.util.SafeRunnable.run(SafeRunnable.java:173)
+	at org.eclipse.jface.viewers.StructuredViewer.fireOpen(StructuredViewer.java:848)
+	at org.eclipse.jface.viewers.StructuredViewer.handleOpen(StructuredViewer.java:1163)
+	at org.eclipse.ui.navigator.CommonViewer.handleOpen(CommonViewer.java:451)
+	at org.eclipse.jface.util.OpenStrategy.fireOpenEvent(OpenStrategy.java:273)
+	at org.eclipse.jface.util.OpenStrategy.access$2(OpenStrategy.java:268)
+	at org.eclipse.jface.util.OpenStrategy$1.handleEvent(OpenStrategy.java:308)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:86)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4428)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1079)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4238)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3817)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1155)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:336)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1044)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:153)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:680)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:336)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:594)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:148)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:151)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:388)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:243)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:653)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:590)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1499)
+
+!ENTRY org.eclipse.pde.build 4 3 2017-11-22 16:37:11.183
+!MESSAGE Illegal character in path at index 16: file:/C:/Program Files/eclipse/plugins/org.eclipse.pde.build_3.9.300.v20170515-0912/templates/
+!STACK 0
+java.net.URISyntaxException: Illegal character in path at index 16: file:/C:/Program Files/eclipse/plugins/org.eclipse.pde.build_3.9.300.v20170515-0912/templates/
+	at java.net.URI$Parser.fail(URI.java:2848)
+	at java.net.URI$Parser.checkChars(URI.java:3021)
+	at java.net.URI$Parser.parseHierarchical(URI.java:3105)
+	at java.net.URI$Parser.parse(URI.java:3053)
+	at java.net.URI.<init>(URI.java:588)
+	at java.net.URL.toURI(URL.java:946)
+	at org.eclipse.pde.internal.build.properties.PDEProperties.getAntPropertyValue(PDEProperties.java:54)
+	at org.eclipse.ant.core.Property.getValue(Property.java:123)
+	at org.eclipse.ant.internal.ui.model.AntModel.setGlobalProperties(AntModel.java:551)
+	at org.eclipse.ant.internal.ui.model.AntModel.setProperties(AntModel.java:461)
+	at org.eclipse.ant.internal.ui.model.AntModel.initializeProject(AntModel.java:429)
+	at org.eclipse.ant.internal.ui.model.AntModel.prepareForFullParse(AntModel.java:396)
+	at org.eclipse.ant.internal.ui.model.AntModel.parseDocument(AntModel.java:355)
+	at org.eclipse.ant.internal.ui.model.AntModel.reconcile(AntModel.java:313)
+	at org.eclipse.ant.internal.ui.model.AntModel.getProjectNode(AntModel.java:1518)
+	at org.eclipse.ant.internal.ui.model.AntModel.getProjectNode(AntModel.java:1531)
+	at org.eclipse.ant.internal.ui.editor.text.AntFoldingStructureProvider.updateFoldingRegions(AntFoldingStructureProvider.java:90)
+	at org.eclipse.ant.internal.ui.editor.AntEditor.projectionEnabled(AntEditor.java:1284)
+	at org.eclipse.jface.text.source.projection.ProjectionViewer.fireProjectionEnabled(ProjectionViewer.java:472)
+	at org.eclipse.jface.text.source.projection.ProjectionViewer.enableProjection(ProjectionViewer.java:520)
+	at org.eclipse.jface.text.source.projection.ProjectionViewer.doOperation(ProjectionViewer.java:1368)
+	at org.eclipse.ant.internal.ui.editor.AntEditor$StatusLineSourceViewer.doOperation(AntEditor.java:217)
+	at org.eclipse.ant.internal.ui.editor.AntEditor.createPartControl(AntEditor.java:998)
+	at org.eclipse.ui.internal.e4.compatibility.CompatibilityPart.createPartControl(CompatibilityPart.java:151)
+	at org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor.createPartControl(CompatibilityEditor.java:99)
+	at org.eclipse.ui.internal.e4.compatibility.CompatibilityPart.create(CompatibilityPart.java:355)
+	at sun.reflect.GeneratedMethodAccessor87.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.eclipse.e4.core.internal.di.MethodRequestor.execute(MethodRequestor.java:55)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.processAnnotated(InjectorImpl.java:990)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.processAnnotated(InjectorImpl.java:955)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.inject(InjectorImpl.java:124)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.internalMake(InjectorImpl.java:399)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.make(InjectorImpl.java:318)
+	at org.eclipse.e4.core.contexts.ContextInjectionFactory.make(ContextInjectionFactory.java:162)
+	at org.eclipse.e4.ui.internal.workbench.ReflectionContributionFactory.createFromBundle(ReflectionContributionFactory.java:105)
+	at org.eclipse.e4.ui.internal.workbench.ReflectionContributionFactory.doCreate(ReflectionContributionFactory.java:74)
+	at org.eclipse.e4.ui.internal.workbench.ReflectionContributionFactory.create(ReflectionContributionFactory.java:56)
+	at org.eclipse.e4.ui.workbench.renderers.swt.ContributedPartRenderer.createWidget(ContributedPartRenderer.java:129)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createWidget(PartRenderingEngine.java:997)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:666)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:772)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.access$0(PartRenderingEngine.java:743)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:737)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:721)
+	at org.eclipse.e4.ui.workbench.renderers.swt.StackRenderer.showTab(StackRenderer.java:1289)
+	at org.eclipse.e4.ui.workbench.renderers.swt.LazyStackRenderer.lambda$0(LazyStackRenderer.java:68)
+	at org.eclipse.e4.ui.services.internal.events.UIEventHandler$1.run(UIEventHandler.java:40)
+	at org.eclipse.swt.widgets.Synchronizer.syncExec(Synchronizer.java:233)
+	at org.eclipse.ui.internal.UISynchronizer.syncExec(UISynchronizer.java:144)
+	at org.eclipse.swt.widgets.Display.syncExec(Display.java:4889)
+	at org.eclipse.e4.ui.internal.workbench.swt.E4Application$1.syncExec(E4Application.java:212)
+	at org.eclipse.e4.ui.services.internal.events.UIEventHandler.handleEvent(UIEventHandler.java:36)
+	at org.eclipse.equinox.internal.event.EventHandlerWrapper.handleEvent(EventHandlerWrapper.java:201)
+	at org.eclipse.equinox.internal.event.EventHandlerTracker.dispatchEvent(EventHandlerTracker.java:197)
+	at org.eclipse.equinox.internal.event.EventHandlerTracker.dispatchEvent(EventHandlerTracker.java:1)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:230)
+	at org.eclipse.osgi.framework.eventmgr.ListenerQueue.dispatchEventSynchronous(ListenerQueue.java:148)
+	at org.eclipse.equinox.internal.event.EventAdminImpl.dispatchEvent(EventAdminImpl.java:135)
+	at org.eclipse.equinox.internal.event.EventAdminImpl.sendEvent(EventAdminImpl.java:78)
+	at org.eclipse.equinox.internal.event.EventComponent.sendEvent(EventComponent.java:39)
+	at org.eclipse.e4.ui.services.internal.events.EventBroker.send(EventBroker.java:52)
+	at org.eclipse.e4.ui.internal.workbench.UIEventPublisher.notifyChanged(UIEventPublisher.java:60)
+	at org.eclipse.emf.common.notify.impl.BasicNotifierImpl.eNotify(BasicNotifierImpl.java:374)
+	at org.eclipse.e4.ui.model.application.ui.impl.ElementContainerImpl.setSelectedElement(ElementContainerImpl.java:173)
+	at org.eclipse.e4.ui.internal.workbench.ModelServiceImpl.showElementInWindow(ModelServiceImpl.java:620)
+	at org.eclipse.e4.ui.internal.workbench.ModelServiceImpl.bringToTop(ModelServiceImpl.java:584)
+	at org.eclipse.e4.ui.internal.workbench.PartServiceImpl.delegateBringToTop(PartServiceImpl.java:768)
+	at org.eclipse.e4.ui.internal.workbench.PartServiceImpl.bringToTop(PartServiceImpl.java:401)
+	at org.eclipse.e4.ui.internal.workbench.PartServiceImpl.showPart(PartServiceImpl.java:1187)
+	at org.eclipse.ui.internal.WorkbenchPage.busyOpenEditor(WorkbenchPage.java:3261)
+	at org.eclipse.ui.internal.WorkbenchPage.access$25(WorkbenchPage.java:3176)
+	at org.eclipse.ui.internal.WorkbenchPage$10.run(WorkbenchPage.java:3158)
+	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:70)
+	at org.eclipse.ui.internal.WorkbenchPage.openEditor(WorkbenchPage.java:3153)
+	at org.eclipse.ui.internal.WorkbenchPage.openEditor(WorkbenchPage.java:3117)
+	at org.eclipse.ui.internal.WorkbenchPage.openEditor(WorkbenchPage.java:3107)
+	at org.eclipse.ui.ide.IDE.openEditor(IDE.java:563)
+	at org.eclipse.ui.ide.IDE.openEditor(IDE.java:518)
+	at org.eclipse.jdt.internal.ui.javaeditor.EditorUtility.openInEditor(EditorUtility.java:360)
+	at org.eclipse.jdt.internal.ui.javaeditor.EditorUtility.openInEditor(EditorUtility.java:167)
+	at org.eclipse.jdt.ui.actions.OpenAction.run(OpenAction.java:256)
+	at org.eclipse.jdt.ui.actions.OpenAction.run(OpenAction.java:221)
+	at org.eclipse.jdt.ui.actions.SelectionDispatchAction.dispatchRun(SelectionDispatchAction.java:271)
+	at org.eclipse.jdt.ui.actions.SelectionDispatchAction.run(SelectionDispatchAction.java:249)
+	at org.eclipse.jdt.internal.ui.navigator.OpenAndExpand.run(OpenAndExpand.java:50)
+	at org.eclipse.ui.actions.RetargetAction.run(RetargetAction.java:216)
+	at org.eclipse.ui.navigator.CommonNavigatorManager$2.open(CommonNavigatorManager.java:191)
+	at org.eclipse.ui.OpenAndLinkWithEditorHelper$InternalListener.open(OpenAndLinkWithEditorHelper.java:46)
+	at org.eclipse.jface.viewers.StructuredViewer$2.run(StructuredViewer.java:851)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.ui.internal.JFaceUtil.lambda$0(JFaceUtil.java:44)
+	at org.eclipse.jface.util.SafeRunnable.run(SafeRunnable.java:173)
+	at org.eclipse.jface.viewers.StructuredViewer.fireOpen(StructuredViewer.java:848)
+	at org.eclipse.jface.viewers.StructuredViewer.handleOpen(StructuredViewer.java:1163)
+	at org.eclipse.ui.navigator.CommonViewer.handleOpen(CommonViewer.java:451)
+	at org.eclipse.jface.util.OpenStrategy.fireOpenEvent(OpenStrategy.java:273)
+	at org.eclipse.jface.util.OpenStrategy.access$2(OpenStrategy.java:268)
+	at org.eclipse.jface.util.OpenStrategy$1.handleEvent(OpenStrategy.java:308)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:86)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4428)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1079)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4238)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3817)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1155)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:336)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1044)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:153)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:680)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:336)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:594)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:148)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:151)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:388)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:243)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:653)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:590)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1499)
+
+!ENTRY org.infinitest.eclipse 1 0 2017-11-22 16:53:55.746
+!MESSAGE JeuAventure Files changed: [E:\S3\CPOA\tp1\JeuAventure\bin\Test\testArchi.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2017-11-22 16:53:55.762
+!MESSAGE JeuAventure Running tests: [Test.testArchi]
+
+!ENTRY org.infinitest.eclipse 1 0 2017-11-22 16:53:55.762
+!MESSAGE Launching test runner process with the following configuration:
+Directory: E:\S3\CPOA\tp1\JeuAventure
+Environment: {USERDOMAIN_ROAMINGPROFILE=B101P06, PROCESSOR_LEVEL=6, PYTHON_INCLUDE=C:\Python27\include, VS140COMNTOOLS=C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\Tools\, GRAILS_HOME=C:\Program Files\Apache Software Foundation\Grails, SESSIONNAME=Console, ALLUSERSPROFILE=C:\ProgramData, GDAL_DATA=C:\Python27\GDAL\data, PROCESSOR_ARCHITECTURE=AMD64, VirtualC=C:\Program Files (x86)\VirtualC\Virtual-C IDE\, PSModulePath=C:\Program Files (x86)\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules;C:\Program Files (x86)\AutoIt3\AutoItX;C:\Program Files (x86)\Microsoft SQL Server\130\Tools\PowerShell\Modules\;C:\Program Files (x86)\Google\Cloud SDK\google-cloud-sdk\platform\PowerShell, SystemDrive=C:, MAVEN_HOME=C:\Program Files\Apache Software Foundation\Maven, MOZ_PLUGIN_PATH=C:\Program Files\Tracker Software\PDF Viewer\Win32\, USERNAME=localuser, ProgramFiles(x86)=C:\Program Files (x86), PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC;.RB;.RBW;.CH;.PY;.PYW, PYTHON_LIB=C:\Python27\libs\python27.lib, ProgramData=C:\ProgramData, ProgramW6432=C:\Program Files, HOMEPATH=\Users\localuser, PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 94 Stepping 3, GenuineIntel, ProgramFiles=C:\Program Files, PUBLIC=C:\Users\Public, windir=C:\Windows, =::=::\, LOCALAPPDATA=C:\Users\localuser\AppData\Local, MSMPI_BIN=C:\Program Files\Microsoft MPI\Bin\, USERDOMAIN=B101P06, LOGONSERVER=\\B101P06, JAVA_HOME=C:\Program Files\Java\jdk1.8, GDAL_DRIVER_PATH=C:\Python27\Lib\site-packages\osgeo\gdalplugins, ANT_HOME=C:\Program Files\Apache Software Foundation\Ant, QT_DEVICE_PIXEL_RATIO=auto, APPDATA=C:\Users\localuser\AppData\Roaming, VBOX_MSI_INSTALL_PATH=C:\Program Files\Oracle\VirtualBox\, CommonProgramFiles=C:\Program Files\Common Files, Path=C:/Program Files/Java/jdk1.8/bin/../jre/bin/server;C:/Program Files/Java/jdk1.8/bin/../jre/bin;C:/Program Files/Java/jdk1.8/bin/../jre/lib/amd64;C:\Program Files\Java\jdk1.8\bin;C:\Program Files\Oracle\VirtualBox;C:\Program Files\Apache Software Foundation\Ant\bin;C:\Program Files\Apache Software Foundation\Grails\bin;C:\Program Files\Apache Software Foundation\Maven\bin;C:\Python27\Lib\site-packages\PyQt4;C:\Python34\Lib\site-packages\PyQt5;C:\Program Files\Microsoft MPI\Bin\;C:\Ruby22-x64\bin;C:\ProgramData\Oracle\Java\javapath;C:\Program Files\Runas;C:\Program Files\Sysinfo;C:\Oracle\product\11.2.0\client_1\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\PuTTY\;C:\Program Files (x86)\Windows Live\Shared;C:\Program Files\Git\cmd;C:\Program Files\TortoiseGit\bin;C:\Program Files\TortoiseSVN\bin;C:\Program Files\MySQL\MySQL Utilities 1.6\;C:\Ch\bin;C:\Program Files (x86)\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\130\DTS\Binn\;C:\Program Files\Microsoft SQL Server\130\DTS\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\130\Tools\Binn\;C:\Program Files\nodejs\;C:\Program Files (x86)\Microsoft SQL Server\Client SDK\ODBC\130\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\140\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\140\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\140\Tools\Binn\ManagementStudio\;C:\Python27;C:\Python27\DLLs;C:\Python27\Scripts;C:\Python27\Lib\site-packages\vtk;C:\Python27\gnuplot\binary;C:\Python27\Lib\site-packages\osgeo;C:\Python27\console;C:\Program Files (x86)\pythonxy\swig;C:\Python27\gettext\bin;C:\Program Files (x86)\Google\Cloud SDK\google-cloud-sdk\bin;C:\Program Files\Microsoft DNX\Dnvm\;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\Shield;C:\Users\localuser\AppData\Local\Microsoft\WindowsApps;C:\Users\localuser\AppData\Roaming\npm;C:\Program Files (x86)\Google\google_appengine\;C:\Program Files\Microsoft VS Code\bin;C:\Program Files\Eclipse;, PT7HOME=C:\Program Files\Cisco Packet Tracer 7.1, OS=Windows_NT, COMPUTERNAME=B101P06, PROCESSOR_REVISION=5e03, CommonProgramW6432=C:\Program Files\Common Files, CLASSPATH=E:\S3\CPOA\tp1\JeuAventure\bin;C:\Program Files\eclipse\plugins\org.junit_4.12.0.v201504281640\junit.jar;C:\Program Files\eclipse\plugins\org.hamcrest.core_1.3.0.v201303031735.jar;C:/Users/LOCALU~1/AppData/Local/Temp/infinitest.jar, ComSpec=C:\Windows\system32\cmd.exe, SystemRoot=C:\Windows, TEMP=C:\Users\LOCALU~1\AppData\Local\Temp, HOMEDRIVE=C:, PT6HOME=C:\Program Files (x86)\Cisco Packet Tracer 6.2, USERPROFILE=C:\Users\localuser, TMP=C:\Users\LOCALU~1\AppData\Local\Temp, CommonProgramFiles(x86)=C:\Program Files (x86)\Common Files, NUMBER_OF_PROCESSORS=8, SCITE_USERHOME=C:\Users\localuser\AppData\Local\AutoIt v3\SciTE}
+Command: [C:\Program Files\Java\jdk1.8\bin\java.exe, -mx256m, org.infinitest.testrunner.TestRunnerProcess, org.infinitest.testrunner.JUnit4Runner, 50440]
+
+!ENTRY org.infinitest.eclipse 1 0 2017-11-22 16:53:57.374
+!MESSAGE Update complete. Status PASSING
+
+!ENTRY org.infinitest.eclipse 1 0 2017-11-22 16:56:34.032
+!MESSAGE JeuAventure Files changed: [E:\S3\CPOA\tp1\JeuAventure\bin\Test\testArchi.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2017-11-22 16:56:35.350
+!MESSAGE JeuAventure Running tests: [Test.testArchi]
+
+!ENTRY org.infinitest.eclipse 1 0 2017-11-22 16:56:35.357
+!MESSAGE Launching test runner process with the following configuration:
+Directory: E:\S3\CPOA\tp1\JeuAventure
+Environment: {USERDOMAIN_ROAMINGPROFILE=B101P06, PROCESSOR_LEVEL=6, PYTHON_INCLUDE=C:\Python27\include, VS140COMNTOOLS=C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\Tools\, GRAILS_HOME=C:\Program Files\Apache Software Foundation\Grails, SESSIONNAME=Console, ALLUSERSPROFILE=C:\ProgramData, GDAL_DATA=C:\Python27\GDAL\data, PROCESSOR_ARCHITECTURE=AMD64, VirtualC=C:\Program Files (x86)\VirtualC\Virtual-C IDE\, PSModulePath=C:\Program Files (x86)\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules;C:\Program Files (x86)\AutoIt3\AutoItX;C:\Program Files (x86)\Microsoft SQL Server\130\Tools\PowerShell\Modules\;C:\Program Files (x86)\Google\Cloud SDK\google-cloud-sdk\platform\PowerShell, SystemDrive=C:, MAVEN_HOME=C:\Program Files\Apache Software Foundation\Maven, MOZ_PLUGIN_PATH=C:\Program Files\Tracker Software\PDF Viewer\Win32\, USERNAME=localuser, ProgramFiles(x86)=C:\Program Files (x86), PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC;.RB;.RBW;.CH;.PY;.PYW, PYTHON_LIB=C:\Python27\libs\python27.lib, ProgramData=C:\ProgramData, ProgramW6432=C:\Program Files, HOMEPATH=\Users\localuser, PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 94 Stepping 3, GenuineIntel, ProgramFiles=C:\Program Files, PUBLIC=C:\Users\Public, windir=C:\Windows, =::=::\, LOCALAPPDATA=C:\Users\localuser\AppData\Local, MSMPI_BIN=C:\Program Files\Microsoft MPI\Bin\, USERDOMAIN=B101P06, LOGONSERVER=\\B101P06, JAVA_HOME=C:\Program Files\Java\jdk1.8, GDAL_DRIVER_PATH=C:\Python27\Lib\site-packages\osgeo\gdalplugins, ANT_HOME=C:\Program Files\Apache Software Foundation\Ant, QT_DEVICE_PIXEL_RATIO=auto, APPDATA=C:\Users\localuser\AppData\Roaming, VBOX_MSI_INSTALL_PATH=C:\Program Files\Oracle\VirtualBox\, CommonProgramFiles=C:\Program Files\Common Files, Path=C:/Program Files/Java/jdk1.8/bin/../jre/bin/server;C:/Program Files/Java/jdk1.8/bin/../jre/bin;C:/Program Files/Java/jdk1.8/bin/../jre/lib/amd64;C:\Program Files\Java\jdk1.8\bin;C:\Program Files\Oracle\VirtualBox;C:\Program Files\Apache Software Foundation\Ant\bin;C:\Program Files\Apache Software Foundation\Grails\bin;C:\Program Files\Apache Software Foundation\Maven\bin;C:\Python27\Lib\site-packages\PyQt4;C:\Python34\Lib\site-packages\PyQt5;C:\Program Files\Microsoft MPI\Bin\;C:\Ruby22-x64\bin;C:\ProgramData\Oracle\Java\javapath;C:\Program Files\Runas;C:\Program Files\Sysinfo;C:\Oracle\product\11.2.0\client_1\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\PuTTY\;C:\Program Files (x86)\Windows Live\Shared;C:\Program Files\Git\cmd;C:\Program Files\TortoiseGit\bin;C:\Program Files\TortoiseSVN\bin;C:\Program Files\MySQL\MySQL Utilities 1.6\;C:\Ch\bin;C:\Program Files (x86)\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\130\DTS\Binn\;C:\Program Files\Microsoft SQL Server\130\DTS\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\130\Tools\Binn\;C:\Program Files\nodejs\;C:\Program Files (x86)\Microsoft SQL Server\Client SDK\ODBC\130\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\140\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\140\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\140\Tools\Binn\ManagementStudio\;C:\Python27;C:\Python27\DLLs;C:\Python27\Scripts;C:\Python27\Lib\site-packages\vtk;C:\Python27\gnuplot\binary;C:\Python27\Lib\site-packages\osgeo;C:\Python27\console;C:\Program Files (x86)\pythonxy\swig;C:\Python27\gettext\bin;C:\Program Files (x86)\Google\Cloud SDK\google-cloud-sdk\bin;C:\Program Files\Microsoft DNX\Dnvm\;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\Shield;C:\Users\localuser\AppData\Local\Microsoft\WindowsApps;C:\Users\localuser\AppData\Roaming\npm;C:\Program Files (x86)\Google\google_appengine\;C:\Program Files\Microsoft VS Code\bin;C:\Program Files\Eclipse;, PT7HOME=C:\Program Files\Cisco Packet Tracer 7.1, OS=Windows_NT, COMPUTERNAME=B101P06, PROCESSOR_REVISION=5e03, CommonProgramW6432=C:\Program Files\Common Files, CLASSPATH=E:\S3\CPOA\tp1\JeuAventure\bin;C:\Program Files\eclipse\plugins\org.junit_4.12.0.v201504281640\junit.jar;C:\Program Files\eclipse\plugins\org.hamcrest.core_1.3.0.v201303031735.jar;C:/Users/LOCALU~1/AppData/Local/Temp/infinitest.jar, ComSpec=C:\Windows\system32\cmd.exe, SystemRoot=C:\Windows, TEMP=C:\Users\LOCALU~1\AppData\Local\Temp, HOMEDRIVE=C:, PT6HOME=C:\Program Files (x86)\Cisco Packet Tracer 6.2, USERPROFILE=C:\Users\localuser, TMP=C:\Users\LOCALU~1\AppData\Local\Temp, CommonProgramFiles(x86)=C:\Program Files (x86)\Common Files, NUMBER_OF_PROCESSORS=8, SCITE_USERHOME=C:\Users\localuser\AppData\Local\AutoIt v3\SciTE}
+Command: [C:\Program Files\Java\jdk1.8\bin\java.exe, -mx256m, org.infinitest.testrunner.TestRunnerProcess, org.infinitest.testrunner.JUnit4Runner, 50447]
+
+!ENTRY org.infinitest.eclipse 1 0 2017-11-22 16:56:36.382
+!MESSAGE Update complete. Status PASSING
+
+!ENTRY org.infinitest.eclipse 1 0 2017-11-22 16:58:38.001
+!MESSAGE JeuAventure Files changed: [E:\S3\CPOA\tp1\JeuAventure\bin\Test\testArchi.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2017-11-22 16:58:38.737
+!MESSAGE JeuAventure Running tests: [Test.testArchi]
+
+!ENTRY org.infinitest.eclipse 1 0 2017-11-22 16:58:38.737
+!MESSAGE Launching test runner process with the following configuration:
+Directory: E:\S3\CPOA\tp1\JeuAventure
+Environment: {USERDOMAIN_ROAMINGPROFILE=B101P06, PROCESSOR_LEVEL=6, PYTHON_INCLUDE=C:\Python27\include, VS140COMNTOOLS=C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\Tools\, GRAILS_HOME=C:\Program Files\Apache Software Foundation\Grails, SESSIONNAME=Console, ALLUSERSPROFILE=C:\ProgramData, GDAL_DATA=C:\Python27\GDAL\data, PROCESSOR_ARCHITECTURE=AMD64, VirtualC=C:\Program Files (x86)\VirtualC\Virtual-C IDE\, PSModulePath=C:\Program Files (x86)\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules;C:\Program Files (x86)\AutoIt3\AutoItX;C:\Program Files (x86)\Microsoft SQL Server\130\Tools\PowerShell\Modules\;C:\Program Files (x86)\Google\Cloud SDK\google-cloud-sdk\platform\PowerShell, SystemDrive=C:, MAVEN_HOME=C:\Program Files\Apache Software Foundation\Maven, MOZ_PLUGIN_PATH=C:\Program Files\Tracker Software\PDF Viewer\Win32\, USERNAME=localuser, ProgramFiles(x86)=C:\Program Files (x86), PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC;.RB;.RBW;.CH;.PY;.PYW, PYTHON_LIB=C:\Python27\libs\python27.lib, ProgramData=C:\ProgramData, ProgramW6432=C:\Program Files, HOMEPATH=\Users\localuser, PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 94 Stepping 3, GenuineIntel, ProgramFiles=C:\Program Files, PUBLIC=C:\Users\Public, windir=C:\Windows, =::=::\, LOCALAPPDATA=C:\Users\localuser\AppData\Local, MSMPI_BIN=C:\Program Files\Microsoft MPI\Bin\, USERDOMAIN=B101P06, LOGONSERVER=\\B101P06, JAVA_HOME=C:\Program Files\Java\jdk1.8, GDAL_DRIVER_PATH=C:\Python27\Lib\site-packages\osgeo\gdalplugins, ANT_HOME=C:\Program Files\Apache Software Foundation\Ant, QT_DEVICE_PIXEL_RATIO=auto, APPDATA=C:\Users\localuser\AppData\Roaming, VBOX_MSI_INSTALL_PATH=C:\Program Files\Oracle\VirtualBox\, CommonProgramFiles=C:\Program Files\Common Files, Path=C:/Program Files/Java/jdk1.8/bin/../jre/bin/server;C:/Program Files/Java/jdk1.8/bin/../jre/bin;C:/Program Files/Java/jdk1.8/bin/../jre/lib/amd64;C:\Program Files\Java\jdk1.8\bin;C:\Program Files\Oracle\VirtualBox;C:\Program Files\Apache Software Foundation\Ant\bin;C:\Program Files\Apache Software Foundation\Grails\bin;C:\Program Files\Apache Software Foundation\Maven\bin;C:\Python27\Lib\site-packages\PyQt4;C:\Python34\Lib\site-packages\PyQt5;C:\Program Files\Microsoft MPI\Bin\;C:\Ruby22-x64\bin;C:\ProgramData\Oracle\Java\javapath;C:\Program Files\Runas;C:\Program Files\Sysinfo;C:\Oracle\product\11.2.0\client_1\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\PuTTY\;C:\Program Files (x86)\Windows Live\Shared;C:\Program Files\Git\cmd;C:\Program Files\TortoiseGit\bin;C:\Program Files\TortoiseSVN\bin;C:\Program Files\MySQL\MySQL Utilities 1.6\;C:\Ch\bin;C:\Program Files (x86)\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\130\DTS\Binn\;C:\Program Files\Microsoft SQL Server\130\DTS\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\130\Tools\Binn\;C:\Program Files\nodejs\;C:\Program Files (x86)\Microsoft SQL Server\Client SDK\ODBC\130\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\140\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\140\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\140\Tools\Binn\ManagementStudio\;C:\Python27;C:\Python27\DLLs;C:\Python27\Scripts;C:\Python27\Lib\site-packages\vtk;C:\Python27\gnuplot\binary;C:\Python27\Lib\site-packages\osgeo;C:\Python27\console;C:\Program Files (x86)\pythonxy\swig;C:\Python27\gettext\bin;C:\Program Files (x86)\Google\Cloud SDK\google-cloud-sdk\bin;C:\Program Files\Microsoft DNX\Dnvm\;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\Shield;C:\Users\localuser\AppData\Local\Microsoft\WindowsApps;C:\Users\localuser\AppData\Roaming\npm;C:\Program Files (x86)\Google\google_appengine\;C:\Program Files\Microsoft VS Code\bin;C:\Program Files\Eclipse;, PT7HOME=C:\Program Files\Cisco Packet Tracer 7.1, OS=Windows_NT, COMPUTERNAME=B101P06, PROCESSOR_REVISION=5e03, CommonProgramW6432=C:\Program Files\Common Files, CLASSPATH=E:\S3\CPOA\tp1\JeuAventure\bin;C:\Program Files\eclipse\plugins\org.junit_4.12.0.v201504281640\junit.jar;C:\Program Files\eclipse\plugins\org.hamcrest.core_1.3.0.v201303031735.jar;C:/Users/LOCALU~1/AppData/Local/Temp/infinitest.jar, ComSpec=C:\Windows\system32\cmd.exe, SystemRoot=C:\Windows, TEMP=C:\Users\LOCALU~1\AppData\Local\Temp, HOMEDRIVE=C:, PT6HOME=C:\Program Files (x86)\Cisco Packet Tracer 6.2, USERPROFILE=C:\Users\localuser, TMP=C:\Users\LOCALU~1\AppData\Local\Temp, CommonProgramFiles(x86)=C:\Program Files (x86)\Common Files, NUMBER_OF_PROCESSORS=8, SCITE_USERHOME=C:\Users\localuser\AppData\Local\AutoIt v3\SciTE}
+Command: [C:\Program Files\Java\jdk1.8\bin\java.exe, -mx256m, org.infinitest.testrunner.TestRunnerProcess, org.infinitest.testrunner.JUnit4Runner, 50450]
+
+!ENTRY org.infinitest.eclipse 1 0 2017-11-22 16:58:40.472
+!MESSAGE Update complete. Status PASSING
+
+!ENTRY org.infinitest.eclipse 1 0 2017-11-22 16:59:21.654
+!MESSAGE JeuAventure Files changed: [E:\S3\CPOA\tp1\JeuAventure\bin\Test\testArchi.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2017-11-22 16:59:21.654
+!MESSAGE JeuAventure Running tests: [Test.testArchi]
+
+!ENTRY org.infinitest.eclipse 1 0 2017-11-22 16:59:21.654
+!MESSAGE Launching test runner process with the following configuration:
+Directory: E:\S3\CPOA\tp1\JeuAventure
+Environment: {USERDOMAIN_ROAMINGPROFILE=B101P06, PROCESSOR_LEVEL=6, PYTHON_INCLUDE=C:\Python27\include, VS140COMNTOOLS=C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\Tools\, GRAILS_HOME=C:\Program Files\Apache Software Foundation\Grails, SESSIONNAME=Console, ALLUSERSPROFILE=C:\ProgramData, GDAL_DATA=C:\Python27\GDAL\data, PROCESSOR_ARCHITECTURE=AMD64, VirtualC=C:\Program Files (x86)\VirtualC\Virtual-C IDE\, PSModulePath=C:\Program Files (x86)\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules;C:\Program Files (x86)\AutoIt3\AutoItX;C:\Program Files (x86)\Microsoft SQL Server\130\Tools\PowerShell\Modules\;C:\Program Files (x86)\Google\Cloud SDK\google-cloud-sdk\platform\PowerShell, SystemDrive=C:, MAVEN_HOME=C:\Program Files\Apache Software Foundation\Maven, MOZ_PLUGIN_PATH=C:\Program Files\Tracker Software\PDF Viewer\Win32\, USERNAME=localuser, ProgramFiles(x86)=C:\Program Files (x86), PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC;.RB;.RBW;.CH;.PY;.PYW, PYTHON_LIB=C:\Python27\libs\python27.lib, ProgramData=C:\ProgramData, ProgramW6432=C:\Program Files, HOMEPATH=\Users\localuser, PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 94 Stepping 3, GenuineIntel, ProgramFiles=C:\Program Files, PUBLIC=C:\Users\Public, windir=C:\Windows, =::=::\, LOCALAPPDATA=C:\Users\localuser\AppData\Local, MSMPI_BIN=C:\Program Files\Microsoft MPI\Bin\, USERDOMAIN=B101P06, LOGONSERVER=\\B101P06, JAVA_HOME=C:\Program Files\Java\jdk1.8, GDAL_DRIVER_PATH=C:\Python27\Lib\site-packages\osgeo\gdalplugins, ANT_HOME=C:\Program Files\Apache Software Foundation\Ant, QT_DEVICE_PIXEL_RATIO=auto, APPDATA=C:\Users\localuser\AppData\Roaming, VBOX_MSI_INSTALL_PATH=C:\Program Files\Oracle\VirtualBox\, CommonProgramFiles=C:\Program Files\Common Files, Path=C:/Program Files/Java/jdk1.8/bin/../jre/bin/server;C:/Program Files/Java/jdk1.8/bin/../jre/bin;C:/Program Files/Java/jdk1.8/bin/../jre/lib/amd64;C:\Program Files\Java\jdk1.8\bin;C:\Program Files\Oracle\VirtualBox;C:\Program Files\Apache Software Foundation\Ant\bin;C:\Program Files\Apache Software Foundation\Grails\bin;C:\Program Files\Apache Software Foundation\Maven\bin;C:\Python27\Lib\site-packages\PyQt4;C:\Python34\Lib\site-packages\PyQt5;C:\Program Files\Microsoft MPI\Bin\;C:\Ruby22-x64\bin;C:\ProgramData\Oracle\Java\javapath;C:\Program Files\Runas;C:\Program Files\Sysinfo;C:\Oracle\product\11.2.0\client_1\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\PuTTY\;C:\Program Files (x86)\Windows Live\Shared;C:\Program Files\Git\cmd;C:\Program Files\TortoiseGit\bin;C:\Program Files\TortoiseSVN\bin;C:\Program Files\MySQL\MySQL Utilities 1.6\;C:\Ch\bin;C:\Program Files (x86)\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\130\DTS\Binn\;C:\Program Files\Microsoft SQL Server\130\DTS\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\130\Tools\Binn\;C:\Program Files\nodejs\;C:\Program Files (x86)\Microsoft SQL Server\Client SDK\ODBC\130\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\140\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\140\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\140\Tools\Binn\ManagementStudio\;C:\Python27;C:\Python27\DLLs;C:\Python27\Scripts;C:\Python27\Lib\site-packages\vtk;C:\Python27\gnuplot\binary;C:\Python27\Lib\site-packages\osgeo;C:\Python27\console;C:\Program Files (x86)\pythonxy\swig;C:\Python27\gettext\bin;C:\Program Files (x86)\Google\Cloud SDK\google-cloud-sdk\bin;C:\Program Files\Microsoft DNX\Dnvm\;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\Shield;C:\Users\localuser\AppData\Local\Microsoft\WindowsApps;C:\Users\localuser\AppData\Roaming\npm;C:\Program Files (x86)\Google\google_appengine\;C:\Program Files\Microsoft VS Code\bin;C:\Program Files\Eclipse;, PT7HOME=C:\Program Files\Cisco Packet Tracer 7.1, OS=Windows_NT, COMPUTERNAME=B101P06, PROCESSOR_REVISION=5e03, CommonProgramW6432=C:\Program Files\Common Files, CLASSPATH=E:\S3\CPOA\tp1\JeuAventure\bin;C:\Program Files\eclipse\plugins\org.junit_4.12.0.v201504281640\junit.jar;C:\Program Files\eclipse\plugins\org.hamcrest.core_1.3.0.v201303031735.jar;C:/Users/LOCALU~1/AppData/Local/Temp/infinitest.jar, ComSpec=C:\Windows\system32\cmd.exe, SystemRoot=C:\Windows, TEMP=C:\Users\LOCALU~1\AppData\Local\Temp, HOMEDRIVE=C:, PT6HOME=C:\Program Files (x86)\Cisco Packet Tracer 6.2, USERPROFILE=C:\Users\localuser, TMP=C:\Users\LOCALU~1\AppData\Local\Temp, CommonProgramFiles(x86)=C:\Program Files (x86)\Common Files, NUMBER_OF_PROCESSORS=8, SCITE_USERHOME=C:\Users\localuser\AppData\Local\AutoIt v3\SciTE}
+Command: [C:\Program Files\Java\jdk1.8\bin\java.exe, -mx256m, org.infinitest.testrunner.TestRunnerProcess, org.infinitest.testrunner.JUnit4Runner, 50456]
+
+!ENTRY org.infinitest.eclipse 1 0 2017-11-22 16:59:22.645
+!MESSAGE Update complete. Status PASSING
+
+!ENTRY org.infinitest.eclipse 1 0 2017-11-22 16:59:34.653
+!MESSAGE JeuAventure Files changed: [E:\S3\CPOA\tp1\JeuAventure\bin\Test\testArchi.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2017-11-22 16:59:34.653
+!MESSAGE JeuAventure Running tests: [Test.testArchi]
+
+!ENTRY org.infinitest.eclipse 1 0 2017-11-22 16:59:36.032
+!MESSAGE Launching test runner process with the following configuration:
+Directory: E:\S3\CPOA\tp1\JeuAventure
+Environment: {USERDOMAIN_ROAMINGPROFILE=B101P06, PROCESSOR_LEVEL=6, PYTHON_INCLUDE=C:\Python27\include, VS140COMNTOOLS=C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\Tools\, GRAILS_HOME=C:\Program Files\Apache Software Foundation\Grails, SESSIONNAME=Console, ALLUSERSPROFILE=C:\ProgramData, GDAL_DATA=C:\Python27\GDAL\data, PROCESSOR_ARCHITECTURE=AMD64, VirtualC=C:\Program Files (x86)\VirtualC\Virtual-C IDE\, PSModulePath=C:\Program Files (x86)\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules;C:\Program Files (x86)\AutoIt3\AutoItX;C:\Program Files (x86)\Microsoft SQL Server\130\Tools\PowerShell\Modules\;C:\Program Files (x86)\Google\Cloud SDK\google-cloud-sdk\platform\PowerShell, SystemDrive=C:, MAVEN_HOME=C:\Program Files\Apache Software Foundation\Maven, MOZ_PLUGIN_PATH=C:\Program Files\Tracker Software\PDF Viewer\Win32\, USERNAME=localuser, ProgramFiles(x86)=C:\Program Files (x86), PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC;.RB;.RBW;.CH;.PY;.PYW, PYTHON_LIB=C:\Python27\libs\python27.lib, ProgramData=C:\ProgramData, ProgramW6432=C:\Program Files, HOMEPATH=\Users\localuser, PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 94 Stepping 3, GenuineIntel, ProgramFiles=C:\Program Files, PUBLIC=C:\Users\Public, windir=C:\Windows, =::=::\, LOCALAPPDATA=C:\Users\localuser\AppData\Local, MSMPI_BIN=C:\Program Files\Microsoft MPI\Bin\, USERDOMAIN=B101P06, LOGONSERVER=\\B101P06, JAVA_HOME=C:\Program Files\Java\jdk1.8, GDAL_DRIVER_PATH=C:\Python27\Lib\site-packages\osgeo\gdalplugins, ANT_HOME=C:\Program Files\Apache Software Foundation\Ant, QT_DEVICE_PIXEL_RATIO=auto, APPDATA=C:\Users\localuser\AppData\Roaming, VBOX_MSI_INSTALL_PATH=C:\Program Files\Oracle\VirtualBox\, CommonProgramFiles=C:\Program Files\Common Files, Path=C:/Program Files/Java/jdk1.8/bin/../jre/bin/server;C:/Program Files/Java/jdk1.8/bin/../jre/bin;C:/Program Files/Java/jdk1.8/bin/../jre/lib/amd64;C:\Program Files\Java\jdk1.8\bin;C:\Program Files\Oracle\VirtualBox;C:\Program Files\Apache Software Foundation\Ant\bin;C:\Program Files\Apache Software Foundation\Grails\bin;C:\Program Files\Apache Software Foundation\Maven\bin;C:\Python27\Lib\site-packages\PyQt4;C:\Python34\Lib\site-packages\PyQt5;C:\Program Files\Microsoft MPI\Bin\;C:\Ruby22-x64\bin;C:\ProgramData\Oracle\Java\javapath;C:\Program Files\Runas;C:\Program Files\Sysinfo;C:\Oracle\product\11.2.0\client_1\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\PuTTY\;C:\Program Files (x86)\Windows Live\Shared;C:\Program Files\Git\cmd;C:\Program Files\TortoiseGit\bin;C:\Program Files\TortoiseSVN\bin;C:\Program Files\MySQL\MySQL Utilities 1.6\;C:\Ch\bin;C:\Program Files (x86)\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\130\DTS\Binn\;C:\Program Files\Microsoft SQL Server\130\DTS\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\130\Tools\Binn\;C:\Program Files\nodejs\;C:\Program Files (x86)\Microsoft SQL Server\Client SDK\ODBC\130\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\140\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\140\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\140\Tools\Binn\ManagementStudio\;C:\Python27;C:\Python27\DLLs;C:\Python27\Scripts;C:\Python27\Lib\site-packages\vtk;C:\Python27\gnuplot\binary;C:\Python27\Lib\site-packages\osgeo;C:\Python27\console;C:\Program Files (x86)\pythonxy\swig;C:\Python27\gettext\bin;C:\Program Files (x86)\Google\Cloud SDK\google-cloud-sdk\bin;C:\Program Files\Microsoft DNX\Dnvm\;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\Shield;C:\Users\localuser\AppData\Local\Microsoft\WindowsApps;C:\Users\localuser\AppData\Roaming\npm;C:\Program Files (x86)\Google\google_appengine\;C:\Program Files\Microsoft VS Code\bin;C:\Program Files\Eclipse;, PT7HOME=C:\Program Files\Cisco Packet Tracer 7.1, OS=Windows_NT, COMPUTERNAME=B101P06, PROCESSOR_REVISION=5e03, CommonProgramW6432=C:\Program Files\Common Files, CLASSPATH=E:\S3\CPOA\tp1\JeuAventure\bin;C:\Program Files\eclipse\plugins\org.junit_4.12.0.v201504281640\junit.jar;C:\Program Files\eclipse\plugins\org.hamcrest.core_1.3.0.v201303031735.jar;C:/Users/LOCALU~1/AppData/Local/Temp/infinitest.jar, ComSpec=C:\Windows\system32\cmd.exe, SystemRoot=C:\Windows, TEMP=C:\Users\LOCALU~1\AppData\Local\Temp, HOMEDRIVE=C:, PT6HOME=C:\Program Files (x86)\Cisco Packet Tracer 6.2, USERPROFILE=C:\Users\localuser, TMP=C:\Users\LOCALU~1\AppData\Local\Temp, CommonProgramFiles(x86)=C:\Program Files (x86)\Common Files, NUMBER_OF_PROCESSORS=8, SCITE_USERHOME=C:\Users\localuser\AppData\Local\AutoIt v3\SciTE}
+Command: [C:\Program Files\Java\jdk1.8\bin\java.exe, -mx256m, org.infinitest.testrunner.TestRunnerProcess, org.infinitest.testrunner.JUnit4Runner, 50461]
+
+!ENTRY org.infinitest.eclipse 1 0 2017-11-22 16:59:37.723
+!MESSAGE Update complete. Status PASSING
+
+!ENTRY org.infinitest.eclipse 1 0 2017-11-22 16:59:46.329
+!MESSAGE JeuAventure Files changed: [E:\S3\CPOA\tp1\JeuAventure\bin\Test\testArchi.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2017-11-22 16:59:46.984
+!MESSAGE JeuAventure Running tests: [Test.testArchi]
+
+!ENTRY org.infinitest.eclipse 1 0 2017-11-22 16:59:46.984
+!MESSAGE Launching test runner process with the following configuration:
+Directory: E:\S3\CPOA\tp1\JeuAventure
+Environment: {USERDOMAIN_ROAMINGPROFILE=B101P06, PROCESSOR_LEVEL=6, PYTHON_INCLUDE=C:\Python27\include, VS140COMNTOOLS=C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\Tools\, GRAILS_HOME=C:\Program Files\Apache Software Foundation\Grails, SESSIONNAME=Console, ALLUSERSPROFILE=C:\ProgramData, GDAL_DATA=C:\Python27\GDAL\data, PROCESSOR_ARCHITECTURE=AMD64, VirtualC=C:\Program Files (x86)\VirtualC\Virtual-C IDE\, PSModulePath=C:\Program Files (x86)\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules;C:\Program Files (x86)\AutoIt3\AutoItX;C:\Program Files (x86)\Microsoft SQL Server\130\Tools\PowerShell\Modules\;C:\Program Files (x86)\Google\Cloud SDK\google-cloud-sdk\platform\PowerShell, SystemDrive=C:, MAVEN_HOME=C:\Program Files\Apache Software Foundation\Maven, MOZ_PLUGIN_PATH=C:\Program Files\Tracker Software\PDF Viewer\Win32\, USERNAME=localuser, ProgramFiles(x86)=C:\Program Files (x86), PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC;.RB;.RBW;.CH;.PY;.PYW, PYTHON_LIB=C:\Python27\libs\python27.lib, ProgramData=C:\ProgramData, ProgramW6432=C:\Program Files, HOMEPATH=\Users\localuser, PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 94 Stepping 3, GenuineIntel, ProgramFiles=C:\Program Files, PUBLIC=C:\Users\Public, windir=C:\Windows, =::=::\, LOCALAPPDATA=C:\Users\localuser\AppData\Local, MSMPI_BIN=C:\Program Files\Microsoft MPI\Bin\, USERDOMAIN=B101P06, LOGONSERVER=\\B101P06, JAVA_HOME=C:\Program Files\Java\jdk1.8, GDAL_DRIVER_PATH=C:\Python27\Lib\site-packages\osgeo\gdalplugins, ANT_HOME=C:\Program Files\Apache Software Foundation\Ant, QT_DEVICE_PIXEL_RATIO=auto, APPDATA=C:\Users\localuser\AppData\Roaming, VBOX_MSI_INSTALL_PATH=C:\Program Files\Oracle\VirtualBox\, CommonProgramFiles=C:\Program Files\Common Files, Path=C:/Program Files/Java/jdk1.8/bin/../jre/bin/server;C:/Program Files/Java/jdk1.8/bin/../jre/bin;C:/Program Files/Java/jdk1.8/bin/../jre/lib/amd64;C:\Program Files\Java\jdk1.8\bin;C:\Program Files\Oracle\VirtualBox;C:\Program Files\Apache Software Foundation\Ant\bin;C:\Program Files\Apache Software Foundation\Grails\bin;C:\Program Files\Apache Software Foundation\Maven\bin;C:\Python27\Lib\site-packages\PyQt4;C:\Python34\Lib\site-packages\PyQt5;C:\Program Files\Microsoft MPI\Bin\;C:\Ruby22-x64\bin;C:\ProgramData\Oracle\Java\javapath;C:\Program Files\Runas;C:\Program Files\Sysinfo;C:\Oracle\product\11.2.0\client_1\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\PuTTY\;C:\Program Files (x86)\Windows Live\Shared;C:\Program Files\Git\cmd;C:\Program Files\TortoiseGit\bin;C:\Program Files\TortoiseSVN\bin;C:\Program Files\MySQL\MySQL Utilities 1.6\;C:\Ch\bin;C:\Program Files (x86)\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\130\DTS\Binn\;C:\Program Files\Microsoft SQL Server\130\DTS\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\130\Tools\Binn\;C:\Program Files\nodejs\;C:\Program Files (x86)\Microsoft SQL Server\Client SDK\ODBC\130\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\140\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\140\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\140\Tools\Binn\ManagementStudio\;C:\Python27;C:\Python27\DLLs;C:\Python27\Scripts;C:\Python27\Lib\site-packages\vtk;C:\Python27\gnuplot\binary;C:\Python27\Lib\site-packages\osgeo;C:\Python27\console;C:\Program Files (x86)\pythonxy\swig;C:\Python27\gettext\bin;C:\Program Files (x86)\Google\Cloud SDK\google-cloud-sdk\bin;C:\Program Files\Microsoft DNX\Dnvm\;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\Shield;C:\Users\localuser\AppData\Local\Microsoft\WindowsApps;C:\Users\localuser\AppData\Roaming\npm;C:\Program Files (x86)\Google\google_appengine\;C:\Program Files\Microsoft VS Code\bin;C:\Program Files\Eclipse;, PT7HOME=C:\Program Files\Cisco Packet Tracer 7.1, OS=Windows_NT, COMPUTERNAME=B101P06, PROCESSOR_REVISION=5e03, CommonProgramW6432=C:\Program Files\Common Files, CLASSPATH=E:\S3\CPOA\tp1\JeuAventure\bin;C:\Program Files\eclipse\plugins\org.junit_4.12.0.v201504281640\junit.jar;C:\Program Files\eclipse\plugins\org.hamcrest.core_1.3.0.v201303031735.jar;C:/Users/LOCALU~1/AppData/Local/Temp/infinitest.jar, ComSpec=C:\Windows\system32\cmd.exe, SystemRoot=C:\Windows, TEMP=C:\Users\LOCALU~1\AppData\Local\Temp, HOMEDRIVE=C:, PT6HOME=C:\Program Files (x86)\Cisco Packet Tracer 6.2, USERPROFILE=C:\Users\localuser, TMP=C:\Users\LOCALU~1\AppData\Local\Temp, CommonProgramFiles(x86)=C:\Program Files (x86)\Common Files, NUMBER_OF_PROCESSORS=8, SCITE_USERHOME=C:\Users\localuser\AppData\Local\AutoIt v3\SciTE}
+Command: [C:\Program Files\Java\jdk1.8\bin\java.exe, -mx256m, org.infinitest.testrunner.TestRunnerProcess, org.infinitest.testrunner.JUnit4Runner, 50463]
+
+!ENTRY org.infinitest.eclipse 1 0 2017-11-22 16:59:49.830
+!MESSAGE Update complete. Status PASSING
+
+!ENTRY org.infinitest.eclipse 1 0 2017-11-22 17:01:36.498
+!MESSAGE JeuAventure Files changed: [E:\S3\CPOA\tp1\JeuAventure\bin\Test\testArchi.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2017-11-22 17:01:36.498
+!MESSAGE JeuAventure Running tests: [Test.testArchi]
+
+!ENTRY org.infinitest.eclipse 1 0 2017-11-22 17:01:36.514
+!MESSAGE Launching test runner process with the following configuration:
+Directory: E:\S3\CPOA\tp1\JeuAventure
+Environment: {USERDOMAIN_ROAMINGPROFILE=B101P06, PROCESSOR_LEVEL=6, PYTHON_INCLUDE=C:\Python27\include, VS140COMNTOOLS=C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\Tools\, GRAILS_HOME=C:\Program Files\Apache Software Foundation\Grails, SESSIONNAME=Console, ALLUSERSPROFILE=C:\ProgramData, GDAL_DATA=C:\Python27\GDAL\data, PROCESSOR_ARCHITECTURE=AMD64, VirtualC=C:\Program Files (x86)\VirtualC\Virtual-C IDE\, PSModulePath=C:\Program Files (x86)\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules;C:\Program Files (x86)\AutoIt3\AutoItX;C:\Program Files (x86)\Microsoft SQL Server\130\Tools\PowerShell\Modules\;C:\Program Files (x86)\Google\Cloud SDK\google-cloud-sdk\platform\PowerShell, SystemDrive=C:, MAVEN_HOME=C:\Program Files\Apache Software Foundation\Maven, MOZ_PLUGIN_PATH=C:\Program Files\Tracker Software\PDF Viewer\Win32\, USERNAME=localuser, ProgramFiles(x86)=C:\Program Files (x86), PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC;.RB;.RBW;.CH;.PY;.PYW, PYTHON_LIB=C:\Python27\libs\python27.lib, ProgramData=C:\ProgramData, ProgramW6432=C:\Program Files, HOMEPATH=\Users\localuser, PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 94 Stepping 3, GenuineIntel, ProgramFiles=C:\Program Files, PUBLIC=C:\Users\Public, windir=C:\Windows, =::=::\, LOCALAPPDATA=C:\Users\localuser\AppData\Local, MSMPI_BIN=C:\Program Files\Microsoft MPI\Bin\, USERDOMAIN=B101P06, LOGONSERVER=\\B101P06, JAVA_HOME=C:\Program Files\Java\jdk1.8, GDAL_DRIVER_PATH=C:\Python27\Lib\site-packages\osgeo\gdalplugins, ANT_HOME=C:\Program Files\Apache Software Foundation\Ant, QT_DEVICE_PIXEL_RATIO=auto, APPDATA=C:\Users\localuser\AppData\Roaming, VBOX_MSI_INSTALL_PATH=C:\Program Files\Oracle\VirtualBox\, CommonProgramFiles=C:\Program Files\Common Files, Path=C:/Program Files/Java/jdk1.8/bin/../jre/bin/server;C:/Program Files/Java/jdk1.8/bin/../jre/bin;C:/Program Files/Java/jdk1.8/bin/../jre/lib/amd64;C:\Program Files\Java\jdk1.8\bin;C:\Program Files\Oracle\VirtualBox;C:\Program Files\Apache Software Foundation\Ant\bin;C:\Program Files\Apache Software Foundation\Grails\bin;C:\Program Files\Apache Software Foundation\Maven\bin;C:\Python27\Lib\site-packages\PyQt4;C:\Python34\Lib\site-packages\PyQt5;C:\Program Files\Microsoft MPI\Bin\;C:\Ruby22-x64\bin;C:\ProgramData\Oracle\Java\javapath;C:\Program Files\Runas;C:\Program Files\Sysinfo;C:\Oracle\product\11.2.0\client_1\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\PuTTY\;C:\Program Files (x86)\Windows Live\Shared;C:\Program Files\Git\cmd;C:\Program Files\TortoiseGit\bin;C:\Program Files\TortoiseSVN\bin;C:\Program Files\MySQL\MySQL Utilities 1.6\;C:\Ch\bin;C:\Program Files (x86)\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\130\DTS\Binn\;C:\Program Files\Microsoft SQL Server\130\DTS\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\130\Tools\Binn\;C:\Program Files\nodejs\;C:\Program Files (x86)\Microsoft SQL Server\Client SDK\ODBC\130\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\140\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\140\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\140\Tools\Binn\ManagementStudio\;C:\Python27;C:\Python27\DLLs;C:\Python27\Scripts;C:\Python27\Lib\site-packages\vtk;C:\Python27\gnuplot\binary;C:\Python27\Lib\site-packages\osgeo;C:\Python27\console;C:\Program Files (x86)\pythonxy\swig;C:\Python27\gettext\bin;C:\Program Files (x86)\Google\Cloud SDK\google-cloud-sdk\bin;C:\Program Files\Microsoft DNX\Dnvm\;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\Shield;C:\Users\localuser\AppData\Local\Microsoft\WindowsApps;C:\Users\localuser\AppData\Roaming\npm;C:\Program Files (x86)\Google\google_appengine\;C:\Program Files\Microsoft VS Code\bin;C:\Program Files\Eclipse;, PT7HOME=C:\Program Files\Cisco Packet Tracer 7.1, OS=Windows_NT, COMPUTERNAME=B101P06, PROCESSOR_REVISION=5e03, CommonProgramW6432=C:\Program Files\Common Files, CLASSPATH=E:\S3\CPOA\tp1\JeuAventure\bin;C:\Program Files\eclipse\plugins\org.junit_4.12.0.v201504281640\junit.jar;C:\Program Files\eclipse\plugins\org.hamcrest.core_1.3.0.v201303031735.jar;C:/Users/LOCALU~1/AppData/Local/Temp/infinitest.jar, ComSpec=C:\Windows\system32\cmd.exe, SystemRoot=C:\Windows, TEMP=C:\Users\LOCALU~1\AppData\Local\Temp, HOMEDRIVE=C:, PT6HOME=C:\Program Files (x86)\Cisco Packet Tracer 6.2, USERPROFILE=C:\Users\localuser, TMP=C:\Users\LOCALU~1\AppData\Local\Temp, CommonProgramFiles(x86)=C:\Program Files (x86)\Common Files, NUMBER_OF_PROCESSORS=8, SCITE_USERHOME=C:\Users\localuser\AppData\Local\AutoIt v3\SciTE}
+Command: [C:\Program Files\Java\jdk1.8\bin\java.exe, -mx256m, org.infinitest.testrunner.TestRunnerProcess, org.infinitest.testrunner.JUnit4Runner, 50465]
+
+!ENTRY org.infinitest.eclipse 1 0 2017-11-22 17:01:36.747
+!MESSAGE Update complete. Status PASSING
+
+!ENTRY org.infinitest.eclipse 1 0 2017-11-22 17:01:55.789
+!MESSAGE JeuAventure Files changed: [E:\S3\CPOA\tp1\JeuAventure\bin\Test\testArchi.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2017-11-22 17:01:55.789
+!MESSAGE JeuAventure Running tests: [Test.testArchi]
+
+!ENTRY org.infinitest.eclipse 1 0 2017-11-22 17:01:55.804
+!MESSAGE Launching test runner process with the following configuration:
+Directory: E:\S3\CPOA\tp1\JeuAventure
+Environment: {USERDOMAIN_ROAMINGPROFILE=B101P06, PROCESSOR_LEVEL=6, PYTHON_INCLUDE=C:\Python27\include, VS140COMNTOOLS=C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\Tools\, GRAILS_HOME=C:\Program Files\Apache Software Foundation\Grails, SESSIONNAME=Console, ALLUSERSPROFILE=C:\ProgramData, GDAL_DATA=C:\Python27\GDAL\data, PROCESSOR_ARCHITECTURE=AMD64, VirtualC=C:\Program Files (x86)\VirtualC\Virtual-C IDE\, PSModulePath=C:\Program Files (x86)\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules;C:\Program Files (x86)\AutoIt3\AutoItX;C:\Program Files (x86)\Microsoft SQL Server\130\Tools\PowerShell\Modules\;C:\Program Files (x86)\Google\Cloud SDK\google-cloud-sdk\platform\PowerShell, SystemDrive=C:, MAVEN_HOME=C:\Program Files\Apache Software Foundation\Maven, MOZ_PLUGIN_PATH=C:\Program Files\Tracker Software\PDF Viewer\Win32\, USERNAME=localuser, ProgramFiles(x86)=C:\Program Files (x86), PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC;.RB;.RBW;.CH;.PY;.PYW, PYTHON_LIB=C:\Python27\libs\python27.lib, ProgramData=C:\ProgramData, ProgramW6432=C:\Program Files, HOMEPATH=\Users\localuser, PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 94 Stepping 3, GenuineIntel, ProgramFiles=C:\Program Files, PUBLIC=C:\Users\Public, windir=C:\Windows, =::=::\, LOCALAPPDATA=C:\Users\localuser\AppData\Local, MSMPI_BIN=C:\Program Files\Microsoft MPI\Bin\, USERDOMAIN=B101P06, LOGONSERVER=\\B101P06, JAVA_HOME=C:\Program Files\Java\jdk1.8, GDAL_DRIVER_PATH=C:\Python27\Lib\site-packages\osgeo\gdalplugins, ANT_HOME=C:\Program Files\Apache Software Foundation\Ant, QT_DEVICE_PIXEL_RATIO=auto, APPDATA=C:\Users\localuser\AppData\Roaming, VBOX_MSI_INSTALL_PATH=C:\Program Files\Oracle\VirtualBox\, CommonProgramFiles=C:\Program Files\Common Files, Path=C:/Program Files/Java/jdk1.8/bin/../jre/bin/server;C:/Program Files/Java/jdk1.8/bin/../jre/bin;C:/Program Files/Java/jdk1.8/bin/../jre/lib/amd64;C:\Program Files\Java\jdk1.8\bin;C:\Program Files\Oracle\VirtualBox;C:\Program Files\Apache Software Foundation\Ant\bin;C:\Program Files\Apache Software Foundation\Grails\bin;C:\Program Files\Apache Software Foundation\Maven\bin;C:\Python27\Lib\site-packages\PyQt4;C:\Python34\Lib\site-packages\PyQt5;C:\Program Files\Microsoft MPI\Bin\;C:\Ruby22-x64\bin;C:\ProgramData\Oracle\Java\javapath;C:\Program Files\Runas;C:\Program Files\Sysinfo;C:\Oracle\product\11.2.0\client_1\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\PuTTY\;C:\Program Files (x86)\Windows Live\Shared;C:\Program Files\Git\cmd;C:\Program Files\TortoiseGit\bin;C:\Program Files\TortoiseSVN\bin;C:\Program Files\MySQL\MySQL Utilities 1.6\;C:\Ch\bin;C:\Program Files (x86)\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\130\DTS\Binn\;C:\Program Files\Microsoft SQL Server\130\DTS\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\130\Tools\Binn\;C:\Program Files\nodejs\;C:\Program Files (x86)\Microsoft SQL Server\Client SDK\ODBC\130\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\140\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\140\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\140\Tools\Binn\ManagementStudio\;C:\Python27;C:\Python27\DLLs;C:\Python27\Scripts;C:\Python27\Lib\site-packages\vtk;C:\Python27\gnuplot\binary;C:\Python27\Lib\site-packages\osgeo;C:\Python27\console;C:\Program Files (x86)\pythonxy\swig;C:\Python27\gettext\bin;C:\Program Files (x86)\Google\Cloud SDK\google-cloud-sdk\bin;C:\Program Files\Microsoft DNX\Dnvm\;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\Shield;C:\Users\localuser\AppData\Local\Microsoft\WindowsApps;C:\Users\localuser\AppData\Roaming\npm;C:\Program Files (x86)\Google\google_appengine\;C:\Program Files\Microsoft VS Code\bin;C:\Program Files\Eclipse;, PT7HOME=C:\Program Files\Cisco Packet Tracer 7.1, OS=Windows_NT, COMPUTERNAME=B101P06, PROCESSOR_REVISION=5e03, CommonProgramW6432=C:\Program Files\Common Files, CLASSPATH=E:\S3\CPOA\tp1\JeuAventure\bin;C:\Program Files\eclipse\plugins\org.junit_4.12.0.v201504281640\junit.jar;C:\Program Files\eclipse\plugins\org.hamcrest.core_1.3.0.v201303031735.jar;C:/Users/LOCALU~1/AppData/Local/Temp/infinitest.jar, ComSpec=C:\Windows\system32\cmd.exe, SystemRoot=C:\Windows, TEMP=C:\Users\LOCALU~1\AppData\Local\Temp, HOMEDRIVE=C:, PT6HOME=C:\Program Files (x86)\Cisco Packet Tracer 6.2, USERPROFILE=C:\Users\localuser, TMP=C:\Users\LOCALU~1\AppData\Local\Temp, CommonProgramFiles(x86)=C:\Program Files (x86)\Common Files, NUMBER_OF_PROCESSORS=8, SCITE_USERHOME=C:\Users\localuser\AppData\Local\AutoIt v3\SciTE}
+Command: [C:\Program Files\Java\jdk1.8\bin\java.exe, -mx256m, org.infinitest.testrunner.TestRunnerProcess, org.infinitest.testrunner.JUnit4Runner, 50467]
+
+!ENTRY org.infinitest.eclipse 1 0 2017-11-22 17:01:57.399
+!MESSAGE Update complete. Status PASSING
+
+!ENTRY org.infinitest.eclipse 1 0 2017-11-22 17:02:54.637
+!MESSAGE JeuAventure Files changed: [E:\S3\CPOA\tp1\JeuAventure\bin\Test\testArchi.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2017-11-22 17:02:54.637
+!MESSAGE JeuAventure Running tests: [Test.testArchi]
+
+!ENTRY org.infinitest.eclipse 1 0 2017-11-22 17:02:54.637
+!MESSAGE Launching test runner process with the following configuration:
+Directory: E:\S3\CPOA\tp1\JeuAventure
+Environment: {USERDOMAIN_ROAMINGPROFILE=B101P06, PROCESSOR_LEVEL=6, PYTHON_INCLUDE=C:\Python27\include, VS140COMNTOOLS=C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\Tools\, GRAILS_HOME=C:\Program Files\Apache Software Foundation\Grails, SESSIONNAME=Console, ALLUSERSPROFILE=C:\ProgramData, GDAL_DATA=C:\Python27\GDAL\data, PROCESSOR_ARCHITECTURE=AMD64, VirtualC=C:\Program Files (x86)\VirtualC\Virtual-C IDE\, PSModulePath=C:\Program Files (x86)\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules;C:\Program Files (x86)\AutoIt3\AutoItX;C:\Program Files (x86)\Microsoft SQL Server\130\Tools\PowerShell\Modules\;C:\Program Files (x86)\Google\Cloud SDK\google-cloud-sdk\platform\PowerShell, SystemDrive=C:, MAVEN_HOME=C:\Program Files\Apache Software Foundation\Maven, MOZ_PLUGIN_PATH=C:\Program Files\Tracker Software\PDF Viewer\Win32\, USERNAME=localuser, ProgramFiles(x86)=C:\Program Files (x86), PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC;.RB;.RBW;.CH;.PY;.PYW, PYTHON_LIB=C:\Python27\libs\python27.lib, ProgramData=C:\ProgramData, ProgramW6432=C:\Program Files, HOMEPATH=\Users\localuser, PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 94 Stepping 3, GenuineIntel, ProgramFiles=C:\Program Files, PUBLIC=C:\Users\Public, windir=C:\Windows, =::=::\, LOCALAPPDATA=C:\Users\localuser\AppData\Local, MSMPI_BIN=C:\Program Files\Microsoft MPI\Bin\, USERDOMAIN=B101P06, LOGONSERVER=\\B101P06, JAVA_HOME=C:\Program Files\Java\jdk1.8, GDAL_DRIVER_PATH=C:\Python27\Lib\site-packages\osgeo\gdalplugins, ANT_HOME=C:\Program Files\Apache Software Foundation\Ant, QT_DEVICE_PIXEL_RATIO=auto, APPDATA=C:\Users\localuser\AppData\Roaming, VBOX_MSI_INSTALL_PATH=C:\Program Files\Oracle\VirtualBox\, CommonProgramFiles=C:\Program Files\Common Files, Path=C:/Program Files/Java/jdk1.8/bin/../jre/bin/server;C:/Program Files/Java/jdk1.8/bin/../jre/bin;C:/Program Files/Java/jdk1.8/bin/../jre/lib/amd64;C:\Program Files\Java\jdk1.8\bin;C:\Program Files\Oracle\VirtualBox;C:\Program Files\Apache Software Foundation\Ant\bin;C:\Program Files\Apache Software Foundation\Grails\bin;C:\Program Files\Apache Software Foundation\Maven\bin;C:\Python27\Lib\site-packages\PyQt4;C:\Python34\Lib\site-packages\PyQt5;C:\Program Files\Microsoft MPI\Bin\;C:\Ruby22-x64\bin;C:\ProgramData\Oracle\Java\javapath;C:\Program Files\Runas;C:\Program Files\Sysinfo;C:\Oracle\product\11.2.0\client_1\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\PuTTY\;C:\Program Files (x86)\Windows Live\Shared;C:\Program Files\Git\cmd;C:\Program Files\TortoiseGit\bin;C:\Program Files\TortoiseSVN\bin;C:\Program Files\MySQL\MySQL Utilities 1.6\;C:\Ch\bin;C:\Program Files (x86)\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\130\DTS\Binn\;C:\Program Files\Microsoft SQL Server\130\DTS\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\130\Tools\Binn\;C:\Program Files\nodejs\;C:\Program Files (x86)\Microsoft SQL Server\Client SDK\ODBC\130\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\140\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\140\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\140\Tools\Binn\ManagementStudio\;C:\Python27;C:\Python27\DLLs;C:\Python27\Scripts;C:\Python27\Lib\site-packages\vtk;C:\Python27\gnuplot\binary;C:\Python27\Lib\site-packages\osgeo;C:\Python27\console;C:\Program Files (x86)\pythonxy\swig;C:\Python27\gettext\bin;C:\Program Files (x86)\Google\Cloud SDK\google-cloud-sdk\bin;C:\Program Files\Microsoft DNX\Dnvm\;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\Shield;C:\Users\localuser\AppData\Local\Microsoft\WindowsApps;C:\Users\localuser\AppData\Roaming\npm;C:\Program Files (x86)\Google\google_appengine\;C:\Program Files\Microsoft VS Code\bin;C:\Program Files\Eclipse;, PT7HOME=C:\Program Files\Cisco Packet Tracer 7.1, OS=Windows_NT, COMPUTERNAME=B101P06, PROCESSOR_REVISION=5e03, CommonProgramW6432=C:\Program Files\Common Files, CLASSPATH=E:\S3\CPOA\tp1\JeuAventure\bin;C:\Program Files\eclipse\plugins\org.junit_4.12.0.v201504281640\junit.jar;C:\Program Files\eclipse\plugins\org.hamcrest.core_1.3.0.v201303031735.jar;C:/Users/LOCALU~1/AppData/Local/Temp/infinitest.jar, ComSpec=C:\Windows\system32\cmd.exe, SystemRoot=C:\Windows, TEMP=C:\Users\LOCALU~1\AppData\Local\Temp, HOMEDRIVE=C:, PT6HOME=C:\Program Files (x86)\Cisco Packet Tracer 6.2, USERPROFILE=C:\Users\localuser, TMP=C:\Users\LOCALU~1\AppData\Local\Temp, CommonProgramFiles(x86)=C:\Program Files (x86)\Common Files, NUMBER_OF_PROCESSORS=8, SCITE_USERHOME=C:\Users\localuser\AppData\Local\AutoIt v3\SciTE}
+Command: [C:\Program Files\Java\jdk1.8\bin\java.exe, -mx256m, org.infinitest.testrunner.TestRunnerProcess, org.infinitest.testrunner.JUnit4Runner, 50472]
+
+!ENTRY org.infinitest.eclipse 1 0 2017-11-22 17:02:56.313
+!MESSAGE Update complete. Status PASSING
+
+!ENTRY org.infinitest.eclipse 1 0 2017-11-22 17:03:07.634
+!MESSAGE JeuAventure Files changed: [E:\S3\CPOA\tp1\JeuAventure\bin\Test\testArchi.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2017-11-22 17:03:07.649
+!MESSAGE JeuAventure Running tests: [Test.testArchi]
+
+!ENTRY org.infinitest.eclipse 1 0 2017-11-22 17:03:07.649
+!MESSAGE Launching test runner process with the following configuration:
+Directory: E:\S3\CPOA\tp1\JeuAventure
+Environment: {USERDOMAIN_ROAMINGPROFILE=B101P06, PROCESSOR_LEVEL=6, PYTHON_INCLUDE=C:\Python27\include, VS140COMNTOOLS=C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\Tools\, GRAILS_HOME=C:\Program Files\Apache Software Foundation\Grails, SESSIONNAME=Console, ALLUSERSPROFILE=C:\ProgramData, GDAL_DATA=C:\Python27\GDAL\data, PROCESSOR_ARCHITECTURE=AMD64, VirtualC=C:\Program Files (x86)\VirtualC\Virtual-C IDE\, PSModulePath=C:\Program Files (x86)\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules;C:\Program Files (x86)\AutoIt3\AutoItX;C:\Program Files (x86)\Microsoft SQL Server\130\Tools\PowerShell\Modules\;C:\Program Files (x86)\Google\Cloud SDK\google-cloud-sdk\platform\PowerShell, SystemDrive=C:, MAVEN_HOME=C:\Program Files\Apache Software Foundation\Maven, MOZ_PLUGIN_PATH=C:\Program Files\Tracker Software\PDF Viewer\Win32\, USERNAME=localuser, ProgramFiles(x86)=C:\Program Files (x86), PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC;.RB;.RBW;.CH;.PY;.PYW, PYTHON_LIB=C:\Python27\libs\python27.lib, ProgramData=C:\ProgramData, ProgramW6432=C:\Program Files, HOMEPATH=\Users\localuser, PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 94 Stepping 3, GenuineIntel, ProgramFiles=C:\Program Files, PUBLIC=C:\Users\Public, windir=C:\Windows, =::=::\, LOCALAPPDATA=C:\Users\localuser\AppData\Local, MSMPI_BIN=C:\Program Files\Microsoft MPI\Bin\, USERDOMAIN=B101P06, LOGONSERVER=\\B101P06, JAVA_HOME=C:\Program Files\Java\jdk1.8, GDAL_DRIVER_PATH=C:\Python27\Lib\site-packages\osgeo\gdalplugins, ANT_HOME=C:\Program Files\Apache Software Foundation\Ant, QT_DEVICE_PIXEL_RATIO=auto, APPDATA=C:\Users\localuser\AppData\Roaming, VBOX_MSI_INSTALL_PATH=C:\Program Files\Oracle\VirtualBox\, CommonProgramFiles=C:\Program Files\Common Files, Path=C:/Program Files/Java/jdk1.8/bin/../jre/bin/server;C:/Program Files/Java/jdk1.8/bin/../jre/bin;C:/Program Files/Java/jdk1.8/bin/../jre/lib/amd64;C:\Program Files\Java\jdk1.8\bin;C:\Program Files\Oracle\VirtualBox;C:\Program Files\Apache Software Foundation\Ant\bin;C:\Program Files\Apache Software Foundation\Grails\bin;C:\Program Files\Apache Software Foundation\Maven\bin;C:\Python27\Lib\site-packages\PyQt4;C:\Python34\Lib\site-packages\PyQt5;C:\Program Files\Microsoft MPI\Bin\;C:\Ruby22-x64\bin;C:\ProgramData\Oracle\Java\javapath;C:\Program Files\Runas;C:\Program Files\Sysinfo;C:\Oracle\product\11.2.0\client_1\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\PuTTY\;C:\Program Files (x86)\Windows Live\Shared;C:\Program Files\Git\cmd;C:\Program Files\TortoiseGit\bin;C:\Program Files\TortoiseSVN\bin;C:\Program Files\MySQL\MySQL Utilities 1.6\;C:\Ch\bin;C:\Program Files (x86)\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\130\DTS\Binn\;C:\Program Files\Microsoft SQL Server\130\DTS\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\130\Tools\Binn\;C:\Program Files\nodejs\;C:\Program Files (x86)\Microsoft SQL Server\Client SDK\ODBC\130\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\140\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\140\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\140\Tools\Binn\ManagementStudio\;C:\Python27;C:\Python27\DLLs;C:\Python27\Scripts;C:\Python27\Lib\site-packages\vtk;C:\Python27\gnuplot\binary;C:\Python27\Lib\site-packages\osgeo;C:\Python27\console;C:\Program Files (x86)\pythonxy\swig;C:\Python27\gettext\bin;C:\Program Files (x86)\Google\Cloud SDK\google-cloud-sdk\bin;C:\Program Files\Microsoft DNX\Dnvm\;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\Shield;C:\Users\localuser\AppData\Local\Microsoft\WindowsApps;C:\Users\localuser\AppData\Roaming\npm;C:\Program Files (x86)\Google\google_appengine\;C:\Program Files\Microsoft VS Code\bin;C:\Program Files\Eclipse;, PT7HOME=C:\Program Files\Cisco Packet Tracer 7.1, OS=Windows_NT, COMPUTERNAME=B101P06, PROCESSOR_REVISION=5e03, CommonProgramW6432=C:\Program Files\Common Files, CLASSPATH=E:\S3\CPOA\tp1\JeuAventure\bin;C:\Program Files\eclipse\plugins\org.junit_4.12.0.v201504281640\junit.jar;C:\Program Files\eclipse\plugins\org.hamcrest.core_1.3.0.v201303031735.jar;C:/Users/LOCALU~1/AppData/Local/Temp/infinitest.jar, ComSpec=C:\Windows\system32\cmd.exe, SystemRoot=C:\Windows, TEMP=C:\Users\LOCALU~1\AppData\Local\Temp, HOMEDRIVE=C:, PT6HOME=C:\Program Files (x86)\Cisco Packet Tracer 6.2, USERPROFILE=C:\Users\localuser, TMP=C:\Users\LOCALU~1\AppData\Local\Temp, CommonProgramFiles(x86)=C:\Program Files (x86)\Common Files, NUMBER_OF_PROCESSORS=8, SCITE_USERHOME=C:\Users\localuser\AppData\Local\AutoIt v3\SciTE}
+Command: [C:\Program Files\Java\jdk1.8\bin\java.exe, -mx256m, org.infinitest.testrunner.TestRunnerProcess, org.infinitest.testrunner.JUnit4Runner, 50475]
+
+!ENTRY org.infinitest.eclipse 1 0 2017-11-22 17:03:09.213
+!MESSAGE Update complete. Status PASSING
+
+!ENTRY org.infinitest.eclipse 1 0 2017-11-22 17:04:01.914
+!MESSAGE JeuAventure Files changed: [E:\S3\CPOA\tp1\JeuAventure\bin\Test\testArchi.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2017-11-22 17:04:01.914
+!MESSAGE JeuAventure Running tests: [Test.testArchi]
+
+!ENTRY org.infinitest.eclipse 1 0 2017-11-22 17:04:01.930
+!MESSAGE Launching test runner process with the following configuration:
+Directory: E:\S3\CPOA\tp1\JeuAventure
+Environment: {USERDOMAIN_ROAMINGPROFILE=B101P06, PROCESSOR_LEVEL=6, PYTHON_INCLUDE=C:\Python27\include, VS140COMNTOOLS=C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\Tools\, GRAILS_HOME=C:\Program Files\Apache Software Foundation\Grails, SESSIONNAME=Console, ALLUSERSPROFILE=C:\ProgramData, GDAL_DATA=C:\Python27\GDAL\data, PROCESSOR_ARCHITECTURE=AMD64, VirtualC=C:\Program Files (x86)\VirtualC\Virtual-C IDE\, PSModulePath=C:\Program Files (x86)\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules;C:\Program Files (x86)\AutoIt3\AutoItX;C:\Program Files (x86)\Microsoft SQL Server\130\Tools\PowerShell\Modules\;C:\Program Files (x86)\Google\Cloud SDK\google-cloud-sdk\platform\PowerShell, SystemDrive=C:, MAVEN_HOME=C:\Program Files\Apache Software Foundation\Maven, MOZ_PLUGIN_PATH=C:\Program Files\Tracker Software\PDF Viewer\Win32\, USERNAME=localuser, ProgramFiles(x86)=C:\Program Files (x86), PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC;.RB;.RBW;.CH;.PY;.PYW, PYTHON_LIB=C:\Python27\libs\python27.lib, ProgramData=C:\ProgramData, ProgramW6432=C:\Program Files, HOMEPATH=\Users\localuser, PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 94 Stepping 3, GenuineIntel, ProgramFiles=C:\Program Files, PUBLIC=C:\Users\Public, windir=C:\Windows, =::=::\, LOCALAPPDATA=C:\Users\localuser\AppData\Local, MSMPI_BIN=C:\Program Files\Microsoft MPI\Bin\, USERDOMAIN=B101P06, LOGONSERVER=\\B101P06, JAVA_HOME=C:\Program Files\Java\jdk1.8, GDAL_DRIVER_PATH=C:\Python27\Lib\site-packages\osgeo\gdalplugins, ANT_HOME=C:\Program Files\Apache Software Foundation\Ant, QT_DEVICE_PIXEL_RATIO=auto, APPDATA=C:\Users\localuser\AppData\Roaming, VBOX_MSI_INSTALL_PATH=C:\Program Files\Oracle\VirtualBox\, CommonProgramFiles=C:\Program Files\Common Files, Path=C:/Program Files/Java/jdk1.8/bin/../jre/bin/server;C:/Program Files/Java/jdk1.8/bin/../jre/bin;C:/Program Files/Java/jdk1.8/bin/../jre/lib/amd64;C:\Program Files\Java\jdk1.8\bin;C:\Program Files\Oracle\VirtualBox;C:\Program Files\Apache Software Foundation\Ant\bin;C:\Program Files\Apache Software Foundation\Grails\bin;C:\Program Files\Apache Software Foundation\Maven\bin;C:\Python27\Lib\site-packages\PyQt4;C:\Python34\Lib\site-packages\PyQt5;C:\Program Files\Microsoft MPI\Bin\;C:\Ruby22-x64\bin;C:\ProgramData\Oracle\Java\javapath;C:\Program Files\Runas;C:\Program Files\Sysinfo;C:\Oracle\product\11.2.0\client_1\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\PuTTY\;C:\Program Files (x86)\Windows Live\Shared;C:\Program Files\Git\cmd;C:\Program Files\TortoiseGit\bin;C:\Program Files\TortoiseSVN\bin;C:\Program Files\MySQL\MySQL Utilities 1.6\;C:\Ch\bin;C:\Program Files (x86)\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\130\DTS\Binn\;C:\Program Files\Microsoft SQL Server\130\DTS\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\130\Tools\Binn\;C:\Program Files\nodejs\;C:\Program Files (x86)\Microsoft SQL Server\Client SDK\ODBC\130\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\140\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\140\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\140\Tools\Binn\ManagementStudio\;C:\Python27;C:\Python27\DLLs;C:\Python27\Scripts;C:\Python27\Lib\site-packages\vtk;C:\Python27\gnuplot\binary;C:\Python27\Lib\site-packages\osgeo;C:\Python27\console;C:\Program Files (x86)\pythonxy\swig;C:\Python27\gettext\bin;C:\Program Files (x86)\Google\Cloud SDK\google-cloud-sdk\bin;C:\Program Files\Microsoft DNX\Dnvm\;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\Shield;C:\Users\localuser\AppData\Local\Microsoft\WindowsApps;C:\Users\localuser\AppData\Roaming\npm;C:\Program Files (x86)\Google\google_appengine\;C:\Program Files\Microsoft VS Code\bin;C:\Program Files\Eclipse;, PT7HOME=C:\Program Files\Cisco Packet Tracer 7.1, OS=Windows_NT, COMPUTERNAME=B101P06, PROCESSOR_REVISION=5e03, CommonProgramW6432=C:\Program Files\Common Files, CLASSPATH=E:\S3\CPOA\tp1\JeuAventure\bin;C:\Program Files\eclipse\plugins\org.junit_4.12.0.v201504281640\junit.jar;C:\Program Files\eclipse\plugins\org.hamcrest.core_1.3.0.v201303031735.jar;C:/Users/LOCALU~1/AppData/Local/Temp/infinitest.jar, ComSpec=C:\Windows\system32\cmd.exe, SystemRoot=C:\Windows, TEMP=C:\Users\LOCALU~1\AppData\Local\Temp, HOMEDRIVE=C:, PT6HOME=C:\Program Files (x86)\Cisco Packet Tracer 6.2, USERPROFILE=C:\Users\localuser, TMP=C:\Users\LOCALU~1\AppData\Local\Temp, CommonProgramFiles(x86)=C:\Program Files (x86)\Common Files, NUMBER_OF_PROCESSORS=8, SCITE_USERHOME=C:\Users\localuser\AppData\Local\AutoIt v3\SciTE}
+Command: [C:\Program Files\Java\jdk1.8\bin\java.exe, -mx256m, org.infinitest.testrunner.TestRunnerProcess, org.infinitest.testrunner.JUnit4Runner, 50498]
+
+!ENTRY org.infinitest.eclipse 1 0 2017-11-22 17:04:02.799
+!MESSAGE Update complete. Status PASSING
+
+!ENTRY org.infinitest.eclipse 1 0 2017-11-22 17:04:29.476
+!MESSAGE JeuAventure Files changed: [E:\S3\CPOA\tp1\JeuAventure\bin\Test\testArchi.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2017-11-22 17:04:30.195
+!MESSAGE JeuAventure Running tests: [Test.testArchi]
+
+!ENTRY org.infinitest.eclipse 1 0 2017-11-22 17:04:30.195
+!MESSAGE Launching test runner process with the following configuration:
+Directory: E:\S3\CPOA\tp1\JeuAventure
+Environment: {USERDOMAIN_ROAMINGPROFILE=B101P06, PROCESSOR_LEVEL=6, PYTHON_INCLUDE=C:\Python27\include, VS140COMNTOOLS=C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\Tools\, GRAILS_HOME=C:\Program Files\Apache Software Foundation\Grails, SESSIONNAME=Console, ALLUSERSPROFILE=C:\ProgramData, GDAL_DATA=C:\Python27\GDAL\data, PROCESSOR_ARCHITECTURE=AMD64, VirtualC=C:\Program Files (x86)\VirtualC\Virtual-C IDE\, PSModulePath=C:\Program Files (x86)\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules;C:\Program Files (x86)\AutoIt3\AutoItX;C:\Program Files (x86)\Microsoft SQL Server\130\Tools\PowerShell\Modules\;C:\Program Files (x86)\Google\Cloud SDK\google-cloud-sdk\platform\PowerShell, SystemDrive=C:, MAVEN_HOME=C:\Program Files\Apache Software Foundation\Maven, MOZ_PLUGIN_PATH=C:\Program Files\Tracker Software\PDF Viewer\Win32\, USERNAME=localuser, ProgramFiles(x86)=C:\Program Files (x86), PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC;.RB;.RBW;.CH;.PY;.PYW, PYTHON_LIB=C:\Python27\libs\python27.lib, ProgramData=C:\ProgramData, ProgramW6432=C:\Program Files, HOMEPATH=\Users\localuser, PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 94 Stepping 3, GenuineIntel, ProgramFiles=C:\Program Files, PUBLIC=C:\Users\Public, windir=C:\Windows, =::=::\, LOCALAPPDATA=C:\Users\localuser\AppData\Local, MSMPI_BIN=C:\Program Files\Microsoft MPI\Bin\, USERDOMAIN=B101P06, LOGONSERVER=\\B101P06, JAVA_HOME=C:\Program Files\Java\jdk1.8, GDAL_DRIVER_PATH=C:\Python27\Lib\site-packages\osgeo\gdalplugins, ANT_HOME=C:\Program Files\Apache Software Foundation\Ant, QT_DEVICE_PIXEL_RATIO=auto, APPDATA=C:\Users\localuser\AppData\Roaming, VBOX_MSI_INSTALL_PATH=C:\Program Files\Oracle\VirtualBox\, CommonProgramFiles=C:\Program Files\Common Files, Path=C:/Program Files/Java/jdk1.8/bin/../jre/bin/server;C:/Program Files/Java/jdk1.8/bin/../jre/bin;C:/Program Files/Java/jdk1.8/bin/../jre/lib/amd64;C:\Program Files\Java\jdk1.8\bin;C:\Program Files\Oracle\VirtualBox;C:\Program Files\Apache Software Foundation\Ant\bin;C:\Program Files\Apache Software Foundation\Grails\bin;C:\Program Files\Apache Software Foundation\Maven\bin;C:\Python27\Lib\site-packages\PyQt4;C:\Python34\Lib\site-packages\PyQt5;C:\Program Files\Microsoft MPI\Bin\;C:\Ruby22-x64\bin;C:\ProgramData\Oracle\Java\javapath;C:\Program Files\Runas;C:\Program Files\Sysinfo;C:\Oracle\product\11.2.0\client_1\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\PuTTY\;C:\Program Files (x86)\Windows Live\Shared;C:\Program Files\Git\cmd;C:\Program Files\TortoiseGit\bin;C:\Program Files\TortoiseSVN\bin;C:\Program Files\MySQL\MySQL Utilities 1.6\;C:\Ch\bin;C:\Program Files (x86)\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\130\DTS\Binn\;C:\Program Files\Microsoft SQL Server\130\DTS\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\130\Tools\Binn\;C:\Program Files\nodejs\;C:\Program Files (x86)\Microsoft SQL Server\Client SDK\ODBC\130\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\140\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\140\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\140\Tools\Binn\ManagementStudio\;C:\Python27;C:\Python27\DLLs;C:\Python27\Scripts;C:\Python27\Lib\site-packages\vtk;C:\Python27\gnuplot\binary;C:\Python27\Lib\site-packages\osgeo;C:\Python27\console;C:\Program Files (x86)\pythonxy\swig;C:\Python27\gettext\bin;C:\Program Files (x86)\Google\Cloud SDK\google-cloud-sdk\bin;C:\Program Files\Microsoft DNX\Dnvm\;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\Shield;C:\Users\localuser\AppData\Local\Microsoft\WindowsApps;C:\Users\localuser\AppData\Roaming\npm;C:\Program Files (x86)\Google\google_appengine\;C:\Program Files\Microsoft VS Code\bin;C:\Program Files\Eclipse;, PT7HOME=C:\Program Files\Cisco Packet Tracer 7.1, OS=Windows_NT, COMPUTERNAME=B101P06, PROCESSOR_REVISION=5e03, CommonProgramW6432=C:\Program Files\Common Files, CLASSPATH=E:\S3\CPOA\tp1\JeuAventure\bin;C:\Program Files\eclipse\plugins\org.junit_4.12.0.v201504281640\junit.jar;C:\Program Files\eclipse\plugins\org.hamcrest.core_1.3.0.v201303031735.jar;C:/Users/LOCALU~1/AppData/Local/Temp/infinitest.jar, ComSpec=C:\Windows\system32\cmd.exe, SystemRoot=C:\Windows, TEMP=C:\Users\LOCALU~1\AppData\Local\Temp, HOMEDRIVE=C:, PT6HOME=C:\Program Files (x86)\Cisco Packet Tracer 6.2, USERPROFILE=C:\Users\localuser, TMP=C:\Users\LOCALU~1\AppData\Local\Temp, CommonProgramFiles(x86)=C:\Program Files (x86)\Common Files, NUMBER_OF_PROCESSORS=8, SCITE_USERHOME=C:\Users\localuser\AppData\Local\AutoIt v3\SciTE}
+Command: [C:\Program Files\Java\jdk1.8\bin\java.exe, -mx256m, org.infinitest.testrunner.TestRunnerProcess, org.infinitest.testrunner.JUnit4Runner, 50500]
+
+!ENTRY org.infinitest.eclipse 1 0 2017-11-22 17:04:33.141
+!MESSAGE Update complete. Status FAILING
+
+!ENTRY org.infinitest.eclipse 1 0 2017-11-22 17:04:50.864
+!MESSAGE JeuAventure Files changed: [E:\S3\CPOA\tp1\JeuAventure\bin\Test\testArchi.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2017-11-22 17:04:51.514
+!MESSAGE JeuAventure Running tests: [Test.testArchi]
+
+!ENTRY org.infinitest.eclipse 1 0 2017-11-22 17:04:51.529
+!MESSAGE Launching test runner process with the following configuration:
+Directory: E:\S3\CPOA\tp1\JeuAventure
+Environment: {USERDOMAIN_ROAMINGPROFILE=B101P06, PROCESSOR_LEVEL=6, PYTHON_INCLUDE=C:\Python27\include, VS140COMNTOOLS=C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\Tools\, GRAILS_HOME=C:\Program Files\Apache Software Foundation\Grails, SESSIONNAME=Console, ALLUSERSPROFILE=C:\ProgramData, GDAL_DATA=C:\Python27\GDAL\data, PROCESSOR_ARCHITECTURE=AMD64, VirtualC=C:\Program Files (x86)\VirtualC\Virtual-C IDE\, PSModulePath=C:\Program Files (x86)\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules;C:\Program Files (x86)\AutoIt3\AutoItX;C:\Program Files (x86)\Microsoft SQL Server\130\Tools\PowerShell\Modules\;C:\Program Files (x86)\Google\Cloud SDK\google-cloud-sdk\platform\PowerShell, SystemDrive=C:, MAVEN_HOME=C:\Program Files\Apache Software Foundation\Maven, MOZ_PLUGIN_PATH=C:\Program Files\Tracker Software\PDF Viewer\Win32\, USERNAME=localuser, ProgramFiles(x86)=C:\Program Files (x86), PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC;.RB;.RBW;.CH;.PY;.PYW, PYTHON_LIB=C:\Python27\libs\python27.lib, ProgramData=C:\ProgramData, ProgramW6432=C:\Program Files, HOMEPATH=\Users\localuser, PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 94 Stepping 3, GenuineIntel, ProgramFiles=C:\Program Files, PUBLIC=C:\Users\Public, windir=C:\Windows, =::=::\, LOCALAPPDATA=C:\Users\localuser\AppData\Local, MSMPI_BIN=C:\Program Files\Microsoft MPI\Bin\, USERDOMAIN=B101P06, LOGONSERVER=\\B101P06, JAVA_HOME=C:\Program Files\Java\jdk1.8, GDAL_DRIVER_PATH=C:\Python27\Lib\site-packages\osgeo\gdalplugins, ANT_HOME=C:\Program Files\Apache Software Foundation\Ant, QT_DEVICE_PIXEL_RATIO=auto, APPDATA=C:\Users\localuser\AppData\Roaming, VBOX_MSI_INSTALL_PATH=C:\Program Files\Oracle\VirtualBox\, CommonProgramFiles=C:\Program Files\Common Files, Path=C:/Program Files/Java/jdk1.8/bin/../jre/bin/server;C:/Program Files/Java/jdk1.8/bin/../jre/bin;C:/Program Files/Java/jdk1.8/bin/../jre/lib/amd64;C:\Program Files\Java\jdk1.8\bin;C:\Program Files\Oracle\VirtualBox;C:\Program Files\Apache Software Foundation\Ant\bin;C:\Program Files\Apache Software Foundation\Grails\bin;C:\Program Files\Apache Software Foundation\Maven\bin;C:\Python27\Lib\site-packages\PyQt4;C:\Python34\Lib\site-packages\PyQt5;C:\Program Files\Microsoft MPI\Bin\;C:\Ruby22-x64\bin;C:\ProgramData\Oracle\Java\javapath;C:\Program Files\Runas;C:\Program Files\Sysinfo;C:\Oracle\product\11.2.0\client_1\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\PuTTY\;C:\Program Files (x86)\Windows Live\Shared;C:\Program Files\Git\cmd;C:\Program Files\TortoiseGit\bin;C:\Program Files\TortoiseSVN\bin;C:\Program Files\MySQL\MySQL Utilities 1.6\;C:\Ch\bin;C:\Program Files (x86)\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\130\DTS\Binn\;C:\Program Files\Microsoft SQL Server\130\DTS\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\130\Tools\Binn\;C:\Program Files\nodejs\;C:\Program Files (x86)\Microsoft SQL Server\Client SDK\ODBC\130\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\140\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\140\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\140\Tools\Binn\ManagementStudio\;C:\Python27;C:\Python27\DLLs;C:\Python27\Scripts;C:\Python27\Lib\site-packages\vtk;C:\Python27\gnuplot\binary;C:\Python27\Lib\site-packages\osgeo;C:\Python27\console;C:\Program Files (x86)\pythonxy\swig;C:\Python27\gettext\bin;C:\Program Files (x86)\Google\Cloud SDK\google-cloud-sdk\bin;C:\Program Files\Microsoft DNX\Dnvm\;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\Shield;C:\Users\localuser\AppData\Local\Microsoft\WindowsApps;C:\Users\localuser\AppData\Roaming\npm;C:\Program Files (x86)\Google\google_appengine\;C:\Program Files\Microsoft VS Code\bin;C:\Program Files\Eclipse;, PT7HOME=C:\Program Files\Cisco Packet Tracer 7.1, OS=Windows_NT, COMPUTERNAME=B101P06, PROCESSOR_REVISION=5e03, CommonProgramW6432=C:\Program Files\Common Files, CLASSPATH=E:\S3\CPOA\tp1\JeuAventure\bin;C:\Program Files\eclipse\plugins\org.junit_4.12.0.v201504281640\junit.jar;C:\Program Files\eclipse\plugins\org.hamcrest.core_1.3.0.v201303031735.jar;C:/Users/LOCALU~1/AppData/Local/Temp/infinitest.jar, ComSpec=C:\Windows\system32\cmd.exe, SystemRoot=C:\Windows, TEMP=C:\Users\LOCALU~1\AppData\Local\Temp, HOMEDRIVE=C:, PT6HOME=C:\Program Files (x86)\Cisco Packet Tracer 6.2, USERPROFILE=C:\Users\localuser, TMP=C:\Users\LOCALU~1\AppData\Local\Temp, CommonProgramFiles(x86)=C:\Program Files (x86)\Common Files, NUMBER_OF_PROCESSORS=8, SCITE_USERHOME=C:\Users\localuser\AppData\Local\AutoIt v3\SciTE}
+Command: [C:\Program Files\Java\jdk1.8\bin\java.exe, -mx256m, org.infinitest.testrunner.TestRunnerProcess, org.infinitest.testrunner.JUnit4Runner, 50506]
+
+!ENTRY org.infinitest.eclipse 1 0 2017-11-22 17:04:53.734
+!MESSAGE Update complete. Status PASSING
+
+!ENTRY org.infinitest.eclipse 1 0 2017-11-22 17:06:13.731
+!MESSAGE JeuAventure Files changed: [E:\S3\CPOA\tp1\JeuAventure\bin\Test\testArchi.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2017-11-22 17:06:14.391
+!MESSAGE JeuAventure Running tests: [Test.testArchi]
+
+!ENTRY org.infinitest.eclipse 1 0 2017-11-22 17:06:14.392
+!MESSAGE Launching test runner process with the following configuration:
+Directory: E:\S3\CPOA\tp1\JeuAventure
+Environment: {USERDOMAIN_ROAMINGPROFILE=B101P06, PROCESSOR_LEVEL=6, PYTHON_INCLUDE=C:\Python27\include, VS140COMNTOOLS=C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\Tools\, GRAILS_HOME=C:\Program Files\Apache Software Foundation\Grails, SESSIONNAME=Console, ALLUSERSPROFILE=C:\ProgramData, GDAL_DATA=C:\Python27\GDAL\data, PROCESSOR_ARCHITECTURE=AMD64, VirtualC=C:\Program Files (x86)\VirtualC\Virtual-C IDE\, PSModulePath=C:\Program Files (x86)\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules;C:\Program Files (x86)\AutoIt3\AutoItX;C:\Program Files (x86)\Microsoft SQL Server\130\Tools\PowerShell\Modules\;C:\Program Files (x86)\Google\Cloud SDK\google-cloud-sdk\platform\PowerShell, SystemDrive=C:, MAVEN_HOME=C:\Program Files\Apache Software Foundation\Maven, MOZ_PLUGIN_PATH=C:\Program Files\Tracker Software\PDF Viewer\Win32\, USERNAME=localuser, ProgramFiles(x86)=C:\Program Files (x86), PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC;.RB;.RBW;.CH;.PY;.PYW, PYTHON_LIB=C:\Python27\libs\python27.lib, ProgramData=C:\ProgramData, ProgramW6432=C:\Program Files, HOMEPATH=\Users\localuser, PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 94 Stepping 3, GenuineIntel, ProgramFiles=C:\Program Files, PUBLIC=C:\Users\Public, windir=C:\Windows, =::=::\, LOCALAPPDATA=C:\Users\localuser\AppData\Local, MSMPI_BIN=C:\Program Files\Microsoft MPI\Bin\, USERDOMAIN=B101P06, LOGONSERVER=\\B101P06, JAVA_HOME=C:\Program Files\Java\jdk1.8, GDAL_DRIVER_PATH=C:\Python27\Lib\site-packages\osgeo\gdalplugins, ANT_HOME=C:\Program Files\Apache Software Foundation\Ant, QT_DEVICE_PIXEL_RATIO=auto, APPDATA=C:\Users\localuser\AppData\Roaming, VBOX_MSI_INSTALL_PATH=C:\Program Files\Oracle\VirtualBox\, CommonProgramFiles=C:\Program Files\Common Files, Path=C:/Program Files/Java/jdk1.8/bin/../jre/bin/server;C:/Program Files/Java/jdk1.8/bin/../jre/bin;C:/Program Files/Java/jdk1.8/bin/../jre/lib/amd64;C:\Program Files\Java\jdk1.8\bin;C:\Program Files\Oracle\VirtualBox;C:\Program Files\Apache Software Foundation\Ant\bin;C:\Program Files\Apache Software Foundation\Grails\bin;C:\Program Files\Apache Software Foundation\Maven\bin;C:\Python27\Lib\site-packages\PyQt4;C:\Python34\Lib\site-packages\PyQt5;C:\Program Files\Microsoft MPI\Bin\;C:\Ruby22-x64\bin;C:\ProgramData\Oracle\Java\javapath;C:\Program Files\Runas;C:\Program Files\Sysinfo;C:\Oracle\product\11.2.0\client_1\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\PuTTY\;C:\Program Files (x86)\Windows Live\Shared;C:\Program Files\Git\cmd;C:\Program Files\TortoiseGit\bin;C:\Program Files\TortoiseSVN\bin;C:\Program Files\MySQL\MySQL Utilities 1.6\;C:\Ch\bin;C:\Program Files (x86)\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\130\DTS\Binn\;C:\Program Files\Microsoft SQL Server\130\DTS\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\130\Tools\Binn\;C:\Program Files\nodejs\;C:\Program Files (x86)\Microsoft SQL Server\Client SDK\ODBC\130\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\140\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\140\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\140\Tools\Binn\ManagementStudio\;C:\Python27;C:\Python27\DLLs;C:\Python27\Scripts;C:\Python27\Lib\site-packages\vtk;C:\Python27\gnuplot\binary;C:\Python27\Lib\site-packages\osgeo;C:\Python27\console;C:\Program Files (x86)\pythonxy\swig;C:\Python27\gettext\bin;C:\Program Files (x86)\Google\Cloud SDK\google-cloud-sdk\bin;C:\Program Files\Microsoft DNX\Dnvm\;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\Shield;C:\Users\localuser\AppData\Local\Microsoft\WindowsApps;C:\Users\localuser\AppData\Roaming\npm;C:\Program Files (x86)\Google\google_appengine\;C:\Program Files\Microsoft VS Code\bin;C:\Program Files\Eclipse;, PT7HOME=C:\Program Files\Cisco Packet Tracer 7.1, OS=Windows_NT, COMPUTERNAME=B101P06, PROCESSOR_REVISION=5e03, CommonProgramW6432=C:\Program Files\Common Files, CLASSPATH=E:\S3\CPOA\tp1\JeuAventure\bin;C:\Program Files\eclipse\plugins\org.junit_4.12.0.v201504281640\junit.jar;C:\Program Files\eclipse\plugins\org.hamcrest.core_1.3.0.v201303031735.jar;C:/Users/LOCALU~1/AppData/Local/Temp/infinitest.jar, ComSpec=C:\Windows\system32\cmd.exe, SystemRoot=C:\Windows, TEMP=C:\Users\LOCALU~1\AppData\Local\Temp, HOMEDRIVE=C:, PT6HOME=C:\Program Files (x86)\Cisco Packet Tracer 6.2, USERPROFILE=C:\Users\localuser, TMP=C:\Users\LOCALU~1\AppData\Local\Temp, CommonProgramFiles(x86)=C:\Program Files (x86)\Common Files, NUMBER_OF_PROCESSORS=8, SCITE_USERHOME=C:\Users\localuser\AppData\Local\AutoIt v3\SciTE}
+Command: [C:\Program Files\Java\jdk1.8\bin\java.exe, -mx256m, org.infinitest.testrunner.TestRunnerProcess, org.infinitest.testrunner.JUnit4Runner, 50509]
+
+!ENTRY org.infinitest.eclipse 1 0 2017-11-22 17:06:16.011
+!MESSAGE Update complete. Status PASSING
+
+!ENTRY org.infinitest.eclipse 1 0 2017-11-22 17:06:24.887
+!MESSAGE JeuAventure Files changed: [E:\S3\CPOA\tp1\JeuAventure\bin\Test\testArchi.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2017-11-22 17:06:27.533
+!MESSAGE JeuAventure Running tests: [Test.testArchi]
+
+!ENTRY org.infinitest.eclipse 1 0 2017-11-22 17:06:27.533
+!MESSAGE Launching test runner process with the following configuration:
+Directory: E:\S3\CPOA\tp1\JeuAventure
+Environment: {USERDOMAIN_ROAMINGPROFILE=B101P06, PROCESSOR_LEVEL=6, PYTHON_INCLUDE=C:\Python27\include, VS140COMNTOOLS=C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\Tools\, GRAILS_HOME=C:\Program Files\Apache Software Foundation\Grails, SESSIONNAME=Console, ALLUSERSPROFILE=C:\ProgramData, GDAL_DATA=C:\Python27\GDAL\data, PROCESSOR_ARCHITECTURE=AMD64, VirtualC=C:\Program Files (x86)\VirtualC\Virtual-C IDE\, PSModulePath=C:\Program Files (x86)\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules;C:\Program Files (x86)\AutoIt3\AutoItX;C:\Program Files (x86)\Microsoft SQL Server\130\Tools\PowerShell\Modules\;C:\Program Files (x86)\Google\Cloud SDK\google-cloud-sdk\platform\PowerShell, SystemDrive=C:, MAVEN_HOME=C:\Program Files\Apache Software Foundation\Maven, MOZ_PLUGIN_PATH=C:\Program Files\Tracker Software\PDF Viewer\Win32\, USERNAME=localuser, ProgramFiles(x86)=C:\Program Files (x86), PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC;.RB;.RBW;.CH;.PY;.PYW, PYTHON_LIB=C:\Python27\libs\python27.lib, ProgramData=C:\ProgramData, ProgramW6432=C:\Program Files, HOMEPATH=\Users\localuser, PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 94 Stepping 3, GenuineIntel, ProgramFiles=C:\Program Files, PUBLIC=C:\Users\Public, windir=C:\Windows, =::=::\, LOCALAPPDATA=C:\Users\localuser\AppData\Local, MSMPI_BIN=C:\Program Files\Microsoft MPI\Bin\, USERDOMAIN=B101P06, LOGONSERVER=\\B101P06, JAVA_HOME=C:\Program Files\Java\jdk1.8, GDAL_DRIVER_PATH=C:\Python27\Lib\site-packages\osgeo\gdalplugins, ANT_HOME=C:\Program Files\Apache Software Foundation\Ant, QT_DEVICE_PIXEL_RATIO=auto, APPDATA=C:\Users\localuser\AppData\Roaming, VBOX_MSI_INSTALL_PATH=C:\Program Files\Oracle\VirtualBox\, CommonProgramFiles=C:\Program Files\Common Files, Path=C:/Program Files/Java/jdk1.8/bin/../jre/bin/server;C:/Program Files/Java/jdk1.8/bin/../jre/bin;C:/Program Files/Java/jdk1.8/bin/../jre/lib/amd64;C:\Program Files\Java\jdk1.8\bin;C:\Program Files\Oracle\VirtualBox;C:\Program Files\Apache Software Foundation\Ant\bin;C:\Program Files\Apache Software Foundation\Grails\bin;C:\Program Files\Apache Software Foundation\Maven\bin;C:\Python27\Lib\site-packages\PyQt4;C:\Python34\Lib\site-packages\PyQt5;C:\Program Files\Microsoft MPI\Bin\;C:\Ruby22-x64\bin;C:\ProgramData\Oracle\Java\javapath;C:\Program Files\Runas;C:\Program Files\Sysinfo;C:\Oracle\product\11.2.0\client_1\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\PuTTY\;C:\Program Files (x86)\Windows Live\Shared;C:\Program Files\Git\cmd;C:\Program Files\TortoiseGit\bin;C:\Program Files\TortoiseSVN\bin;C:\Program Files\MySQL\MySQL Utilities 1.6\;C:\Ch\bin;C:\Program Files (x86)\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\130\DTS\Binn\;C:\Program Files\Microsoft SQL Server\130\DTS\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\130\Tools\Binn\;C:\Program Files\nodejs\;C:\Program Files (x86)\Microsoft SQL Server\Client SDK\ODBC\130\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\140\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\140\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\140\Tools\Binn\ManagementStudio\;C:\Python27;C:\Python27\DLLs;C:\Python27\Scripts;C:\Python27\Lib\site-packages\vtk;C:\Python27\gnuplot\binary;C:\Python27\Lib\site-packages\osgeo;C:\Python27\console;C:\Program Files (x86)\pythonxy\swig;C:\Python27\gettext\bin;C:\Program Files (x86)\Google\Cloud SDK\google-cloud-sdk\bin;C:\Program Files\Microsoft DNX\Dnvm\;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\Shield;C:\Users\localuser\AppData\Local\Microsoft\WindowsApps;C:\Users\localuser\AppData\Roaming\npm;C:\Program Files (x86)\Google\google_appengine\;C:\Program Files\Microsoft VS Code\bin;C:\Program Files\Eclipse;, PT7HOME=C:\Program Files\Cisco Packet Tracer 7.1, OS=Windows_NT, COMPUTERNAME=B101P06, PROCESSOR_REVISION=5e03, CommonProgramW6432=C:\Program Files\Common Files, CLASSPATH=E:\S3\CPOA\tp1\JeuAventure\bin;C:\Program Files\eclipse\plugins\org.junit_4.12.0.v201504281640\junit.jar;C:\Program Files\eclipse\plugins\org.hamcrest.core_1.3.0.v201303031735.jar;C:/Users/LOCALU~1/AppData/Local/Temp/infinitest.jar, ComSpec=C:\Windows\system32\cmd.exe, SystemRoot=C:\Windows, TEMP=C:\Users\LOCALU~1\AppData\Local\Temp, HOMEDRIVE=C:, PT6HOME=C:\Program Files (x86)\Cisco Packet Tracer 6.2, USERPROFILE=C:\Users\localuser, TMP=C:\Users\LOCALU~1\AppData\Local\Temp, CommonProgramFiles(x86)=C:\Program Files (x86)\Common Files, NUMBER_OF_PROCESSORS=8, SCITE_USERHOME=C:\Users\localuser\AppData\Local\AutoIt v3\SciTE}
+Command: [C:\Program Files\Java\jdk1.8\bin\java.exe, -mx256m, org.infinitest.testrunner.TestRunnerProcess, org.infinitest.testrunner.JUnit4Runner, 50514]
+
+!ENTRY org.infinitest.eclipse 1 0 2017-11-22 17:06:29.188
+!MESSAGE Update complete. Status FAILING
+
+!ENTRY org.infinitest.eclipse 1 0 2017-11-22 17:06:34.141
+!MESSAGE JeuAventure Files changed: [E:\S3\CPOA\tp1\JeuAventure\bin\Test\testArchi.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2017-11-22 17:06:34.141
+!MESSAGE JeuAventure Running tests: [Test.testArchi]
+
+!ENTRY org.infinitest.eclipse 1 0 2017-11-22 17:06:34.141
+!MESSAGE Launching test runner process with the following configuration:
+Directory: E:\S3\CPOA\tp1\JeuAventure
+Environment: {USERDOMAIN_ROAMINGPROFILE=B101P06, PROCESSOR_LEVEL=6, PYTHON_INCLUDE=C:\Python27\include, VS140COMNTOOLS=C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\Tools\, GRAILS_HOME=C:\Program Files\Apache Software Foundation\Grails, SESSIONNAME=Console, ALLUSERSPROFILE=C:\ProgramData, GDAL_DATA=C:\Python27\GDAL\data, PROCESSOR_ARCHITECTURE=AMD64, VirtualC=C:\Program Files (x86)\VirtualC\Virtual-C IDE\, PSModulePath=C:\Program Files (x86)\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules;C:\Program Files (x86)\AutoIt3\AutoItX;C:\Program Files (x86)\Microsoft SQL Server\130\Tools\PowerShell\Modules\;C:\Program Files (x86)\Google\Cloud SDK\google-cloud-sdk\platform\PowerShell, SystemDrive=C:, MAVEN_HOME=C:\Program Files\Apache Software Foundation\Maven, MOZ_PLUGIN_PATH=C:\Program Files\Tracker Software\PDF Viewer\Win32\, USERNAME=localuser, ProgramFiles(x86)=C:\Program Files (x86), PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC;.RB;.RBW;.CH;.PY;.PYW, PYTHON_LIB=C:\Python27\libs\python27.lib, ProgramData=C:\ProgramData, ProgramW6432=C:\Program Files, HOMEPATH=\Users\localuser, PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 94 Stepping 3, GenuineIntel, ProgramFiles=C:\Program Files, PUBLIC=C:\Users\Public, windir=C:\Windows, =::=::\, LOCALAPPDATA=C:\Users\localuser\AppData\Local, MSMPI_BIN=C:\Program Files\Microsoft MPI\Bin\, USERDOMAIN=B101P06, LOGONSERVER=\\B101P06, JAVA_HOME=C:\Program Files\Java\jdk1.8, GDAL_DRIVER_PATH=C:\Python27\Lib\site-packages\osgeo\gdalplugins, ANT_HOME=C:\Program Files\Apache Software Foundation\Ant, QT_DEVICE_PIXEL_RATIO=auto, APPDATA=C:\Users\localuser\AppData\Roaming, VBOX_MSI_INSTALL_PATH=C:\Program Files\Oracle\VirtualBox\, CommonProgramFiles=C:\Program Files\Common Files, Path=C:/Program Files/Java/jdk1.8/bin/../jre/bin/server;C:/Program Files/Java/jdk1.8/bin/../jre/bin;C:/Program Files/Java/jdk1.8/bin/../jre/lib/amd64;C:\Program Files\Java\jdk1.8\bin;C:\Program Files\Oracle\VirtualBox;C:\Program Files\Apache Software Foundation\Ant\bin;C:\Program Files\Apache Software Foundation\Grails\bin;C:\Program Files\Apache Software Foundation\Maven\bin;C:\Python27\Lib\site-packages\PyQt4;C:\Python34\Lib\site-packages\PyQt5;C:\Program Files\Microsoft MPI\Bin\;C:\Ruby22-x64\bin;C:\ProgramData\Oracle\Java\javapath;C:\Program Files\Runas;C:\Program Files\Sysinfo;C:\Oracle\product\11.2.0\client_1\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\PuTTY\;C:\Program Files (x86)\Windows Live\Shared;C:\Program Files\Git\cmd;C:\Program Files\TortoiseGit\bin;C:\Program Files\TortoiseSVN\bin;C:\Program Files\MySQL\MySQL Utilities 1.6\;C:\Ch\bin;C:\Program Files (x86)\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\130\DTS\Binn\;C:\Program Files\Microsoft SQL Server\130\DTS\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\130\Tools\Binn\;C:\Program Files\nodejs\;C:\Program Files (x86)\Microsoft SQL Server\Client SDK\ODBC\130\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\140\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\140\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\140\Tools\Binn\ManagementStudio\;C:\Python27;C:\Python27\DLLs;C:\Python27\Scripts;C:\Python27\Lib\site-packages\vtk;C:\Python27\gnuplot\binary;C:\Python27\Lib\site-packages\osgeo;C:\Python27\console;C:\Program Files (x86)\pythonxy\swig;C:\Python27\gettext\bin;C:\Program Files (x86)\Google\Cloud SDK\google-cloud-sdk\bin;C:\Program Files\Microsoft DNX\Dnvm\;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\Shield;C:\Users\localuser\AppData\Local\Microsoft\WindowsApps;C:\Users\localuser\AppData\Roaming\npm;C:\Program Files (x86)\Google\google_appengine\;C:\Program Files\Microsoft VS Code\bin;C:\Program Files\Eclipse;, PT7HOME=C:\Program Files\Cisco Packet Tracer 7.1, OS=Windows_NT, COMPUTERNAME=B101P06, PROCESSOR_REVISION=5e03, CommonProgramW6432=C:\Program Files\Common Files, CLASSPATH=E:\S3\CPOA\tp1\JeuAventure\bin;C:\Program Files\eclipse\plugins\org.junit_4.12.0.v201504281640\junit.jar;C:\Program Files\eclipse\plugins\org.hamcrest.core_1.3.0.v201303031735.jar;C:/Users/LOCALU~1/AppData/Local/Temp/infinitest.jar, ComSpec=C:\Windows\system32\cmd.exe, SystemRoot=C:\Windows, TEMP=C:\Users\LOCALU~1\AppData\Local\Temp, HOMEDRIVE=C:, PT6HOME=C:\Program Files (x86)\Cisco Packet Tracer 6.2, USERPROFILE=C:\Users\localuser, TMP=C:\Users\LOCALU~1\AppData\Local\Temp, CommonProgramFiles(x86)=C:\Program Files (x86)\Common Files, NUMBER_OF_PROCESSORS=8, SCITE_USERHOME=C:\Users\localuser\AppData\Local\AutoIt v3\SciTE}
+Command: [C:\Program Files\Java\jdk1.8\bin\java.exe, -mx256m, org.infinitest.testrunner.TestRunnerProcess, org.infinitest.testrunner.JUnit4Runner, 50516]
+
+!ENTRY org.infinitest.eclipse 1 0 2017-11-22 17:06:35.832
+!MESSAGE Update complete. Status PASSING
+
+!ENTRY org.infinitest.eclipse 1 0 2017-11-22 17:08:56.355
+!MESSAGE JeuAventure Files changed: [E:\S3\CPOA\tp1\JeuAventure\bin\Test\testArchi.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2017-11-22 17:08:57.059
+!MESSAGE JeuAventure Running tests: [Test.testArchi]
+
+!ENTRY org.infinitest.eclipse 1 0 2017-11-22 17:08:57.059
+!MESSAGE Launching test runner process with the following configuration:
+Directory: E:\S3\CPOA\tp1\JeuAventure
+Environment: {USERDOMAIN_ROAMINGPROFILE=B101P06, PROCESSOR_LEVEL=6, PYTHON_INCLUDE=C:\Python27\include, VS140COMNTOOLS=C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\Tools\, GRAILS_HOME=C:\Program Files\Apache Software Foundation\Grails, SESSIONNAME=Console, ALLUSERSPROFILE=C:\ProgramData, GDAL_DATA=C:\Python27\GDAL\data, PROCESSOR_ARCHITECTURE=AMD64, VirtualC=C:\Program Files (x86)\VirtualC\Virtual-C IDE\, PSModulePath=C:\Program Files (x86)\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules;C:\Program Files (x86)\AutoIt3\AutoItX;C:\Program Files (x86)\Microsoft SQL Server\130\Tools\PowerShell\Modules\;C:\Program Files (x86)\Google\Cloud SDK\google-cloud-sdk\platform\PowerShell, SystemDrive=C:, MAVEN_HOME=C:\Program Files\Apache Software Foundation\Maven, MOZ_PLUGIN_PATH=C:\Program Files\Tracker Software\PDF Viewer\Win32\, USERNAME=localuser, ProgramFiles(x86)=C:\Program Files (x86), PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC;.RB;.RBW;.CH;.PY;.PYW, PYTHON_LIB=C:\Python27\libs\python27.lib, ProgramData=C:\ProgramData, ProgramW6432=C:\Program Files, HOMEPATH=\Users\localuser, PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 94 Stepping 3, GenuineIntel, ProgramFiles=C:\Program Files, PUBLIC=C:\Users\Public, windir=C:\Windows, =::=::\, LOCALAPPDATA=C:\Users\localuser\AppData\Local, MSMPI_BIN=C:\Program Files\Microsoft MPI\Bin\, USERDOMAIN=B101P06, LOGONSERVER=\\B101P06, JAVA_HOME=C:\Program Files\Java\jdk1.8, GDAL_DRIVER_PATH=C:\Python27\Lib\site-packages\osgeo\gdalplugins, ANT_HOME=C:\Program Files\Apache Software Foundation\Ant, QT_DEVICE_PIXEL_RATIO=auto, APPDATA=C:\Users\localuser\AppData\Roaming, VBOX_MSI_INSTALL_PATH=C:\Program Files\Oracle\VirtualBox\, CommonProgramFiles=C:\Program Files\Common Files, Path=C:/Program Files/Java/jdk1.8/bin/../jre/bin/server;C:/Program Files/Java/jdk1.8/bin/../jre/bin;C:/Program Files/Java/jdk1.8/bin/../jre/lib/amd64;C:\Program Files\Java\jdk1.8\bin;C:\Program Files\Oracle\VirtualBox;C:\Program Files\Apache Software Foundation\Ant\bin;C:\Program Files\Apache Software Foundation\Grails\bin;C:\Program Files\Apache Software Foundation\Maven\bin;C:\Python27\Lib\site-packages\PyQt4;C:\Python34\Lib\site-packages\PyQt5;C:\Program Files\Microsoft MPI\Bin\;C:\Ruby22-x64\bin;C:\ProgramData\Oracle\Java\javapath;C:\Program Files\Runas;C:\Program Files\Sysinfo;C:\Oracle\product\11.2.0\client_1\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\PuTTY\;C:\Program Files (x86)\Windows Live\Shared;C:\Program Files\Git\cmd;C:\Program Files\TortoiseGit\bin;C:\Program Files\TortoiseSVN\bin;C:\Program Files\MySQL\MySQL Utilities 1.6\;C:\Ch\bin;C:\Program Files (x86)\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\130\DTS\Binn\;C:\Program Files\Microsoft SQL Server\130\DTS\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\130\Tools\Binn\;C:\Program Files\nodejs\;C:\Program Files (x86)\Microsoft SQL Server\Client SDK\ODBC\130\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\140\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\140\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\140\Tools\Binn\ManagementStudio\;C:\Python27;C:\Python27\DLLs;C:\Python27\Scripts;C:\Python27\Lib\site-packages\vtk;C:\Python27\gnuplot\binary;C:\Python27\Lib\site-packages\osgeo;C:\Python27\console;C:\Program Files (x86)\pythonxy\swig;C:\Python27\gettext\bin;C:\Program Files (x86)\Google\Cloud SDK\google-cloud-sdk\bin;C:\Program Files\Microsoft DNX\Dnvm\;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\Shield;C:\Users\localuser\AppData\Local\Microsoft\WindowsApps;C:\Users\localuser\AppData\Roaming\npm;C:\Program Files (x86)\Google\google_appengine\;C:\Program Files\Microsoft VS Code\bin;C:\Program Files\Eclipse;, PT7HOME=C:\Program Files\Cisco Packet Tracer 7.1, OS=Windows_NT, COMPUTERNAME=B101P06, PROCESSOR_REVISION=5e03, CommonProgramW6432=C:\Program Files\Common Files, CLASSPATH=E:\S3\CPOA\tp1\JeuAventure\bin;C:\Program Files\eclipse\plugins\org.junit_4.12.0.v201504281640\junit.jar;C:\Program Files\eclipse\plugins\org.hamcrest.core_1.3.0.v201303031735.jar;C:/Users/LOCALU~1/AppData/Local/Temp/infinitest.jar, ComSpec=C:\Windows\system32\cmd.exe, SystemRoot=C:\Windows, TEMP=C:\Users\LOCALU~1\AppData\Local\Temp, HOMEDRIVE=C:, PT6HOME=C:\Program Files (x86)\Cisco Packet Tracer 6.2, USERPROFILE=C:\Users\localuser, TMP=C:\Users\LOCALU~1\AppData\Local\Temp, CommonProgramFiles(x86)=C:\Program Files (x86)\Common Files, NUMBER_OF_PROCESSORS=8, SCITE_USERHOME=C:\Users\localuser\AppData\Local\AutoIt v3\SciTE}
+Command: [C:\Program Files\Java\jdk1.8\bin\java.exe, -mx256m, org.infinitest.testrunner.TestRunnerProcess, org.infinitest.testrunner.JUnit4Runner, 50519]
+
+!ENTRY org.infinitest.eclipse 1 0 2017-11-22 17:08:59.493
+!MESSAGE Update complete. Status PASSING

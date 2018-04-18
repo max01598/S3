@@ -1,0 +1,9 @@
+
+public class PeutpasCancaner implements ComportementCancaner{
+	
+	public void cancaner() {
+		System.out.println("Ne cancane pas");
+		
+	}
+
+}

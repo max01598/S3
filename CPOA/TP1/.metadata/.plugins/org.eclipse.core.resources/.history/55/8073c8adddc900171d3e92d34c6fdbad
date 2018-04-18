@@ -1,0 +1,7 @@
+
+public interface ComportementVoler {
+	
+	
+	abstract public void Voler();
+
+}

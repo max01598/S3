@@ -1,0 +1,16 @@
+package appli;
+
+import Comportements.ComportementArme;
+import ComportementsArme.ComportementPoignard;
+
+public class Reine extends Personnage{
+	
+	public Reine() {
+		super(new ComportementPoignard());
+		// TODO Auto-generated constructor stub
+	}
+
+	public void combattre(){
+		System.out.println("Le reine attaque");
+	}
+}

@@ -1,0 +1,29 @@
+/**
+ * @author bruel
+ *
+ */
+abstract public class Canard {
+
+	protected ComportementVoler cptmV;
+	protected ComportementCancaner cptmC;
+	
+	public Canard(ComportementVoler pcptmV,ComportementCancaner pcptmC)
+	{
+		this.cptmC=pcptmC;
+		this.cptmV=pcptmV;
+	}
+	
+	public final void Cancaner() {
+		this.cptmC.cancaner();
+	}
+	public final void Voler() {
+		this.cptmV.Voler();
+	}
+	public void nager() {
+		System.out.println("Je nage comme un Canard!");
+	}
+
+	
+	abstract public void afficher();
+	
+}

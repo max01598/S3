@@ -1,0 +1,8 @@
+
+public interface ComportementCancaner {
+	
+	static void cancaner() {
+		// TODO Auto-generated method stub
+		
+	}
+}

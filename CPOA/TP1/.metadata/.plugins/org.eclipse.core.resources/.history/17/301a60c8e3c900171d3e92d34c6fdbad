@@ -1,0 +1,7 @@
+package appli;
+
+public class Roi extends Personnage{
+	public void Combattre() {
+		System.out.println("Le roi attaque");
+	}
+}

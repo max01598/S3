@@ -1,0 +1,39 @@
+package appli;
+
+import java.util.Scanner;
+
+public class main {
+
+	public static void main(String[] args) {
+		
+		//Choisir le type du personnage
+		System.out.println("Type du personnage");
+		System.out.println("1--Le roi");
+		System.out.println("2--La reine");
+		System.out.println("3--Le Troll");
+		System.out.println("4--Le Chevalier");
+		Scanner sc = new Scanner(System.in);
+		int choix= sc.nextInt();
+		Personnage perso;
+		switch(choix) 
+		{
+			case 1:
+				perso=new Roi();
+				break;
+			case 2:
+				perso=new Reine();
+				break;
+			case 3:
+				perso=new Troll();
+				break;
+			default
+				perso=new Chevalier();
+				break;
+				
+		}
+		
+		
+
+	}
+
+}

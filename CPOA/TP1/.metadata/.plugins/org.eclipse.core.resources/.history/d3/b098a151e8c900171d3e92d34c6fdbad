@@ -1,0 +1,7 @@
+package Comportements;
+
+public interface ComportementArme {
+	public default void utiliserArme() {
+		
+	}
+}

@@ -1,0 +1,118 @@
+package Test;
+
+import static org.junit.Assert.*;
+
+import java.io.BufferedReader;
+import java.io.File;
+import java.io.FileNotFoundException;
+import java.io.FileReader;
+import java.io.IOException;
+
+import org.junit.After;
+import org.junit.Before;
+import org.junit.Test;
+
+import ComportementsArme.ComportementArc;
+
+public class testArchi {
+
+	@Before
+	public void setUp() throws Exception {
+	}
+
+	@After
+	public void tearDown() throws Exception {
+			String model_name = "TP1.uml";
+			File file = new File(model_name);
+			assertTrue(file.exists());	
+	}
+
+	@Test
+	public void UniqueComportement() {
+		ComportementArc cpA1=ComportementArc.getInstance();
+		ComportementArc cpA2=ComportementArc.getInstance();
+		assertEquals("Meme ref",cpA1,cpA2);
+	}
+	
+	@Test
+	public void www() throws Exception {
+			String model_name = "TP1.uml";
+			File file = new File(model_name);
+			assertTrue(file.exists());	
+	}
+	
+	
+	@Test
+	public void PersonnageEstAbstract() throws IOException {
+		File file = new File("uml.txt");
+		BufferedReader reader = new BufferedReader(new FileReader(file));
+		String line= null;
+		while((line=reader.readLine())!=null)
+		{
+			if(line.contains("abstract Personnage"))
+			{
+				assertEquals(1,1);
+			}
+		}
+	}
+	
+	
+	@Test
+	public void PersonnageComportementArme() throws IOException {
+		File file = new File("uml.txt");
+		BufferedReader reader = new BufferedReader(new FileReader(file));
+		String line= null;
+		while((line=reader.readLine())!=null)
+		{
+			if(line.contains("Personnage --> \"1\" ComportementArme"))
+			{
+				assertEquals(1,1);
+			}
+		}
+	}
+	
+	@Test
+	public void HeritagePersonne() throws IOException {
+	File file = new File("uml.txt");
+	BufferedReader reader = new BufferedReader(new FileReader(file));
+	String line= null;
+	while((line=reader.readLine())!=null)
+	{
+		if(line.contains("Personnage <|-- Chevalier"))
+		{
+			assertEquals(1,1);
+		}
+		if(line.contains("Personnage <|-- Troll"))
+		{
+			assertEquals(1,1);
+		}
+		if(line.contains("Personnage <|-- Roi"))
+		{
+			assertEquals(1,1);
+		}
+		if(line.contains("Personnage <|-- Reine"))
+		{
+			assertEquals(1,1);
+		}
+	}
+	}
+	
+	@Test
+	public void ComportementArmeInterface() throws IOException {
+		File file = new File("uml.txt");
+		BufferedReader reader = new BufferedReader(new FileReader(file));
+		String line= null;
+		boolean trouve=false;
+		while((line=reader.readLine())!=null)
+		{
+			if(line.contains("interface Connn"))
+			{
+				trouve=true;
+			}
+		}
+		assertEquals(true, trouve);
+	}
+	
+
+
+}

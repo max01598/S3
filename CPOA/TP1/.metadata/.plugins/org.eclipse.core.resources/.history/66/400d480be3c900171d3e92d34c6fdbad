@@ -1,0 +1,7 @@
+package appli;
+
+public class Troll {
+	public void Combattre() {
+		System.out.println("Le troll attaque");
+	}
+}

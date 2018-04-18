@@ -1,0 +1,9 @@
+package ComportementsArme;
+
+import Comportements.ComportementArme;
+
+public class ComportementEpee implements ComportementArme{
+	public void UtiliserArme() {
+		System.out.println("Attaque à l'épée");
+	}
+}

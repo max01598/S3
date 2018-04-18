@@ -1,0 +1,5 @@
+INDEX VERSION 1.130+E:\S3\CPOA\.metadata\.plugins\org.eclipse.jdt.core
+4143500347.index
+2042346067.index
+1772041446.index
+3353442650.index

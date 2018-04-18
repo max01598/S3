@@ -1,0 +1,10 @@
+
+public interface ComportementVoler {
+	
+	
+	public static void Voler() {
+		// TODO Auto-generated method stub
+		
+	}
+
+}

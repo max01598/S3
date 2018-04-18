@@ -1,0 +1,8 @@
+package ComportementsArme;
+
+public class ComportementPoignard {
+	public void UtiliserArme() {
+		System.out.println("Attaque à le poignard");
+	}
+
+}

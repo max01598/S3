@@ -1,0 +1,10 @@
+
+public class volerAvecDesAiles implements Voler{
+	
+	public void VolerAvecAile() {
+		System.out.println("Je vole avec des ailes!");
+	}
+	
+	
+
+}

@@ -1,0 +1,21 @@
+/**
+ * @author bruel
+ *
+ */
+
+public class CanardEnPlastique extends Canard {
+	
+	
+	public CanardEnPlastique() {
+		this.cptmV=new PeutpasVoler();
+	}
+
+	@Override
+	public void afficher() {
+		System.out.println("Je suis un CanardEnPlastique!");
+	}
+
+	public void voler() {
+		cptmV.Voler();
+	}
+}

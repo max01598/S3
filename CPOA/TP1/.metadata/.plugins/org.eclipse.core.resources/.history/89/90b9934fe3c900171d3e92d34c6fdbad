@@ -1,0 +1,19 @@
+package appli;
+
+import Comportements.ComportementArme;
+
+public abstract class Personnage {
+	
+	protected ComportementArme arme;
+
+	public void Combattre() {
+		this.arme.utiliserArme();
+	}
+	
+	public void setArme(ComportementArme a)
+	{
+		this.arme=a;
+	}
+	
+	
+}

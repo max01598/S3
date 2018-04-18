@@ -1,0 +1,10 @@
+package ComportementsArme;
+
+import Comportements.ComportementArme;
+
+public class ComportementPoignard implements ComportementArme{
+	public void UtiliserArme() {
+		System.out.println("Attaque au le poignard");
+	}
+
+}

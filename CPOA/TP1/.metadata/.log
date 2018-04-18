@@ -1,0 +1,963 @@
+!SESSION 2017-11-15 08:12:12.999 -----------------------------------------------
+eclipse.buildId=4.7.0.I20170612-0950
+java.version=1.8.0_144
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=fr_FR
+Framework arguments:  -product org.eclipse.epp.package.modeling.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.modeling.product
+
+!ENTRY org.eclipse.jface 2 0 2017-11-15 08:15:57.625
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2017-11-15 08:15:57.625
+!MESSAGE A conflict occurred for ALT+C:
+Binding(ALT+C,
+	ParameterizedCommand(Command(org.eclipse.emf.emfstore.client.ui.commitProject,commit,
+		,
+		Category(org.eclipse.emf.emfstore.client.ui.project,ECP,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@78ffe38,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(ALT+C,
+	ParameterizedCommand(Command(org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples.tableschemaeditor.copycolumn,Copy,
+		,
+		Category(org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples.tableschemaedtor.10x,ASA 9.x table schema editor,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@5cf24f99,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.jface.text 2 0 2017-11-15 08:16:02.084
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.number'
+
+!ENTRY org.eclipse.jface.text 2 0 2017-11-15 08:16:02.084
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.round'
+
+!ENTRY org.eclipse.egit.ui 2 0 2017-11-15 08:16:05.116
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\localuser'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2017-11-15 08:20:32.033 -----------------------------------------------
+eclipse.buildId=4.7.0.I20170612-0950
+java.version=1.8.0_144
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=fr_FR
+Framework arguments:  -product org.eclipse.epp.package.modeling.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.modeling.product
+
+!ENTRY org.eclipse.jface 2 0 2017-11-15 08:20:42.803
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2017-11-15 08:20:42.803
+!MESSAGE A conflict occurred for ALT+C:
+Binding(ALT+C,
+	ParameterizedCommand(Command(org.eclipse.emf.emfstore.client.ui.commitProject,commit,
+		,
+		Category(org.eclipse.emf.emfstore.client.ui.project,ECP,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@54e9d42e,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(ALT+C,
+	ParameterizedCommand(Command(org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples.tableschemaeditor.copycolumn,Copy,
+		,
+		Category(org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples.tableschemaedtor.10x,ASA 9.x table schema editor,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@3d876f9e,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2017-11-15 08:20:46.536
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\localuser'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.tigris.subversion.clientadapter.javahl 1 0 2017-11-15 08:21:56.543
+!MESSAGE Failed to load JavaHL Library.
+These are the errors that were encountered:
+no libapr-1 in java.library.path
+no libapriconv-1 in java.library.path
+no libaprutil-1 in java.library.path
+no libsvn_subr-1 in java.library.path
+no libsvn_delta-1 in java.library.path
+no libsvn_diff-1 in java.library.path
+no libsvn_wc-1 in java.library.path
+no libsvn_fs-1 in java.library.path
+no libsvn_repos-1 in java.library.path
+no libsvn_ra-1 in java.library.path
+no libsvn_client-1 in java.library.path
+no libsvnjavahl-1 in java.library.path
+no svnjavahl-1 in java.library.path
+no svnjavahl in java.library.path
+java.library.path = C:\Program Files\eclipse;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:/Program Files/Java/jdk1.8/bin/../jre/bin/server;C:/Program Files/Java/jdk1.8/bin/../jre/bin;C:/Program Files/Java/jdk1.8/bin/../jre/lib/amd64;C:\Program Files\Apache Software Foundation\Grails\bin;C:\Program Files\Apache Software Foundation\Maven\bin;C:\Program Files\Apache Software Foundation\Ant\bin;C:\Program Files\Oracle\VirtualBox;C:\Program Files (x86)\Google\google_appengine\;C:\Program Files\Microsoft MPI\Bin\;C:\Oracle\product\11.2.0\client_1\bin;C:\Program Files\Java\jdk1.8\bin;C:\Ruby22-x64\bin;C:\ProgramData\Oracle\Java\javapath;C:\Program Files\Runas;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\MySQL\MySQL Utilities 1.6\;C:\Ch\bin;C:\Python27;C:\Python27\DLLs;C:\Python27\Scripts;C:\Python27\Lib\site-packages\vtk;C:\Python27\gnuplot\binary;C:\Python27\Lib\site-packages\osgeo;C:\Python27\Lib\site-packages\PyQt4;C:\Program Files (x86)\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\130\DTS\Binn\;C:\Program Files\Microsoft SQL Server\130\DTS\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\130\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\Client SDK\ODBC\130\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\140\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\140\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\140\Tools\Binn\ManagementStudio\;C:\Program Files\nodejs\;C:\Program Files\Git\cmd;C:\Program Files\TortoiseGit\bin;C:\Program Files\TortoiseSVN\bin;C:\Program Files\PuTTY\;C:\Program Files\OpenVPN\bin;C:\Users\localuser\AppData\Local\Microsoft\WindowsApps;C:\Users\localuser\AppData\Roaming\npm;C:\Program Files (x86)\Microsoft VS Code\bin;C:\Program Files\Eclipse;;.
+
+!ENTRY org.tigris.subversion.subclipse.core 4 0 2017-11-15 08:22:13.319
+!MESSAGE Could not auto-share project SuperCanardBof
+!STACK 1
+org.tigris.subversion.subclipse.core.SVNException: Provided SVN information does not match that on disk for project 'SuperCanardBof'.
+	at org.tigris.subversion.subclipse.core.resources.SVNWorkspaceRoot.setSharing(SVNWorkspaceRoot.java:206)
+	at org.tigris.subversion.subclipse.core.SVNTeamProviderType$AutoShareJob.autoconnectSVNProject(SVNTeamProviderType.java:140)
+	at org.tigris.subversion.subclipse.core.SVNTeamProviderType$AutoShareJob.run(SVNTeamProviderType.java:106)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56)
+!SUBENTRY 1 org.tigris.subversion.subclipse.core 4 4 2017-11-15 08:22:13.321
+!MESSAGE Provided SVN information does not match that on disk for project 'SuperCanardBof'.
+
+!ENTRY org.infinitest.eclipse 1 0 2017-11-15 08:22:26.606
+!MESSAGE Filter file E:\S3\CPOA\SuperCanardBof\infinitest.filters does not exist.
+
+!ENTRY org.infinitest.eclipse 1 0 2017-11-15 08:22:27.337
+!MESSAGE Reloading core SuperCanardBof
+
+!ENTRY org.infinitest.eclipse 1 0 2017-11-15 08:22:27.357
+!MESSAGE Added core SuperCanardBof with classpath E:\S3\CPOA\SuperCanardBof\bin;C:\Program Files\eclipse\plugins\org.junit_4.12.0.v201504281640\junit.jar;C:\Program Files\eclipse\plugins\org.hamcrest.core_1.3.0.v201303031735.jar;C:/Users/LOCALU~1/AppData/Local/Temp/infinitest588939515.jar
+
+!ENTRY org.infinitest.eclipse 1 0 2017-11-15 08:22:32.379
+!MESSAGE SuperCanardBof Files changed: [E:\S3\CPOA\SuperCanardBof\bin\Canard.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2017-11-15 08:22:34.844
+!MESSAGE SuperCanardBof Files changed: [E:\S3\CPOA\SuperCanardBof\bin\SuperCanard.class, E:\S3\CPOA\SuperCanardBof\bin\SuperCanardTest2.class, E:\S3\CPOA\SuperCanardBof\bin\CanardEnPlastique.class, E:\S3\CPOA\SuperCanardBof\bin\Colvert.class, E:\S3\CPOA\SuperCanardBof\bin\SuperCanardTest.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2017-11-15 08:22:36.908
+!MESSAGE SuperCanardBof Running tests: [SuperCanardTest, SuperCanardTest2]
+
+!ENTRY org.infinitest.eclipse 1 0 2017-11-15 08:22:36.932
+!MESSAGE Launching test runner process with the following configuration:
+Directory: E:\S3\CPOA\SuperCanardBof
+Environment: {USERDOMAIN_ROAMINGPROFILE=B101P06, PROCESSOR_LEVEL=6, VS140COMNTOOLS=C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\Tools\, GRAILS_HOME=C:\Program Files\Apache Software Foundation\Grails, SESSIONNAME=Console, ALLUSERSPROFILE=C:\ProgramData, GDAL_DATA=C:\Python27\GDAL\data, PROCESSOR_ARCHITECTURE=AMD64, TNS_ADMIN=C:\Oracle\product\11.2.0\client_1\NETWORK\ADMIN, VirtualC=C:\Program Files (x86)\VirtualC\Virtual-C IDE\, PSModulePath=C:\Program Files (x86)\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules;C:\Program Files (x86)\Google\Cloud SDK\google-cloud-sdk\platform\PowerShell;C:\Program Files (x86)\Microsoft SQL Server\130\Tools\PowerShell\Modules\;C:\Program Files (x86)\AutoIt3\AutoItX, SystemDrive=C:, MAVEN_HOME=C:\Program Files\Apache Software Foundation\Maven, MOZ_PLUGIN_PATH=C:\Program Files\Tracker Software\PDF Viewer\Win32\, USERNAME=localuser, ProgramFiles(x86)=C:\Program Files (x86), TELELOGIC_LICENSE_FILE=2700@193.55.174.32, PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC;.CH;.PY;.PYW;.RB;.RBW, ProgramData=C:\ProgramData, ProgramW6432=C:\Program Files, HOMEPATH=\Users\localuser, PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 94 Stepping 3, GenuineIntel, ProgramFiles=C:\Program Files, PUBLIC=C:\Users\Public, windir=C:\Windows, =::=::\, LOCALAPPDATA=C:\Users\localuser\AppData\Local, MSMPI_BIN=C:\Program Files\Microsoft MPI\Bin\, USERDOMAIN=B101P06, LOGONSERVER=\\B101P06, JAVA_HOME=C:\Program Files\Java\jdk1.8, GDAL_DRIVER_PATH=C:\Python27\Lib\site-packages\osgeo\gdalplugins, ANT_HOME=C:\Program Files\Apache Software Foundation\Ant, APPDATA=C:\Users\localuser\AppData\Roaming, VBOX_MSI_INSTALL_PATH=C:\Program Files\Oracle\VirtualBox\, CommonProgramFiles=C:\Program Files\Common Files, Path=C:/Program Files/Java/jdk1.8/bin/../jre/bin/server;C:/Program Files/Java/jdk1.8/bin/../jre/bin;C:/Program Files/Java/jdk1.8/bin/../jre/lib/amd64;C:\Program Files\Apache Software Foundation\Grails\bin;C:\Program Files\Apache Software Foundation\Maven\bin;C:\Program Files\Apache Software Foundation\Ant\bin;C:\Program Files\Oracle\VirtualBox;C:\Program Files (x86)\Google\google_appengine\;C:\Program Files\Microsoft MPI\Bin\;C:\Oracle\product\11.2.0\client_1\bin;C:\Program Files\Java\jdk1.8\bin;C:\Ruby22-x64\bin;C:\ProgramData\Oracle\Java\javapath;C:\Program Files\Runas;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\MySQL\MySQL Utilities 1.6\;C:\Ch\bin;C:\Python27;C:\Python27\DLLs;C:\Python27\Scripts;C:\Python27\Lib\site-packages\vtk;C:\Python27\gnuplot\binary;C:\Python27\Lib\site-packages\osgeo;C:\Python27\Lib\site-packages\PyQt4;C:\Program Files (x86)\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\130\DTS\Binn\;C:\Program Files\Microsoft SQL Server\130\DTS\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\130\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\Client SDK\ODBC\130\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\140\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\140\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\140\Tools\Binn\ManagementStudio\;C:\Program Files\nodejs\;C:\Program Files\Git\cmd;C:\Program Files\TortoiseGit\bin;C:\Program Files\TortoiseSVN\bin;C:\Program Files\PuTTY\;C:\Program Files\OpenVPN\bin;C:\Users\localuser\AppData\Local\Microsoft\WindowsApps;C:\Users\localuser\AppData\Roaming\npm;C:\Program Files (x86)\Microsoft VS Code\bin;C:\Program Files\Eclipse;, OS=Windows_NT, COMPUTERNAME=B101P06, PROCESSOR_REVISION=5e03, CommonProgramW6432=C:\Program Files\Common Files, CLASSPATH=E:\S3\CPOA\SuperCanardBof\bin;C:\Program Files\eclipse\plugins\org.junit_4.12.0.v201504281640\junit.jar;C:\Program Files\eclipse\plugins\org.hamcrest.core_1.3.0.v201303031735.jar;C:/Users/LOCALU~1/AppData/Local/Temp/infinitest588939515.jar, ComSpec=C:\Windows\system32\cmd.exe, SystemRoot=C:\Windows, TEMP=C:\Users\LOCALU~1\AppData\Local\Temp, HOMEDRIVE=C:, PT6HOME=C:\Program Files (x86)\Cisco Packet Tracer 6.2, USERPROFILE=C:\Users\localuser, TMP=C:\Users\LOCALU~1\AppData\Local\Temp, CommonProgramFiles(x86)=C:\Program Files (x86)\Common Files, NUMBER_OF_PROCESSORS=8, SCITE_USERHOME=C:\Users\localuser\AppData\Local\AutoIt v3\SciTE}
+Command: [C:\Program Files\Java\jdk1.8\bin\java.exe, -mx256m, org.infinitest.testrunner.TestRunnerProcess, org.infinitest.testrunner.JUnit4Runner, 52373]
+
+!ENTRY org.infinitest.eclipse 1 0 2017-11-15 08:22:39.620
+!MESSAGE Update complete. Status FAILING
+
+!ENTRY org.infinitest.eclipse 1 0 2017-11-15 08:30:21.832
+!MESSAGE SuperCanardBof Files changed: [E:\S3\CPOA\SuperCanardBof\bin\SuperCanardTest.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2017-11-15 08:30:22.500
+!MESSAGE SuperCanardBof Running tests: [SuperCanardTest]
+
+!ENTRY org.infinitest.eclipse 1 0 2017-11-15 08:30:23.150
+!MESSAGE Launching test runner process with the following configuration:
+Directory: E:\S3\CPOA\SuperCanardBof
+Environment: {USERDOMAIN_ROAMINGPROFILE=B101P06, PROCESSOR_LEVEL=6, VS140COMNTOOLS=C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\Tools\, GRAILS_HOME=C:\Program Files\Apache Software Foundation\Grails, SESSIONNAME=Console, ALLUSERSPROFILE=C:\ProgramData, GDAL_DATA=C:\Python27\GDAL\data, PROCESSOR_ARCHITECTURE=AMD64, TNS_ADMIN=C:\Oracle\product\11.2.0\client_1\NETWORK\ADMIN, VirtualC=C:\Program Files (x86)\VirtualC\Virtual-C IDE\, PSModulePath=C:\Program Files (x86)\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules;C:\Program Files (x86)\Google\Cloud SDK\google-cloud-sdk\platform\PowerShell;C:\Program Files (x86)\Microsoft SQL Server\130\Tools\PowerShell\Modules\;C:\Program Files (x86)\AutoIt3\AutoItX, SystemDrive=C:, MAVEN_HOME=C:\Program Files\Apache Software Foundation\Maven, MOZ_PLUGIN_PATH=C:\Program Files\Tracker Software\PDF Viewer\Win32\, USERNAME=localuser, ProgramFiles(x86)=C:\Program Files (x86), TELELOGIC_LICENSE_FILE=2700@193.55.174.32, PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC;.CH;.PY;.PYW;.RB;.RBW, ProgramData=C:\ProgramData, ProgramW6432=C:\Program Files, HOMEPATH=\Users\localuser, PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 94 Stepping 3, GenuineIntel, ProgramFiles=C:\Program Files, PUBLIC=C:\Users\Public, windir=C:\Windows, =::=::\, LOCALAPPDATA=C:\Users\localuser\AppData\Local, MSMPI_BIN=C:\Program Files\Microsoft MPI\Bin\, USERDOMAIN=B101P06, LOGONSERVER=\\B101P06, JAVA_HOME=C:\Program Files\Java\jdk1.8, GDAL_DRIVER_PATH=C:\Python27\Lib\site-packages\osgeo\gdalplugins, ANT_HOME=C:\Program Files\Apache Software Foundation\Ant, APPDATA=C:\Users\localuser\AppData\Roaming, VBOX_MSI_INSTALL_PATH=C:\Program Files\Oracle\VirtualBox\, CommonProgramFiles=C:\Program Files\Common Files, Path=C:/Program Files/Java/jdk1.8/bin/../jre/bin/server;C:/Program Files/Java/jdk1.8/bin/../jre/bin;C:/Program Files/Java/jdk1.8/bin/../jre/lib/amd64;C:\Program Files\Apache Software Foundation\Grails\bin;C:\Program Files\Apache Software Foundation\Maven\bin;C:\Program Files\Apache Software Foundation\Ant\bin;C:\Program Files\Oracle\VirtualBox;C:\Program Files (x86)\Google\google_appengine\;C:\Program Files\Microsoft MPI\Bin\;C:\Oracle\product\11.2.0\client_1\bin;C:\Program Files\Java\jdk1.8\bin;C:\Ruby22-x64\bin;C:\ProgramData\Oracle\Java\javapath;C:\Program Files\Runas;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\MySQL\MySQL Utilities 1.6\;C:\Ch\bin;C:\Python27;C:\Python27\DLLs;C:\Python27\Scripts;C:\Python27\Lib\site-packages\vtk;C:\Python27\gnuplot\binary;C:\Python27\Lib\site-packages\osgeo;C:\Python27\Lib\site-packages\PyQt4;C:\Program Files (x86)\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\130\DTS\Binn\;C:\Program Files\Microsoft SQL Server\130\DTS\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\130\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\Client SDK\ODBC\130\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\140\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\140\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\140\Tools\Binn\ManagementStudio\;C:\Program Files\nodejs\;C:\Program Files\Git\cmd;C:\Program Files\TortoiseGit\bin;C:\Program Files\TortoiseSVN\bin;C:\Program Files\PuTTY\;C:\Program Files\OpenVPN\bin;C:\Users\localuser\AppData\Local\Microsoft\WindowsApps;C:\Users\localuser\AppData\Roaming\npm;C:\Program Files (x86)\Microsoft VS Code\bin;C:\Program Files\Eclipse;, OS=Windows_NT, COMPUTERNAME=B101P06, PROCESSOR_REVISION=5e03, CommonProgramW6432=C:\Program Files\Common Files, CLASSPATH=E:\S3\CPOA\SuperCanardBof\bin;C:\Program Files\eclipse\plugins\org.junit_4.12.0.v201504281640\junit.jar;C:\Program Files\eclipse\plugins\org.hamcrest.core_1.3.0.v201303031735.jar;C:/Users/LOCALU~1/AppData/Local/Temp/infinitest588939515.jar, ComSpec=C:\Windows\system32\cmd.exe, SystemRoot=C:\Windows, TEMP=C:\Users\LOCALU~1\AppData\Local\Temp, HOMEDRIVE=C:, PT6HOME=C:\Program Files (x86)\Cisco Packet Tracer 6.2, USERPROFILE=C:\Users\localuser, TMP=C:\Users\LOCALU~1\AppData\Local\Temp, CommonProgramFiles(x86)=C:\Program Files (x86)\Common Files, NUMBER_OF_PROCESSORS=8, SCITE_USERHOME=C:\Users\localuser\AppData\Local\AutoIt v3\SciTE}
+Command: [C:\Program Files\Java\jdk1.8\bin\java.exe, -mx256m, org.infinitest.testrunner.TestRunnerProcess, org.infinitest.testrunner.JUnit4Runner, 52426]
+
+!ENTRY org.infinitest.eclipse 1 0 2017-11-15 08:30:24.319
+!MESSAGE Update complete. Status PASSING
+
+!ENTRY org.eclipse.jface.text 2 0 2017-11-15 08:43:27.700
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.number'
+
+!ENTRY org.eclipse.jface.text 2 0 2017-11-15 08:43:28.364
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.round'
+
+!ENTRY org.eclipse.jface.text 2 0 2017-11-15 08:43:28.498
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.number'
+
+!ENTRY org.eclipse.jface.text 2 0 2017-11-15 08:43:28.508
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.round'
+
+!ENTRY org.infinitest.eclipse 1 0 2017-11-15 08:43:29.816
+!MESSAGE SuperCanardBof Files changed: [E:\S3\CPOA\SuperCanardBof\bin\comportementVol.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2017-11-15 08:47:58.301
+!MESSAGE Files removed. Reloading SuperCanardBof
+
+!ENTRY org.infinitest.eclipse 1 0 2017-11-15 08:47:59.616
+!MESSAGE Reloading core SuperCanardBof
+
+!ENTRY org.infinitest.eclipse 1 0 2017-11-15 08:47:59.650
+!MESSAGE SuperCanardBof Files changed: [E:\S3\CPOA\SuperCanardBof\bin\SuperCanard.class, E:\S3\CPOA\SuperCanardBof\bin\SuperCanardTest2.class, E:\S3\CPOA\SuperCanardBof\bin\CanardEnPlastique.class, E:\S3\CPOA\SuperCanardBof\bin\Colvert.class, E:\S3\CPOA\SuperCanardBof\bin\SuperCanardTest.class, E:\S3\CPOA\SuperCanardBof\bin\Canard.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2017-11-15 08:47:59.677
+!MESSAGE SuperCanardBof Running tests: [SuperCanardTest, SuperCanardTest2]
+
+!ENTRY org.infinitest.eclipse 1 0 2017-11-15 08:47:59.697
+!MESSAGE Launching test runner process with the following configuration:
+Directory: E:\S3\CPOA\SuperCanardBof
+Environment: {USERDOMAIN_ROAMINGPROFILE=B101P06, PROCESSOR_LEVEL=6, VS140COMNTOOLS=C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\Tools\, GRAILS_HOME=C:\Program Files\Apache Software Foundation\Grails, SESSIONNAME=Console, ALLUSERSPROFILE=C:\ProgramData, GDAL_DATA=C:\Python27\GDAL\data, PROCESSOR_ARCHITECTURE=AMD64, TNS_ADMIN=C:\Oracle\product\11.2.0\client_1\NETWORK\ADMIN, VirtualC=C:\Program Files (x86)\VirtualC\Virtual-C IDE\, PSModulePath=C:\Program Files (x86)\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules;C:\Program Files (x86)\Google\Cloud SDK\google-cloud-sdk\platform\PowerShell;C:\Program Files (x86)\Microsoft SQL Server\130\Tools\PowerShell\Modules\;C:\Program Files (x86)\AutoIt3\AutoItX, SystemDrive=C:, MAVEN_HOME=C:\Program Files\Apache Software Foundation\Maven, MOZ_PLUGIN_PATH=C:\Program Files\Tracker Software\PDF Viewer\Win32\, USERNAME=localuser, ProgramFiles(x86)=C:\Program Files (x86), TELELOGIC_LICENSE_FILE=2700@193.55.174.32, PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC;.CH;.PY;.PYW;.RB;.RBW, ProgramData=C:\ProgramData, ProgramW6432=C:\Program Files, HOMEPATH=\Users\localuser, PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 94 Stepping 3, GenuineIntel, ProgramFiles=C:\Program Files, PUBLIC=C:\Users\Public, windir=C:\Windows, =::=::\, LOCALAPPDATA=C:\Users\localuser\AppData\Local, MSMPI_BIN=C:\Program Files\Microsoft MPI\Bin\, USERDOMAIN=B101P06, LOGONSERVER=\\B101P06, JAVA_HOME=C:\Program Files\Java\jdk1.8, GDAL_DRIVER_PATH=C:\Python27\Lib\site-packages\osgeo\gdalplugins, ANT_HOME=C:\Program Files\Apache Software Foundation\Ant, APPDATA=C:\Users\localuser\AppData\Roaming, VBOX_MSI_INSTALL_PATH=C:\Program Files\Oracle\VirtualBox\, CommonProgramFiles=C:\Program Files\Common Files, Path=C:/Program Files/Java/jdk1.8/bin/../jre/bin/server;C:/Program Files/Java/jdk1.8/bin/../jre/bin;C:/Program Files/Java/jdk1.8/bin/../jre/lib/amd64;C:\Program Files\Apache Software Foundation\Grails\bin;C:\Program Files\Apache Software Foundation\Maven\bin;C:\Program Files\Apache Software Foundation\Ant\bin;C:\Program Files\Oracle\VirtualBox;C:\Program Files (x86)\Google\google_appengine\;C:\Program Files\Microsoft MPI\Bin\;C:\Oracle\product\11.2.0\client_1\bin;C:\Program Files\Java\jdk1.8\bin;C:\Ruby22-x64\bin;C:\ProgramData\Oracle\Java\javapath;C:\Program Files\Runas;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\MySQL\MySQL Utilities 1.6\;C:\Ch\bin;C:\Python27;C:\Python27\DLLs;C:\Python27\Scripts;C:\Python27\Lib\site-packages\vtk;C:\Python27\gnuplot\binary;C:\Python27\Lib\site-packages\osgeo;C:\Python27\Lib\site-packages\PyQt4;C:\Program Files (x86)\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\130\DTS\Binn\;C:\Program Files\Microsoft SQL Server\130\DTS\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\130\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\Client SDK\ODBC\130\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\140\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\140\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\140\Tools\Binn\ManagementStudio\;C:\Program Files\nodejs\;C:\Program Files\Git\cmd;C:\Program Files\TortoiseGit\bin;C:\Program Files\TortoiseSVN\bin;C:\Program Files\PuTTY\;C:\Program Files\OpenVPN\bin;C:\Users\localuser\AppData\Local\Microsoft\WindowsApps;C:\Users\localuser\AppData\Roaming\npm;C:\Program Files (x86)\Microsoft VS Code\bin;C:\Program Files\Eclipse;, OS=Windows_NT, COMPUTERNAME=B101P06, PROCESSOR_REVISION=5e03, CommonProgramW6432=C:\Program Files\Common Files, CLASSPATH=E:\S3\CPOA\SuperCanardBof\bin;C:\Program Files\eclipse\plugins\org.junit_4.12.0.v201504281640\junit.jar;C:\Program Files\eclipse\plugins\org.hamcrest.core_1.3.0.v201303031735.jar;C:/Users/LOCALU~1/AppData/Local/Temp/infinitest588939515.jar, ComSpec=C:\Windows\system32\cmd.exe, SystemRoot=C:\Windows, TEMP=C:\Users\LOCALU~1\AppData\Local\Temp, HOMEDRIVE=C:, PT6HOME=C:\Program Files (x86)\Cisco Packet Tracer 6.2, USERPROFILE=C:\Users\localuser, TMP=C:\Users\LOCALU~1\AppData\Local\Temp, CommonProgramFiles(x86)=C:\Program Files (x86)\Common Files, NUMBER_OF_PROCESSORS=8, SCITE_USERHOME=C:\Users\localuser\AppData\Local\AutoIt v3\SciTE}
+Command: [C:\Program Files\Java\jdk1.8\bin\java.exe, -mx256m, org.infinitest.testrunner.TestRunnerProcess, org.infinitest.testrunner.JUnit4Runner, 52481]
+
+!ENTRY org.infinitest.eclipse 1 0 2017-11-15 08:48:01.577
+!MESSAGE Update complete. Status PASSING
+
+!ENTRY org.infinitest.eclipse 1 0 2017-11-15 08:48:35.706
+!MESSAGE SuperCanardBof Files changed: [E:\S3\CPOA\SuperCanardBof\bin\Voler.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2017-11-15 08:49:02.012
+!MESSAGE SuperCanardBof Files changed: [E:\S3\CPOA\SuperCanardBof\bin\volerAvecDesAiles.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2017-11-15 08:49:22.736
+!MESSAGE SuperCanardBof Files changed: [E:\S3\CPOA\SuperCanardBof\bin\volerAvecDesAiles.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2017-11-15 08:50:45.704
+!MESSAGE SuperCanardBof Files changed: [E:\S3\CPOA\SuperCanardBof\bin\volerAvecDesAiles.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2017-11-15 08:51:01.494
+!MESSAGE SuperCanardBof Files changed: [E:\S3\CPOA\SuperCanardBof\bin\PeutpasVoler.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2017-11-15 08:53:57.630
+!MESSAGE SuperCanardBof Files changed: [E:\S3\CPOA\SuperCanardBof\bin\volerAvecDesAiles.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2017-11-15 08:54:29.930
+!MESSAGE SuperCanardBof Files changed: [E:\S3\CPOA\SuperCanardBof\bin\PeutpasVoler.class, E:\S3\CPOA\SuperCanardBof\bin\volerAvecDesAiles.class, E:\S3\CPOA\SuperCanardBof\bin\Voler.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2017-11-15 08:55:07.394
+!MESSAGE Files removed. Reloading SuperCanardBof
+
+!ENTRY org.infinitest.eclipse 1 0 2017-11-15 08:55:08.736
+!MESSAGE Reloading core SuperCanardBof
+
+!ENTRY org.infinitest.eclipse 1 0 2017-11-15 08:55:08.767
+!MESSAGE SuperCanardBof Files changed: [E:\S3\CPOA\SuperCanardBof\bin\SuperCanard.class, E:\S3\CPOA\SuperCanardBof\bin\SuperCanardTest2.class, E:\S3\CPOA\SuperCanardBof\bin\CanardEnPlastique.class, E:\S3\CPOA\SuperCanardBof\bin\PeutpasVoler.class, E:\S3\CPOA\SuperCanardBof\bin\volerAvecDesAiles.class, E:\S3\CPOA\SuperCanardBof\bin\ComportementVoler.class, E:\S3\CPOA\SuperCanardBof\bin\Colvert.class, E:\S3\CPOA\SuperCanardBof\bin\SuperCanardTest.class, E:\S3\CPOA\SuperCanardBof\bin\Canard.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2017-11-15 08:55:08.795
+!MESSAGE SuperCanardBof Running tests: [SuperCanardTest, SuperCanardTest2]
+
+!ENTRY org.infinitest.eclipse 1 0 2017-11-15 08:55:08.807
+!MESSAGE Launching test runner process with the following configuration:
+Directory: E:\S3\CPOA\SuperCanardBof
+Environment: {USERDOMAIN_ROAMINGPROFILE=B101P06, PROCESSOR_LEVEL=6, VS140COMNTOOLS=C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\Tools\, GRAILS_HOME=C:\Program Files\Apache Software Foundation\Grails, SESSIONNAME=Console, ALLUSERSPROFILE=C:\ProgramData, GDAL_DATA=C:\Python27\GDAL\data, PROCESSOR_ARCHITECTURE=AMD64, TNS_ADMIN=C:\Oracle\product\11.2.0\client_1\NETWORK\ADMIN, VirtualC=C:\Program Files (x86)\VirtualC\Virtual-C IDE\, PSModulePath=C:\Program Files (x86)\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules;C:\Program Files (x86)\Google\Cloud SDK\google-cloud-sdk\platform\PowerShell;C:\Program Files (x86)\Microsoft SQL Server\130\Tools\PowerShell\Modules\;C:\Program Files (x86)\AutoIt3\AutoItX, SystemDrive=C:, MAVEN_HOME=C:\Program Files\Apache Software Foundation\Maven, MOZ_PLUGIN_PATH=C:\Program Files\Tracker Software\PDF Viewer\Win32\, USERNAME=localuser, ProgramFiles(x86)=C:\Program Files (x86), TELELOGIC_LICENSE_FILE=2700@193.55.174.32, PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC;.CH;.PY;.PYW;.RB;.RBW, ProgramData=C:\ProgramData, ProgramW6432=C:\Program Files, HOMEPATH=\Users\localuser, PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 94 Stepping 3, GenuineIntel, ProgramFiles=C:\Program Files, PUBLIC=C:\Users\Public, windir=C:\Windows, =::=::\, LOCALAPPDATA=C:\Users\localuser\AppData\Local, MSMPI_BIN=C:\Program Files\Microsoft MPI\Bin\, USERDOMAIN=B101P06, LOGONSERVER=\\B101P06, JAVA_HOME=C:\Program Files\Java\jdk1.8, GDAL_DRIVER_PATH=C:\Python27\Lib\site-packages\osgeo\gdalplugins, ANT_HOME=C:\Program Files\Apache Software Foundation\Ant, APPDATA=C:\Users\localuser\AppData\Roaming, VBOX_MSI_INSTALL_PATH=C:\Program Files\Oracle\VirtualBox\, CommonProgramFiles=C:\Program Files\Common Files, Path=C:/Program Files/Java/jdk1.8/bin/../jre/bin/server;C:/Program Files/Java/jdk1.8/bin/../jre/bin;C:/Program Files/Java/jdk1.8/bin/../jre/lib/amd64;C:\Program Files\Apache Software Foundation\Grails\bin;C:\Program Files\Apache Software Foundation\Maven\bin;C:\Program Files\Apache Software Foundation\Ant\bin;C:\Program Files\Oracle\VirtualBox;C:\Program Files (x86)\Google\google_appengine\;C:\Program Files\Microsoft MPI\Bin\;C:\Oracle\product\11.2.0\client_1\bin;C:\Program Files\Java\jdk1.8\bin;C:\Ruby22-x64\bin;C:\ProgramData\Oracle\Java\javapath;C:\Program Files\Runas;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\MySQL\MySQL Utilities 1.6\;C:\Ch\bin;C:\Python27;C:\Python27\DLLs;C:\Python27\Scripts;C:\Python27\Lib\site-packages\vtk;C:\Python27\gnuplot\binary;C:\Python27\Lib\site-packages\osgeo;C:\Python27\Lib\site-packages\PyQt4;C:\Program Files (x86)\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\130\DTS\Binn\;C:\Program Files\Microsoft SQL Server\130\DTS\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\130\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\Client SDK\ODBC\130\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\140\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\140\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\140\Tools\Binn\ManagementStudio\;C:\Program Files\nodejs\;C:\Program Files\Git\cmd;C:\Program Files\TortoiseGit\bin;C:\Program Files\TortoiseSVN\bin;C:\Program Files\PuTTY\;C:\Program Files\OpenVPN\bin;C:\Users\localuser\AppData\Local\Microsoft\WindowsApps;C:\Users\localuser\AppData\Roaming\npm;C:\Program Files (x86)\Microsoft VS Code\bin;C:\Program Files\Eclipse;, OS=Windows_NT, COMPUTERNAME=B101P06, PROCESSOR_REVISION=5e03, CommonProgramW6432=C:\Program Files\Common Files, CLASSPATH=E:\S3\CPOA\SuperCanardBof\bin;C:\Program Files\eclipse\plugins\org.junit_4.12.0.v201504281640\junit.jar;C:\Program Files\eclipse\plugins\org.hamcrest.core_1.3.0.v201303031735.jar;C:/Users/LOCALU~1/AppData/Local/Temp/infinitest588939515.jar, ComSpec=C:\Windows\system32\cmd.exe, SystemRoot=C:\Windows, TEMP=C:\Users\LOCALU~1\AppData\Local\Temp, HOMEDRIVE=C:, PT6HOME=C:\Program Files (x86)\Cisco Packet Tracer 6.2, USERPROFILE=C:\Users\localuser, TMP=C:\Users\LOCALU~1\AppData\Local\Temp, CommonProgramFiles(x86)=C:\Program Files (x86)\Common Files, NUMBER_OF_PROCESSORS=8, SCITE_USERHOME=C:\Users\localuser\AppData\Local\AutoIt v3\SciTE}
+Command: [C:\Program Files\Java\jdk1.8\bin\java.exe, -mx256m, org.infinitest.testrunner.TestRunnerProcess, org.infinitest.testrunner.JUnit4Runner, 52501]
+
+!ENTRY org.infinitest.eclipse 1 0 2017-11-15 08:55:10.031
+!MESSAGE Update complete. Status PASSING
+
+!ENTRY org.infinitest.eclipse 1 0 2017-11-15 09:22:20.828
+!MESSAGE SuperCanardBof Files changed: [E:\S3\CPOA\SuperCanardBof\bin\SuperCanard.class, E:\S3\CPOA\SuperCanardBof\bin\SuperCanardTest2.class, E:\S3\CPOA\SuperCanardBof\bin\CanardEnPlastique.class, E:\S3\CPOA\SuperCanardBof\bin\PeutpasVoler.class, E:\S3\CPOA\SuperCanardBof\bin\PeutCancaner.class, E:\S3\CPOA\SuperCanardBof\bin\ComportementVoler.class, E:\S3\CPOA\SuperCanardBof\bin\Colvert.class, E:\S3\CPOA\SuperCanardBof\bin\ComportementCancaner.class, E:\S3\CPOA\SuperCanardBof\bin\Canard.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2017-11-15 09:22:21.500
+!MESSAGE SuperCanardBof Running tests: [SuperCanardTest2]
+
+!ENTRY org.infinitest.eclipse 1 0 2017-11-15 09:22:23.454
+!MESSAGE Launching test runner process with the following configuration:
+Directory: E:\S3\CPOA\SuperCanardBof
+Environment: {USERDOMAIN_ROAMINGPROFILE=B101P06, PROCESSOR_LEVEL=6, VS140COMNTOOLS=C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\Tools\, GRAILS_HOME=C:\Program Files\Apache Software Foundation\Grails, SESSIONNAME=Console, ALLUSERSPROFILE=C:\ProgramData, GDAL_DATA=C:\Python27\GDAL\data, PROCESSOR_ARCHITECTURE=AMD64, TNS_ADMIN=C:\Oracle\product\11.2.0\client_1\NETWORK\ADMIN, VirtualC=C:\Program Files (x86)\VirtualC\Virtual-C IDE\, PSModulePath=C:\Program Files (x86)\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules;C:\Program Files (x86)\Google\Cloud SDK\google-cloud-sdk\platform\PowerShell;C:\Program Files (x86)\Microsoft SQL Server\130\Tools\PowerShell\Modules\;C:\Program Files (x86)\AutoIt3\AutoItX, SystemDrive=C:, MAVEN_HOME=C:\Program Files\Apache Software Foundation\Maven, MOZ_PLUGIN_PATH=C:\Program Files\Tracker Software\PDF Viewer\Win32\, USERNAME=localuser, ProgramFiles(x86)=C:\Program Files (x86), TELELOGIC_LICENSE_FILE=2700@193.55.174.32, PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC;.CH;.PY;.PYW;.RB;.RBW, ProgramData=C:\ProgramData, ProgramW6432=C:\Program Files, HOMEPATH=\Users\localuser, PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 94 Stepping 3, GenuineIntel, ProgramFiles=C:\Program Files, PUBLIC=C:\Users\Public, windir=C:\Windows, =::=::\, LOCALAPPDATA=C:\Users\localuser\AppData\Local, MSMPI_BIN=C:\Program Files\Microsoft MPI\Bin\, USERDOMAIN=B101P06, LOGONSERVER=\\B101P06, JAVA_HOME=C:\Program Files\Java\jdk1.8, GDAL_DRIVER_PATH=C:\Python27\Lib\site-packages\osgeo\gdalplugins, ANT_HOME=C:\Program Files\Apache Software Foundation\Ant, APPDATA=C:\Users\localuser\AppData\Roaming, VBOX_MSI_INSTALL_PATH=C:\Program Files\Oracle\VirtualBox\, CommonProgramFiles=C:\Program Files\Common Files, Path=C:/Program Files/Java/jdk1.8/bin/../jre/bin/server;C:/Program Files/Java/jdk1.8/bin/../jre/bin;C:/Program Files/Java/jdk1.8/bin/../jre/lib/amd64;C:\Program Files\Apache Software Foundation\Grails\bin;C:\Program Files\Apache Software Foundation\Maven\bin;C:\Program Files\Apache Software Foundation\Ant\bin;C:\Program Files\Oracle\VirtualBox;C:\Program Files (x86)\Google\google_appengine\;C:\Program Files\Microsoft MPI\Bin\;C:\Oracle\product\11.2.0\client_1\bin;C:\Program Files\Java\jdk1.8\bin;C:\Ruby22-x64\bin;C:\ProgramData\Oracle\Java\javapath;C:\Program Files\Runas;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\MySQL\MySQL Utilities 1.6\;C:\Ch\bin;C:\Python27;C:\Python27\DLLs;C:\Python27\Scripts;C:\Python27\Lib\site-packages\vtk;C:\Python27\gnuplot\binary;C:\Python27\Lib\site-packages\osgeo;C:\Python27\Lib\site-packages\PyQt4;C:\Program Files (x86)\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\130\DTS\Binn\;C:\Program Files\Microsoft SQL Server\130\DTS\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\130\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\Client SDK\ODBC\130\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\140\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\140\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\140\Tools\Binn\ManagementStudio\;C:\Program Files\nodejs\;C:\Program Files\Git\cmd;C:\Program Files\TortoiseGit\bin;C:\Program Files\TortoiseSVN\bin;C:\Program Files\PuTTY\;C:\Program Files\OpenVPN\bin;C:\Users\localuser\AppData\Local\Microsoft\WindowsApps;C:\Users\localuser\AppData\Roaming\npm;C:\Program Files (x86)\Microsoft VS Code\bin;C:\Program Files\Eclipse;, OS=Windows_NT, COMPUTERNAME=B101P06, PROCESSOR_REVISION=5e03, CommonProgramW6432=C:\Program Files\Common Files, CLASSPATH=E:\S3\CPOA\SuperCanardBof\bin;C:\Program Files\eclipse\plugins\org.junit_4.12.0.v201504281640\junit.jar;C:\Program Files\eclipse\plugins\org.hamcrest.core_1.3.0.v201303031735.jar;C:/Users/LOCALU~1/AppData/Local/Temp/infinitest588939515.jar, ComSpec=C:\Windows\system32\cmd.exe, SystemRoot=C:\Windows, TEMP=C:\Users\LOCALU~1\AppData\Local\Temp, HOMEDRIVE=C:, PT6HOME=C:\Program Files (x86)\Cisco Packet Tracer 6.2, USERPROFILE=C:\Users\localuser, TMP=C:\Users\LOCALU~1\AppData\Local\Temp, CommonProgramFiles(x86)=C:\Program Files (x86)\Common Files, NUMBER_OF_PROCESSORS=8, SCITE_USERHOME=C:\Users\localuser\AppData\Local\AutoIt v3\SciTE}
+Command: [C:\Program Files\Java\jdk1.8\bin\java.exe, -mx256m, org.infinitest.testrunner.TestRunnerProcess, org.infinitest.testrunner.JUnit4Runner, 52570]
+
+!ENTRY org.infinitest.eclipse 1 0 2017-11-15 09:22:23.792
+!MESSAGE Update complete. Status FAILING
+
+!ENTRY org.infinitest.eclipse 1 0 2017-11-15 09:23:44.237
+!MESSAGE SuperCanardBof Files changed: [E:\S3\CPOA\SuperCanardBof\bin\PeutCancaner.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2017-11-15 09:23:44.925
+!MESSAGE SuperCanardBof Running tests: [SuperCanardTest2]
+
+!ENTRY org.infinitest.eclipse 1 0 2017-11-15 09:23:46.256
+!MESSAGE Launching test runner process with the following configuration:
+Directory: E:\S3\CPOA\SuperCanardBof
+Environment: {USERDOMAIN_ROAMINGPROFILE=B101P06, PROCESSOR_LEVEL=6, VS140COMNTOOLS=C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\Tools\, GRAILS_HOME=C:\Program Files\Apache Software Foundation\Grails, SESSIONNAME=Console, ALLUSERSPROFILE=C:\ProgramData, GDAL_DATA=C:\Python27\GDAL\data, PROCESSOR_ARCHITECTURE=AMD64, TNS_ADMIN=C:\Oracle\product\11.2.0\client_1\NETWORK\ADMIN, VirtualC=C:\Program Files (x86)\VirtualC\Virtual-C IDE\, PSModulePath=C:\Program Files (x86)\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules;C:\Program Files (x86)\Google\Cloud SDK\google-cloud-sdk\platform\PowerShell;C:\Program Files (x86)\Microsoft SQL Server\130\Tools\PowerShell\Modules\;C:\Program Files (x86)\AutoIt3\AutoItX, SystemDrive=C:, MAVEN_HOME=C:\Program Files\Apache Software Foundation\Maven, MOZ_PLUGIN_PATH=C:\Program Files\Tracker Software\PDF Viewer\Win32\, USERNAME=localuser, ProgramFiles(x86)=C:\Program Files (x86), TELELOGIC_LICENSE_FILE=2700@193.55.174.32, PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC;.CH;.PY;.PYW;.RB;.RBW, ProgramData=C:\ProgramData, ProgramW6432=C:\Program Files, HOMEPATH=\Users\localuser, PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 94 Stepping 3, GenuineIntel, ProgramFiles=C:\Program Files, PUBLIC=C:\Users\Public, windir=C:\Windows, =::=::\, LOCALAPPDATA=C:\Users\localuser\AppData\Local, MSMPI_BIN=C:\Program Files\Microsoft MPI\Bin\, USERDOMAIN=B101P06, LOGONSERVER=\\B101P06, JAVA_HOME=C:\Program Files\Java\jdk1.8, GDAL_DRIVER_PATH=C:\Python27\Lib\site-packages\osgeo\gdalplugins, ANT_HOME=C:\Program Files\Apache Software Foundation\Ant, APPDATA=C:\Users\localuser\AppData\Roaming, VBOX_MSI_INSTALL_PATH=C:\Program Files\Oracle\VirtualBox\, CommonProgramFiles=C:\Program Files\Common Files, Path=C:/Program Files/Java/jdk1.8/bin/../jre/bin/server;C:/Program Files/Java/jdk1.8/bin/../jre/bin;C:/Program Files/Java/jdk1.8/bin/../jre/lib/amd64;C:\Program Files\Apache Software Foundation\Grails\bin;C:\Program Files\Apache Software Foundation\Maven\bin;C:\Program Files\Apache Software Foundation\Ant\bin;C:\Program Files\Oracle\VirtualBox;C:\Program Files (x86)\Google\google_appengine\;C:\Program Files\Microsoft MPI\Bin\;C:\Oracle\product\11.2.0\client_1\bin;C:\Program Files\Java\jdk1.8\bin;C:\Ruby22-x64\bin;C:\ProgramData\Oracle\Java\javapath;C:\Program Files\Runas;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\MySQL\MySQL Utilities 1.6\;C:\Ch\bin;C:\Python27;C:\Python27\DLLs;C:\Python27\Scripts;C:\Python27\Lib\site-packages\vtk;C:\Python27\gnuplot\binary;C:\Python27\Lib\site-packages\osgeo;C:\Python27\Lib\site-packages\PyQt4;C:\Program Files (x86)\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\130\DTS\Binn\;C:\Program Files\Microsoft SQL Server\130\DTS\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\130\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\Client SDK\ODBC\130\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\140\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\140\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\140\Tools\Binn\ManagementStudio\;C:\Program Files\nodejs\;C:\Program Files\Git\cmd;C:\Program Files\TortoiseGit\bin;C:\Program Files\TortoiseSVN\bin;C:\Program Files\PuTTY\;C:\Program Files\OpenVPN\bin;C:\Users\localuser\AppData\Local\Microsoft\WindowsApps;C:\Users\localuser\AppData\Roaming\npm;C:\Program Files (x86)\Microsoft VS Code\bin;C:\Program Files\Eclipse;, OS=Windows_NT, COMPUTERNAME=B101P06, PROCESSOR_REVISION=5e03, CommonProgramW6432=C:\Program Files\Common Files, CLASSPATH=E:\S3\CPOA\SuperCanardBof\bin;C:\Program Files\eclipse\plugins\org.junit_4.12.0.v201504281640\junit.jar;C:\Program Files\eclipse\plugins\org.hamcrest.core_1.3.0.v201303031735.jar;C:/Users/LOCALU~1/AppData/Local/Temp/infinitest588939515.jar, ComSpec=C:\Windows\system32\cmd.exe, SystemRoot=C:\Windows, TEMP=C:\Users\LOCALU~1\AppData\Local\Temp, HOMEDRIVE=C:, PT6HOME=C:\Program Files (x86)\Cisco Packet Tracer 6.2, USERPROFILE=C:\Users\localuser, TMP=C:\Users\LOCALU~1\AppData\Local\Temp, CommonProgramFiles(x86)=C:\Program Files (x86)\Common Files, NUMBER_OF_PROCESSORS=8, SCITE_USERHOME=C:\Users\localuser\AppData\Local\AutoIt v3\SciTE}
+Command: [C:\Program Files\Java\jdk1.8\bin\java.exe, -mx256m, org.infinitest.testrunner.TestRunnerProcess, org.infinitest.testrunner.JUnit4Runner, 52577]
+
+!ENTRY org.infinitest.eclipse 1 0 2017-11-15 09:23:48.583
+!MESSAGE Update complete. Status FAILING
+
+!ENTRY org.infinitest.eclipse 1 0 2017-11-15 09:24:26.096
+!MESSAGE SuperCanardBof Files changed: [E:\S3\CPOA\SuperCanardBof\bin\ComportementCancaner.class, E:\S3\CPOA\SuperCanardBof\bin\Canard.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2017-11-15 09:24:26.785
+!MESSAGE SuperCanardBof Running tests: [SuperCanardTest2]
+
+!ENTRY org.infinitest.eclipse 1 0 2017-11-15 09:24:26.816
+!MESSAGE Launching test runner process with the following configuration:
+Directory: E:\S3\CPOA\SuperCanardBof
+Environment: {USERDOMAIN_ROAMINGPROFILE=B101P06, PROCESSOR_LEVEL=6, VS140COMNTOOLS=C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\Tools\, GRAILS_HOME=C:\Program Files\Apache Software Foundation\Grails, SESSIONNAME=Console, ALLUSERSPROFILE=C:\ProgramData, GDAL_DATA=C:\Python27\GDAL\data, PROCESSOR_ARCHITECTURE=AMD64, TNS_ADMIN=C:\Oracle\product\11.2.0\client_1\NETWORK\ADMIN, VirtualC=C:\Program Files (x86)\VirtualC\Virtual-C IDE\, PSModulePath=C:\Program Files (x86)\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules;C:\Program Files (x86)\Google\Cloud SDK\google-cloud-sdk\platform\PowerShell;C:\Program Files (x86)\Microsoft SQL Server\130\Tools\PowerShell\Modules\;C:\Program Files (x86)\AutoIt3\AutoItX, SystemDrive=C:, MAVEN_HOME=C:\Program Files\Apache Software Foundation\Maven, MOZ_PLUGIN_PATH=C:\Program Files\Tracker Software\PDF Viewer\Win32\, USERNAME=localuser, ProgramFiles(x86)=C:\Program Files (x86), TELELOGIC_LICENSE_FILE=2700@193.55.174.32, PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC;.CH;.PY;.PYW;.RB;.RBW, ProgramData=C:\ProgramData, ProgramW6432=C:\Program Files, HOMEPATH=\Users\localuser, PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 94 Stepping 3, GenuineIntel, ProgramFiles=C:\Program Files, PUBLIC=C:\Users\Public, windir=C:\Windows, =::=::\, LOCALAPPDATA=C:\Users\localuser\AppData\Local, MSMPI_BIN=C:\Program Files\Microsoft MPI\Bin\, USERDOMAIN=B101P06, LOGONSERVER=\\B101P06, JAVA_HOME=C:\Program Files\Java\jdk1.8, GDAL_DRIVER_PATH=C:\Python27\Lib\site-packages\osgeo\gdalplugins, ANT_HOME=C:\Program Files\Apache Software Foundation\Ant, APPDATA=C:\Users\localuser\AppData\Roaming, VBOX_MSI_INSTALL_PATH=C:\Program Files\Oracle\VirtualBox\, CommonProgramFiles=C:\Program Files\Common Files, Path=C:/Program Files/Java/jdk1.8/bin/../jre/bin/server;C:/Program Files/Java/jdk1.8/bin/../jre/bin;C:/Program Files/Java/jdk1.8/bin/../jre/lib/amd64;C:\Program Files\Apache Software Foundation\Grails\bin;C:\Program Files\Apache Software Foundation\Maven\bin;C:\Program Files\Apache Software Foundation\Ant\bin;C:\Program Files\Oracle\VirtualBox;C:\Program Files (x86)\Google\google_appengine\;C:\Program Files\Microsoft MPI\Bin\;C:\Oracle\product\11.2.0\client_1\bin;C:\Program Files\Java\jdk1.8\bin;C:\Ruby22-x64\bin;C:\ProgramData\Oracle\Java\javapath;C:\Program Files\Runas;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\MySQL\MySQL Utilities 1.6\;C:\Ch\bin;C:\Python27;C:\Python27\DLLs;C:\Python27\Scripts;C:\Python27\Lib\site-packages\vtk;C:\Python27\gnuplot\binary;C:\Python27\Lib\site-packages\osgeo;C:\Python27\Lib\site-packages\PyQt4;C:\Program Files (x86)\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\130\DTS\Binn\;C:\Program Files\Microsoft SQL Server\130\DTS\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\130\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\Client SDK\ODBC\130\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\140\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\140\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\140\Tools\Binn\ManagementStudio\;C:\Program Files\nodejs\;C:\Program Files\Git\cmd;C:\Program Files\TortoiseGit\bin;C:\Program Files\TortoiseSVN\bin;C:\Program Files\PuTTY\;C:\Program Files\OpenVPN\bin;C:\Users\localuser\AppData\Local\Microsoft\WindowsApps;C:\Users\localuser\AppData\Roaming\npm;C:\Program Files (x86)\Microsoft VS Code\bin;C:\Program Files\Eclipse;, OS=Windows_NT, COMPUTERNAME=B101P06, PROCESSOR_REVISION=5e03, CommonProgramW6432=C:\Program Files\Common Files, CLASSPATH=E:\S3\CPOA\SuperCanardBof\bin;C:\Program Files\eclipse\plugins\org.junit_4.12.0.v201504281640\junit.jar;C:\Program Files\eclipse\plugins\org.hamcrest.core_1.3.0.v201303031735.jar;C:/Users/LOCALU~1/AppData/Local/Temp/infinitest588939515.jar, ComSpec=C:\Windows\system32\cmd.exe, SystemRoot=C:\Windows, TEMP=C:\Users\LOCALU~1\AppData\Local\Temp, HOMEDRIVE=C:, PT6HOME=C:\Program Files (x86)\Cisco Packet Tracer 6.2, USERPROFILE=C:\Users\localuser, TMP=C:\Users\LOCALU~1\AppData\Local\Temp, CommonProgramFiles(x86)=C:\Program Files (x86)\Common Files, NUMBER_OF_PROCESSORS=8, SCITE_USERHOME=C:\Users\localuser\AppData\Local\AutoIt v3\SciTE}
+Command: [C:\Program Files\Java\jdk1.8\bin\java.exe, -mx256m, org.infinitest.testrunner.TestRunnerProcess, org.infinitest.testrunner.JUnit4Runner, 52579]
+
+!ENTRY org.infinitest.eclipse 1 0 2017-11-15 09:24:27.082
+!MESSAGE Update complete. Status FAILING
+
+!ENTRY org.infinitest.eclipse 1 0 2017-11-15 09:27:36.929
+!MESSAGE SuperCanardBof Files changed: [E:\S3\CPOA\SuperCanardBof\bin\SuperCanard.class, E:\S3\CPOA\SuperCanardBof\bin\SuperCanardTest2.class, E:\S3\CPOA\SuperCanardBof\bin\ComportementVoler.class, E:\S3\CPOA\SuperCanardBof\bin\ComportementCancaner.class, E:\S3\CPOA\SuperCanardBof\bin\Canard.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2017-11-15 09:27:38.285
+!MESSAGE SuperCanardBof Running tests: [SuperCanardTest2]
+
+!ENTRY org.infinitest.eclipse 1 0 2017-11-15 09:27:38.300
+!MESSAGE Launching test runner process with the following configuration:
+Directory: E:\S3\CPOA\SuperCanardBof
+Environment: {USERDOMAIN_ROAMINGPROFILE=B101P06, PROCESSOR_LEVEL=6, VS140COMNTOOLS=C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\Tools\, GRAILS_HOME=C:\Program Files\Apache Software Foundation\Grails, SESSIONNAME=Console, ALLUSERSPROFILE=C:\ProgramData, GDAL_DATA=C:\Python27\GDAL\data, PROCESSOR_ARCHITECTURE=AMD64, TNS_ADMIN=C:\Oracle\product\11.2.0\client_1\NETWORK\ADMIN, VirtualC=C:\Program Files (x86)\VirtualC\Virtual-C IDE\, PSModulePath=C:\Program Files (x86)\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules;C:\Program Files (x86)\Google\Cloud SDK\google-cloud-sdk\platform\PowerShell;C:\Program Files (x86)\Microsoft SQL Server\130\Tools\PowerShell\Modules\;C:\Program Files (x86)\AutoIt3\AutoItX, SystemDrive=C:, MAVEN_HOME=C:\Program Files\Apache Software Foundation\Maven, MOZ_PLUGIN_PATH=C:\Program Files\Tracker Software\PDF Viewer\Win32\, USERNAME=localuser, ProgramFiles(x86)=C:\Program Files (x86), TELELOGIC_LICENSE_FILE=2700@193.55.174.32, PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC;.CH;.PY;.PYW;.RB;.RBW, ProgramData=C:\ProgramData, ProgramW6432=C:\Program Files, HOMEPATH=\Users\localuser, PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 94 Stepping 3, GenuineIntel, ProgramFiles=C:\Program Files, PUBLIC=C:\Users\Public, windir=C:\Windows, =::=::\, LOCALAPPDATA=C:\Users\localuser\AppData\Local, MSMPI_BIN=C:\Program Files\Microsoft MPI\Bin\, USERDOMAIN=B101P06, LOGONSERVER=\\B101P06, JAVA_HOME=C:\Program Files\Java\jdk1.8, GDAL_DRIVER_PATH=C:\Python27\Lib\site-packages\osgeo\gdalplugins, ANT_HOME=C:\Program Files\Apache Software Foundation\Ant, APPDATA=C:\Users\localuser\AppData\Roaming, VBOX_MSI_INSTALL_PATH=C:\Program Files\Oracle\VirtualBox\, CommonProgramFiles=C:\Program Files\Common Files, Path=C:/Program Files/Java/jdk1.8/bin/../jre/bin/server;C:/Program Files/Java/jdk1.8/bin/../jre/bin;C:/Program Files/Java/jdk1.8/bin/../jre/lib/amd64;C:\Program Files\Apache Software Foundation\Grails\bin;C:\Program Files\Apache Software Foundation\Maven\bin;C:\Program Files\Apache Software Foundation\Ant\bin;C:\Program Files\Oracle\VirtualBox;C:\Program Files (x86)\Google\google_appengine\;C:\Program Files\Microsoft MPI\Bin\;C:\Oracle\product\11.2.0\client_1\bin;C:\Program Files\Java\jdk1.8\bin;C:\Ruby22-x64\bin;C:\ProgramData\Oracle\Java\javapath;C:\Program Files\Runas;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\MySQL\MySQL Utilities 1.6\;C:\Ch\bin;C:\Python27;C:\Python27\DLLs;C:\Python27\Scripts;C:\Python27\Lib\site-packages\vtk;C:\Python27\gnuplot\binary;C:\Python27\Lib\site-packages\osgeo;C:\Python27\Lib\site-packages\PyQt4;C:\Program Files (x86)\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\130\DTS\Binn\;C:\Program Files\Microsoft SQL Server\130\DTS\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\130\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\Client SDK\ODBC\130\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\140\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\140\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\140\Tools\Binn\ManagementStudio\;C:\Program Files\nodejs\;C:\Program Files\Git\cmd;C:\Program Files\TortoiseGit\bin;C:\Program Files\TortoiseSVN\bin;C:\Program Files\PuTTY\;C:\Program Files\OpenVPN\bin;C:\Users\localuser\AppData\Local\Microsoft\WindowsApps;C:\Users\localuser\AppData\Roaming\npm;C:\Program Files (x86)\Microsoft VS Code\bin;C:\Program Files\Eclipse;, OS=Windows_NT, COMPUTERNAME=B101P06, PROCESSOR_REVISION=5e03, CommonProgramW6432=C:\Program Files\Common Files, CLASSPATH=E:\S3\CPOA\SuperCanardBof\bin;C:\Program Files\eclipse\plugins\org.junit_4.12.0.v201504281640\junit.jar;C:\Program Files\eclipse\plugins\org.hamcrest.core_1.3.0.v201303031735.jar;C:/Users/LOCALU~1/AppData/Local/Temp/infinitest588939515.jar, ComSpec=C:\Windows\system32\cmd.exe, SystemRoot=C:\Windows, TEMP=C:\Users\LOCALU~1\AppData\Local\Temp, HOMEDRIVE=C:, PT6HOME=C:\Program Files (x86)\Cisco Packet Tracer 6.2, USERPROFILE=C:\Users\localuser, TMP=C:\Users\LOCALU~1\AppData\Local\Temp, CommonProgramFiles(x86)=C:\Program Files (x86)\Common Files, NUMBER_OF_PROCESSORS=8, SCITE_USERHOME=C:\Users\localuser\AppData\Local\AutoIt v3\SciTE}
+Command: [C:\Program Files\Java\jdk1.8\bin\java.exe, -mx256m, org.infinitest.testrunner.TestRunnerProcess, org.infinitest.testrunner.JUnit4Runner, 52594]
+
+!ENTRY org.infinitest.eclipse 1 0 2017-11-15 09:27:39.243
+!MESSAGE Update complete. Status PASSING
+
+!ENTRY org.tigris.subversion.subclipse.core 4 0 2017-11-15 09:32:54.472
+!MESSAGE Could not auto-share project JeuAventure
+!STACK 1
+org.tigris.subversion.subclipse.core.SVNException: Provided SVN information does not match that on disk for project 'JeuAventure'.
+	at org.tigris.subversion.subclipse.core.resources.SVNWorkspaceRoot.setSharing(SVNWorkspaceRoot.java:206)
+	at org.tigris.subversion.subclipse.core.SVNTeamProviderType$AutoShareJob.autoconnectSVNProject(SVNTeamProviderType.java:140)
+	at org.tigris.subversion.subclipse.core.SVNTeamProviderType$AutoShareJob.run(SVNTeamProviderType.java:106)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56)
+!SUBENTRY 1 org.tigris.subversion.subclipse.core 4 4 2017-11-15 09:32:54.472
+!MESSAGE Provided SVN information does not match that on disk for project 'JeuAventure'.
+
+!ENTRY org.infinitest.eclipse 1 0 2017-11-15 09:33:17.028
+!MESSAGE SuperCanardBof Files changed: [E:\S3\CPOA\SuperCanardBof\bin\PeutCancaner.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2017-11-15 09:33:18.356
+!MESSAGE SuperCanardBof Running tests: [SuperCanardTest2]
+
+!ENTRY org.infinitest.eclipse 1 0 2017-11-15 09:33:18.372
+!MESSAGE Launching test runner process with the following configuration:
+Directory: E:\S3\CPOA\SuperCanardBof
+Environment: {USERDOMAIN_ROAMINGPROFILE=B101P06, PROCESSOR_LEVEL=6, VS140COMNTOOLS=C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\Tools\, GRAILS_HOME=C:\Program Files\Apache Software Foundation\Grails, SESSIONNAME=Console, ALLUSERSPROFILE=C:\ProgramData, GDAL_DATA=C:\Python27\GDAL\data, PROCESSOR_ARCHITECTURE=AMD64, TNS_ADMIN=C:\Oracle\product\11.2.0\client_1\NETWORK\ADMIN, VirtualC=C:\Program Files (x86)\VirtualC\Virtual-C IDE\, PSModulePath=C:\Program Files (x86)\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules;C:\Program Files (x86)\Google\Cloud SDK\google-cloud-sdk\platform\PowerShell;C:\Program Files (x86)\Microsoft SQL Server\130\Tools\PowerShell\Modules\;C:\Program Files (x86)\AutoIt3\AutoItX, SystemDrive=C:, MAVEN_HOME=C:\Program Files\Apache Software Foundation\Maven, MOZ_PLUGIN_PATH=C:\Program Files\Tracker Software\PDF Viewer\Win32\, USERNAME=localuser, ProgramFiles(x86)=C:\Program Files (x86), TELELOGIC_LICENSE_FILE=2700@193.55.174.32, PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC;.CH;.PY;.PYW;.RB;.RBW, ProgramData=C:\ProgramData, ProgramW6432=C:\Program Files, HOMEPATH=\Users\localuser, PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 94 Stepping 3, GenuineIntel, ProgramFiles=C:\Program Files, PUBLIC=C:\Users\Public, windir=C:\Windows, =::=::\, LOCALAPPDATA=C:\Users\localuser\AppData\Local, MSMPI_BIN=C:\Program Files\Microsoft MPI\Bin\, USERDOMAIN=B101P06, LOGONSERVER=\\B101P06, JAVA_HOME=C:\Program Files\Java\jdk1.8, GDAL_DRIVER_PATH=C:\Python27\Lib\site-packages\osgeo\gdalplugins, ANT_HOME=C:\Program Files\Apache Software Foundation\Ant, APPDATA=C:\Users\localuser\AppData\Roaming, VBOX_MSI_INSTALL_PATH=C:\Program Files\Oracle\VirtualBox\, CommonProgramFiles=C:\Program Files\Common Files, Path=C:/Program Files/Java/jdk1.8/bin/../jre/bin/server;C:/Program Files/Java/jdk1.8/bin/../jre/bin;C:/Program Files/Java/jdk1.8/bin/../jre/lib/amd64;C:\Program Files\Apache Software Foundation\Grails\bin;C:\Program Files\Apache Software Foundation\Maven\bin;C:\Program Files\Apache Software Foundation\Ant\bin;C:\Program Files\Oracle\VirtualBox;C:\Program Files (x86)\Google\google_appengine\;C:\Program Files\Microsoft MPI\Bin\;C:\Oracle\product\11.2.0\client_1\bin;C:\Program Files\Java\jdk1.8\bin;C:\Ruby22-x64\bin;C:\ProgramData\Oracle\Java\javapath;C:\Program Files\Runas;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\MySQL\MySQL Utilities 1.6\;C:\Ch\bin;C:\Python27;C:\Python27\DLLs;C:\Python27\Scripts;C:\Python27\Lib\site-packages\vtk;C:\Python27\gnuplot\binary;C:\Python27\Lib\site-packages\osgeo;C:\Python27\Lib\site-packages\PyQt4;C:\Program Files (x86)\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\130\DTS\Binn\;C:\Program Files\Microsoft SQL Server\130\DTS\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\130\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\Client SDK\ODBC\130\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\140\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\140\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\140\Tools\Binn\ManagementStudio\;C:\Program Files\nodejs\;C:\Program Files\Git\cmd;C:\Program Files\TortoiseGit\bin;C:\Program Files\TortoiseSVN\bin;C:\Program Files\PuTTY\;C:\Program Files\OpenVPN\bin;C:\Users\localuser\AppData\Local\Microsoft\WindowsApps;C:\Users\localuser\AppData\Roaming\npm;C:\Program Files (x86)\Microsoft VS Code\bin;C:\Program Files\Eclipse;, OS=Windows_NT, COMPUTERNAME=B101P06, PROCESSOR_REVISION=5e03, CommonProgramW6432=C:\Program Files\Common Files, CLASSPATH=E:\S3\CPOA\SuperCanardBof\bin;C:\Program Files\eclipse\plugins\org.junit_4.12.0.v201504281640\junit.jar;C:\Program Files\eclipse\plugins\org.hamcrest.core_1.3.0.v201303031735.jar;C:/Users/LOCALU~1/AppData/Local/Temp/infinitest588939515.jar, ComSpec=C:\Windows\system32\cmd.exe, SystemRoot=C:\Windows, TEMP=C:\Users\LOCALU~1\AppData\Local\Temp, HOMEDRIVE=C:, PT6HOME=C:\Program Files (x86)\Cisco Packet Tracer 6.2, USERPROFILE=C:\Users\localuser, TMP=C:\Users\LOCALU~1\AppData\Local\Temp, CommonProgramFiles(x86)=C:\Program Files (x86)\Common Files, NUMBER_OF_PROCESSORS=8, SCITE_USERHOME=C:\Users\localuser\AppData\Local\AutoIt v3\SciTE}
+Command: [C:\Program Files\Java\jdk1.8\bin\java.exe, -mx256m, org.infinitest.testrunner.TestRunnerProcess, org.infinitest.testrunner.JUnit4Runner, 52606]
+
+!ENTRY org.infinitest.eclipse 1 0 2017-11-15 09:33:19.279
+!MESSAGE Update complete. Status PASSING
+
+!ENTRY org.infinitest.eclipse 1 0 2017-11-15 09:34:49.459
+!MESSAGE Filter file E:\S3\CPOA\JeuAventure\infinitest.filters does not exist.
+
+!ENTRY org.infinitest.eclipse 1 0 2017-11-15 09:34:50.131
+!MESSAGE Reloading core JeuAventure
+
+!ENTRY org.infinitest.eclipse 1 0 2017-11-15 09:34:50.147
+!MESSAGE Added core JeuAventure with classpath E:\S3\CPOA\JeuAventure\bin;C:/Users/LOCALU~1/AppData/Local/Temp/infinitest588939515.jar
+
+!ENTRY org.infinitest.eclipse 1 0 2017-11-15 09:34:50.178
+!MESSAGE JeuAventure Files changed: [E:\S3\CPOA\JeuAventure\bin\appli\Personnage.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2017-11-15 09:58:22.533
+!MESSAGE JeuAventure Files changed: [E:\S3\CPOA\JeuAventure\bin\appli\Reine.class, E:\S3\CPOA\JeuAventure\bin\appli\Troll.class, E:\S3\CPOA\JeuAventure\bin\appli\Roi.class, E:\S3\CPOA\JeuAventure\bin\ComportementsArme\ComportementArc.class, E:\S3\CPOA\JeuAventure\bin\appli\Chevalier.class, E:\S3\CPOA\JeuAventure\bin\ComportementsArme\ComportementEpee.class, E:\S3\CPOA\JeuAventure\bin\Comportements\ComportementArme.class, E:\S3\CPOA\JeuAventure\bin\ComportementsArme\ComportementPoignard.class, E:\S3\CPOA\JeuAventure\bin\appli\Personnage.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2017-11-15 10:07:44.121
+!MESSAGE JeuAventure Files changed: [E:\S3\CPOA\JeuAventure\bin\appli\Reine.class, E:\S3\CPOA\JeuAventure\bin\appli\Troll.class, E:\S3\CPOA\JeuAventure\bin\appli\Roi.class, E:\S3\CPOA\JeuAventure\bin\ComportementsArme\ComportementArc.class, E:\S3\CPOA\JeuAventure\bin\appli\Chevalier.class, E:\S3\CPOA\JeuAventure\bin\ComportementsArme\ComportementEpee.class, E:\S3\CPOA\JeuAventure\bin\ComportementsArme\ComportementPoignard.class, E:\S3\CPOA\JeuAventure\bin\appli\Personnage.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2017-11-15 10:16:26.901
+!MESSAGE JeuAventure Files changed: [E:\S3\CPOA\JeuAventure\bin\appli\Voleur.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2017-11-15 10:19:08.395
+!MESSAGE Files removed. Reloading JeuAventure
+
+!ENTRY org.infinitest.eclipse 1 0 2017-11-15 10:19:09.052
+!MESSAGE Reloading core JeuAventure
+
+!ENTRY org.infinitest.eclipse 1 0 2017-11-15 10:19:09.099
+!MESSAGE JeuAventure Files changed: [E:\S3\CPOA\JeuAventure\bin\appli\Reine.class, E:\S3\CPOA\JeuAventure\bin\appli\Troll.class, E:\S3\CPOA\JeuAventure\bin\appli\Roi.class, E:\S3\CPOA\JeuAventure\bin\ComportementsArme\ComportementArc.class, E:\S3\CPOA\JeuAventure\bin\appli\Chevalier.class, E:\S3\CPOA\JeuAventure\bin\ComportementsArme\ComportementEpee.class, E:\S3\CPOA\JeuAventure\bin\Comportements\ComportementArme.class, E:\S3\CPOA\JeuAventure\bin\ComportementsArme\ComportementPoignard.class, E:\S3\CPOA\JeuAventure\bin\appli\Personnage.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2017-11-15 10:19:36.473
+!MESSAGE JeuAventure Files changed: [E:\S3\CPOA\JeuAventure\bin\appli\main.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2017-11-15 10:20:09.765
+!MESSAGE Files removed. Reloading JeuAventure
+
+!ENTRY org.infinitest.eclipse 1 0 2017-11-15 10:20:10.411
+!MESSAGE Reloading core JeuAventure
+
+!ENTRY org.infinitest.eclipse 1 0 2017-11-15 10:20:10.442
+!MESSAGE JeuAventure Files changed: [E:\S3\CPOA\JeuAventure\bin\appli\Reine.class, E:\S3\CPOA\JeuAventure\bin\appli\Troll.class, E:\S3\CPOA\JeuAventure\bin\appli\Roi.class, E:\S3\CPOA\JeuAventure\bin\ComportementsArme\ComportementArc.class, E:\S3\CPOA\JeuAventure\bin\appli\Chevalier.class, E:\S3\CPOA\JeuAventure\bin\ComportementsArme\ComportementEpee.class, E:\S3\CPOA\JeuAventure\bin\Comportements\ComportementArme.class, E:\S3\CPOA\JeuAventure\bin\ComportementsArme\ComportementPoignard.class, E:\S3\CPOA\JeuAventure\bin\appli\Personnage.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2017-11-15 10:20:22.380
+!MESSAGE JeuAventure Files changed: [E:\S3\CPOA\JeuAventure\bin\appli\main.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2017-11-15 10:28:14.461
+!MESSAGE JeuAventure Files changed: [E:\S3\CPOA\JeuAventure\bin\appli\main.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2017-11-15 10:29:35.165
+!MESSAGE JeuAventure Files changed: [E:\S3\CPOA\JeuAventure\bin\appli\main.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2017-11-15 10:29:43.078
+!MESSAGE JeuAventure Files changed: [E:\S3\CPOA\JeuAventure\bin\appli\main.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2017-11-15 10:32:39.473
+!MESSAGE JeuAventure Files changed: [E:\S3\CPOA\JeuAventure\bin\appli\main.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2017-11-15 10:33:04.444
+!MESSAGE JeuAventure Files changed: [E:\S3\CPOA\JeuAventure\bin\appli\main.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2017-11-15 10:35:09.572
+!MESSAGE JeuAventure Files changed: [E:\S3\CPOA\JeuAventure\bin\ComportementsArme\ComportementPoignard.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2017-11-15 10:35:15.866
+!MESSAGE JeuAventure Files changed: [E:\S3\CPOA\JeuAventure\bin\ComportementsArme\ComportementArc.class, E:\S3\CPOA\JeuAventure\bin\ComportementsArme\ComportementEpee.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2017-11-15 10:35:36.619
+!MESSAGE JeuAventure Files changed: [E:\S3\CPOA\JeuAventure\bin\Comportements\ComportementArme.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2017-11-15 10:42:48.015
+!MESSAGE Reloading core JeuAventure
+
+!ENTRY org.infinitest.eclipse 1 0 2017-11-15 10:42:49.359
+!MESSAGE JeuAventure Files changed: [E:\S3\CPOA\JeuAventure\bin\appli\Reine.class, E:\S3\CPOA\JeuAventure\bin\appli\Troll.class, E:\S3\CPOA\JeuAventure\bin\appli\Roi.class, E:\S3\CPOA\JeuAventure\bin\ComportementsArme\ComportementArc.class, E:\S3\CPOA\JeuAventure\bin\ComportementsArme\ComportementEpee.class, E:\S3\CPOA\JeuAventure\bin\appli\Chevalier.class, E:\S3\CPOA\JeuAventure\bin\Comportements\ComportementArme.class, E:\S3\CPOA\JeuAventure\bin\ComportementsArme\ComportementPoignard.class, E:\S3\CPOA\JeuAventure\bin\appli\Personnage.class, E:\S3\CPOA\JeuAventure\bin\appli\main.class]
+
+!ENTRY org.eclipse.pde.build 4 3 2017-11-15 10:45:18.885
+!MESSAGE Illegal character in path at index 16: file:/C:/Program Files/eclipse/plugins/org.eclipse.pde.build_3.9.300.v20170515-0912/./
+!STACK 0
+java.net.URISyntaxException: Illegal character in path at index 16: file:/C:/Program Files/eclipse/plugins/org.eclipse.pde.build_3.9.300.v20170515-0912/./
+	at java.net.URI$Parser.fail(URI.java:2848)
+	at java.net.URI$Parser.checkChars(URI.java:3021)
+	at java.net.URI$Parser.parseHierarchical(URI.java:3105)
+	at java.net.URI$Parser.parse(URI.java:3053)
+	at java.net.URI.<init>(URI.java:588)
+	at java.net.URL.toURI(URL.java:946)
+	at org.eclipse.pde.internal.build.properties.PDEProperties.getAntPropertyValue(PDEProperties.java:54)
+	at org.eclipse.ant.core.Property.getValue(Property.java:123)
+	at org.eclipse.ant.internal.ui.model.AntModel.setGlobalProperties(AntModel.java:551)
+	at org.eclipse.ant.internal.ui.model.AntModel.setProperties(AntModel.java:461)
+	at org.eclipse.ant.internal.ui.model.AntModel.initializeProject(AntModel.java:429)
+	at org.eclipse.ant.internal.ui.model.AntModel.prepareForFullParse(AntModel.java:396)
+	at org.eclipse.ant.internal.ui.model.AntModel.parseDocument(AntModel.java:355)
+	at org.eclipse.ant.internal.ui.model.AntModel.reconcile(AntModel.java:313)
+	at org.eclipse.ant.internal.ui.editor.text.XMLReconcilingStrategy.internalReconcile(XMLReconcilingStrategy.java:42)
+	at org.eclipse.ant.internal.ui.editor.text.XMLReconcilingStrategy.reconcile(XMLReconcilingStrategy.java:57)
+	at org.eclipse.jface.text.reconciler.MonoReconciler.process(MonoReconciler.java:73)
+	at org.eclipse.ant.internal.ui.editor.text.NotifyingReconciler.process(NotifyingReconciler.java:39)
+	at org.eclipse.jface.text.reconciler.AbstractReconciler$BackgroundThread.run(AbstractReconciler.java:207)
+
+!ENTRY org.eclipse.pde.build 4 3 2017-11-15 10:45:20.932
+!MESSAGE Illegal character in path at index 16: file:/C:/Program Files/eclipse/plugins/org.eclipse.pde.build_3.9.300.v20170515-0912/scripts/
+!STACK 0
+java.net.URISyntaxException: Illegal character in path at index 16: file:/C:/Program Files/eclipse/plugins/org.eclipse.pde.build_3.9.300.v20170515-0912/scripts/
+	at java.net.URI$Parser.fail(URI.java:2848)
+	at java.net.URI$Parser.checkChars(URI.java:3021)
+	at java.net.URI$Parser.parseHierarchical(URI.java:3105)
+	at java.net.URI$Parser.parse(URI.java:3053)
+	at java.net.URI.<init>(URI.java:588)
+	at java.net.URL.toURI(URL.java:946)
+	at org.eclipse.pde.internal.build.properties.PDEProperties.getAntPropertyValue(PDEProperties.java:54)
+	at org.eclipse.ant.core.Property.getValue(Property.java:123)
+	at org.eclipse.ant.internal.ui.model.AntModel.setGlobalProperties(AntModel.java:551)
+	at org.eclipse.ant.internal.ui.model.AntModel.setProperties(AntModel.java:461)
+	at org.eclipse.ant.internal.ui.model.AntModel.initializeProject(AntModel.java:429)
+	at org.eclipse.ant.internal.ui.model.AntModel.prepareForFullParse(AntModel.java:396)
+	at org.eclipse.ant.internal.ui.model.AntModel.parseDocument(AntModel.java:355)
+	at org.eclipse.ant.internal.ui.model.AntModel.reconcile(AntModel.java:313)
+	at org.eclipse.ant.internal.ui.editor.text.XMLReconcilingStrategy.internalReconcile(XMLReconcilingStrategy.java:42)
+	at org.eclipse.ant.internal.ui.editor.text.XMLReconcilingStrategy.reconcile(XMLReconcilingStrategy.java:57)
+	at org.eclipse.jface.text.reconciler.MonoReconciler.process(MonoReconciler.java:73)
+	at org.eclipse.ant.internal.ui.editor.text.NotifyingReconciler.process(NotifyingReconciler.java:39)
+	at org.eclipse.jface.text.reconciler.AbstractReconciler$BackgroundThread.run(AbstractReconciler.java:207)
+
+!ENTRY org.eclipse.pde.build 4 3 2017-11-15 10:45:22.838
+!MESSAGE Illegal character in path at index 16: file:/C:/Program Files/eclipse/plugins/org.eclipse.pde.build_3.9.300.v20170515-0912/templates/
+!STACK 0
+java.net.URISyntaxException: Illegal character in path at index 16: file:/C:/Program Files/eclipse/plugins/org.eclipse.pde.build_3.9.300.v20170515-0912/templates/
+	at java.net.URI$Parser.fail(URI.java:2848)
+	at java.net.URI$Parser.checkChars(URI.java:3021)
+	at java.net.URI$Parser.parseHierarchical(URI.java:3105)
+	at java.net.URI$Parser.parse(URI.java:3053)
+	at java.net.URI.<init>(URI.java:588)
+	at java.net.URL.toURI(URL.java:946)
+	at org.eclipse.pde.internal.build.properties.PDEProperties.getAntPropertyValue(PDEProperties.java:54)
+	at org.eclipse.ant.core.Property.getValue(Property.java:123)
+	at org.eclipse.ant.internal.ui.model.AntModel.setGlobalProperties(AntModel.java:551)
+	at org.eclipse.ant.internal.ui.model.AntModel.setProperties(AntModel.java:461)
+	at org.eclipse.ant.internal.ui.model.AntModel.initializeProject(AntModel.java:429)
+	at org.eclipse.ant.internal.ui.model.AntModel.prepareForFullParse(AntModel.java:396)
+	at org.eclipse.ant.internal.ui.model.AntModel.parseDocument(AntModel.java:355)
+	at org.eclipse.ant.internal.ui.model.AntModel.reconcile(AntModel.java:313)
+	at org.eclipse.ant.internal.ui.editor.text.XMLReconcilingStrategy.internalReconcile(XMLReconcilingStrategy.java:42)
+	at org.eclipse.ant.internal.ui.editor.text.XMLReconcilingStrategy.reconcile(XMLReconcilingStrategy.java:57)
+	at org.eclipse.jface.text.reconciler.MonoReconciler.process(MonoReconciler.java:73)
+	at org.eclipse.ant.internal.ui.editor.text.NotifyingReconciler.process(NotifyingReconciler.java:39)
+	at org.eclipse.jface.text.reconciler.AbstractReconciler$BackgroundThread.run(AbstractReconciler.java:207)
+
+!ENTRY org.eclipse.pde.build 4 3 2017-11-15 10:45:33.183
+!MESSAGE Illegal character in path at index 16: file:/C:/Program Files/eclipse/plugins/org.eclipse.pde.build_3.9.300.v20170515-0912/./
+!STACK 0
+java.net.URISyntaxException: Illegal character in path at index 16: file:/C:/Program Files/eclipse/plugins/org.eclipse.pde.build_3.9.300.v20170515-0912/./
+	at java.net.URI$Parser.fail(URI.java:2848)
+	at java.net.URI$Parser.checkChars(URI.java:3021)
+	at java.net.URI$Parser.parseHierarchical(URI.java:3105)
+	at java.net.URI$Parser.parse(URI.java:3053)
+	at java.net.URI.<init>(URI.java:588)
+	at java.net.URL.toURI(URL.java:946)
+	at org.eclipse.pde.internal.build.properties.PDEProperties.getAntPropertyValue(PDEProperties.java:54)
+	at org.eclipse.ant.core.Property.getValue(Property.java:123)
+	at org.eclipse.ant.internal.launching.launchConfigurations.AntLaunchDelegate.generateCommandLine(AntLaunchDelegate.java:440)
+	at org.eclipse.ant.internal.launching.launchConfigurations.AntLaunchDelegate.launch(AntLaunchDelegate.java:243)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:885)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:739)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:1039)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$8.run(DebugUIPlugin.java:1256)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56)
+
+!ENTRY org.eclipse.pde.build 4 3 2017-11-15 10:45:34.519
+!MESSAGE Illegal character in path at index 16: file:/C:/Program Files/eclipse/plugins/org.eclipse.pde.build_3.9.300.v20170515-0912/scripts/
+!STACK 0
+java.net.URISyntaxException: Illegal character in path at index 16: file:/C:/Program Files/eclipse/plugins/org.eclipse.pde.build_3.9.300.v20170515-0912/scripts/
+	at java.net.URI$Parser.fail(URI.java:2848)
+	at java.net.URI$Parser.checkChars(URI.java:3021)
+	at java.net.URI$Parser.parseHierarchical(URI.java:3105)
+	at java.net.URI$Parser.parse(URI.java:3053)
+	at java.net.URI.<init>(URI.java:588)
+	at java.net.URL.toURI(URL.java:946)
+	at org.eclipse.pde.internal.build.properties.PDEProperties.getAntPropertyValue(PDEProperties.java:54)
+	at org.eclipse.ant.core.Property.getValue(Property.java:123)
+	at org.eclipse.ant.internal.launching.launchConfigurations.AntLaunchDelegate.generateCommandLine(AntLaunchDelegate.java:440)
+	at org.eclipse.ant.internal.launching.launchConfigurations.AntLaunchDelegate.launch(AntLaunchDelegate.java:243)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:885)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:739)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:1039)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$8.run(DebugUIPlugin.java:1256)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56)
+
+!ENTRY org.eclipse.pde.build 4 3 2017-11-15 10:45:34.534
+!MESSAGE Illegal character in path at index 16: file:/C:/Program Files/eclipse/plugins/org.eclipse.pde.build_3.9.300.v20170515-0912/templates/
+!STACK 0
+java.net.URISyntaxException: Illegal character in path at index 16: file:/C:/Program Files/eclipse/plugins/org.eclipse.pde.build_3.9.300.v20170515-0912/templates/
+	at java.net.URI$Parser.fail(URI.java:2848)
+	at java.net.URI$Parser.checkChars(URI.java:3021)
+	at java.net.URI$Parser.parseHierarchical(URI.java:3105)
+	at java.net.URI$Parser.parse(URI.java:3053)
+	at java.net.URI.<init>(URI.java:588)
+	at java.net.URL.toURI(URL.java:946)
+	at org.eclipse.pde.internal.build.properties.PDEProperties.getAntPropertyValue(PDEProperties.java:54)
+	at org.eclipse.ant.core.Property.getValue(Property.java:123)
+	at org.eclipse.ant.internal.launching.launchConfigurations.AntLaunchDelegate.generateCommandLine(AntLaunchDelegate.java:440)
+	at org.eclipse.ant.internal.launching.launchConfigurations.AntLaunchDelegate.launch(AntLaunchDelegate.java:243)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:885)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:739)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:1039)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$8.run(DebugUIPlugin.java:1256)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56)
+
+!ENTRY org.eclipse.pde.build 4 3 2017-11-15 10:46:01.769
+!MESSAGE Illegal character in path at index 16: file:/C:/Program Files/eclipse/plugins/org.eclipse.pde.build_3.9.300.v20170515-0912/./
+!STACK 0
+java.net.URISyntaxException: Illegal character in path at index 16: file:/C:/Program Files/eclipse/plugins/org.eclipse.pde.build_3.9.300.v20170515-0912/./
+	at java.net.URI$Parser.fail(URI.java:2848)
+	at java.net.URI$Parser.checkChars(URI.java:3021)
+	at java.net.URI$Parser.parseHierarchical(URI.java:3105)
+	at java.net.URI$Parser.parse(URI.java:3053)
+	at java.net.URI.<init>(URI.java:588)
+	at java.net.URL.toURI(URL.java:946)
+	at org.eclipse.pde.internal.build.properties.PDEProperties.getAntPropertyValue(PDEProperties.java:54)
+	at org.eclipse.ant.core.Property.getValue(Property.java:123)
+	at org.eclipse.ant.internal.launching.launchConfigurations.AntLaunchDelegate.generateCommandLine(AntLaunchDelegate.java:440)
+	at org.eclipse.ant.internal.launching.launchConfigurations.AntLaunchDelegate.launch(AntLaunchDelegate.java:243)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:885)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:739)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:1039)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$8.run(DebugUIPlugin.java:1256)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56)
+
+!ENTRY org.eclipse.pde.build 4 3 2017-11-15 10:46:03.085
+!MESSAGE Illegal character in path at index 16: file:/C:/Program Files/eclipse/plugins/org.eclipse.pde.build_3.9.300.v20170515-0912/scripts/
+!STACK 0
+java.net.URISyntaxException: Illegal character in path at index 16: file:/C:/Program Files/eclipse/plugins/org.eclipse.pde.build_3.9.300.v20170515-0912/scripts/
+	at java.net.URI$Parser.fail(URI.java:2848)
+	at java.net.URI$Parser.checkChars(URI.java:3021)
+	at java.net.URI$Parser.parseHierarchical(URI.java:3105)
+	at java.net.URI$Parser.parse(URI.java:3053)
+	at java.net.URI.<init>(URI.java:588)
+	at java.net.URL.toURI(URL.java:946)
+	at org.eclipse.pde.internal.build.properties.PDEProperties.getAntPropertyValue(PDEProperties.java:54)
+	at org.eclipse.ant.core.Property.getValue(Property.java:123)
+	at org.eclipse.ant.internal.launching.launchConfigurations.AntLaunchDelegate.generateCommandLine(AntLaunchDelegate.java:440)
+	at org.eclipse.ant.internal.launching.launchConfigurations.AntLaunchDelegate.launch(AntLaunchDelegate.java:243)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:885)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:739)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:1039)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$8.run(DebugUIPlugin.java:1256)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56)
+
+!ENTRY org.eclipse.pde.build 4 3 2017-11-15 10:46:03.100
+!MESSAGE Illegal character in path at index 16: file:/C:/Program Files/eclipse/plugins/org.eclipse.pde.build_3.9.300.v20170515-0912/templates/
+!STACK 0
+java.net.URISyntaxException: Illegal character in path at index 16: file:/C:/Program Files/eclipse/plugins/org.eclipse.pde.build_3.9.300.v20170515-0912/templates/
+	at java.net.URI$Parser.fail(URI.java:2848)
+	at java.net.URI$Parser.checkChars(URI.java:3021)
+	at java.net.URI$Parser.parseHierarchical(URI.java:3105)
+	at java.net.URI$Parser.parse(URI.java:3053)
+	at java.net.URI.<init>(URI.java:588)
+	at java.net.URL.toURI(URL.java:946)
+	at org.eclipse.pde.internal.build.properties.PDEProperties.getAntPropertyValue(PDEProperties.java:54)
+	at org.eclipse.ant.core.Property.getValue(Property.java:123)
+	at org.eclipse.ant.internal.launching.launchConfigurations.AntLaunchDelegate.generateCommandLine(AntLaunchDelegate.java:440)
+	at org.eclipse.ant.internal.launching.launchConfigurations.AntLaunchDelegate.launch(AntLaunchDelegate.java:243)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:885)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:739)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:1039)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$8.run(DebugUIPlugin.java:1256)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56)
+
+!ENTRY org.eclipse.pde.build 4 3 2017-11-15 10:48:32.586
+!MESSAGE Illegal character in path at index 16: file:/C:/Program Files/eclipse/plugins/org.eclipse.pde.build_3.9.300.v20170515-0912/./
+!STACK 0
+java.net.URISyntaxException: Illegal character in path at index 16: file:/C:/Program Files/eclipse/plugins/org.eclipse.pde.build_3.9.300.v20170515-0912/./
+	at java.net.URI$Parser.fail(URI.java:2848)
+	at java.net.URI$Parser.checkChars(URI.java:3021)
+	at java.net.URI$Parser.parseHierarchical(URI.java:3105)
+	at java.net.URI$Parser.parse(URI.java:3053)
+	at java.net.URI.<init>(URI.java:588)
+	at java.net.URL.toURI(URL.java:946)
+	at org.eclipse.pde.internal.build.properties.PDEProperties.getAntPropertyValue(PDEProperties.java:54)
+	at org.eclipse.ant.core.Property.getValue(Property.java:123)
+	at org.eclipse.ant.internal.launching.launchConfigurations.AntLaunchDelegate.generateCommandLine(AntLaunchDelegate.java:440)
+	at org.eclipse.ant.internal.launching.launchConfigurations.AntLaunchDelegate.launch(AntLaunchDelegate.java:243)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:885)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:739)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:1039)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$8.run(DebugUIPlugin.java:1256)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56)
+
+!ENTRY org.eclipse.pde.build 4 3 2017-11-15 10:48:33.929
+!MESSAGE Illegal character in path at index 16: file:/C:/Program Files/eclipse/plugins/org.eclipse.pde.build_3.9.300.v20170515-0912/scripts/
+!STACK 0
+java.net.URISyntaxException: Illegal character in path at index 16: file:/C:/Program Files/eclipse/plugins/org.eclipse.pde.build_3.9.300.v20170515-0912/scripts/
+	at java.net.URI$Parser.fail(URI.java:2848)
+	at java.net.URI$Parser.checkChars(URI.java:3021)
+	at java.net.URI$Parser.parseHierarchical(URI.java:3105)
+	at java.net.URI$Parser.parse(URI.java:3053)
+	at java.net.URI.<init>(URI.java:588)
+	at java.net.URL.toURI(URL.java:946)
+	at org.eclipse.pde.internal.build.properties.PDEProperties.getAntPropertyValue(PDEProperties.java:54)
+	at org.eclipse.ant.core.Property.getValue(Property.java:123)
+	at org.eclipse.ant.internal.launching.launchConfigurations.AntLaunchDelegate.generateCommandLine(AntLaunchDelegate.java:440)
+	at org.eclipse.ant.internal.launching.launchConfigurations.AntLaunchDelegate.launch(AntLaunchDelegate.java:243)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:885)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:739)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:1039)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$8.run(DebugUIPlugin.java:1256)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56)
+
+!ENTRY org.eclipse.pde.build 4 3 2017-11-15 10:48:33.945
+!MESSAGE Illegal character in path at index 16: file:/C:/Program Files/eclipse/plugins/org.eclipse.pde.build_3.9.300.v20170515-0912/templates/
+!STACK 0
+java.net.URISyntaxException: Illegal character in path at index 16: file:/C:/Program Files/eclipse/plugins/org.eclipse.pde.build_3.9.300.v20170515-0912/templates/
+	at java.net.URI$Parser.fail(URI.java:2848)
+	at java.net.URI$Parser.checkChars(URI.java:3021)
+	at java.net.URI$Parser.parseHierarchical(URI.java:3105)
+	at java.net.URI$Parser.parse(URI.java:3053)
+	at java.net.URI.<init>(URI.java:588)
+	at java.net.URL.toURI(URL.java:946)
+	at org.eclipse.pde.internal.build.properties.PDEProperties.getAntPropertyValue(PDEProperties.java:54)
+	at org.eclipse.ant.core.Property.getValue(Property.java:123)
+	at org.eclipse.ant.internal.launching.launchConfigurations.AntLaunchDelegate.generateCommandLine(AntLaunchDelegate.java:440)
+	at org.eclipse.ant.internal.launching.launchConfigurations.AntLaunchDelegate.launch(AntLaunchDelegate.java:243)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:885)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:739)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:1039)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$8.run(DebugUIPlugin.java:1256)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56)
+
+!ENTRY org.infinitest.eclipse 1 0 2017-11-15 10:49:28.295
+!MESSAGE Reloading core JeuAventure
+
+!ENTRY org.infinitest.eclipse 1 0 2017-11-15 10:49:29.650
+!MESSAGE JeuAventure Files changed: [E:\S3\CPOA\JeuAventure\bin\appli\Reine.class, E:\S3\CPOA\JeuAventure\bin\appli\Troll.class, E:\S3\CPOA\JeuAventure\bin\appli\Roi.class, E:\S3\CPOA\JeuAventure\bin\ComportementsArme\ComportementArc.class, E:\S3\CPOA\JeuAventure\bin\ComportementsArme\ComportementEpee.class, E:\S3\CPOA\JeuAventure\bin\appli\Chevalier.class, E:\S3\CPOA\JeuAventure\bin\Comportements\ComportementArme.class, E:\S3\CPOA\JeuAventure\bin\ComportementsArme\ComportementPoignard.class, E:\S3\CPOA\JeuAventure\bin\appli\Personnage.class, E:\S3\CPOA\JeuAventure\bin\appli\main.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2017-11-15 10:49:33.717
+!MESSAGE Reloading core JeuAventure
+
+!ENTRY org.infinitest.eclipse 1 0 2017-11-15 10:49:34.404
+!MESSAGE JeuAventure Files changed: [E:\S3\CPOA\JeuAventure\bin\appli\Reine.class, E:\S3\CPOA\JeuAventure\bin\appli\Troll.class, E:\S3\CPOA\JeuAventure\bin\appli\Roi.class, E:\S3\CPOA\JeuAventure\bin\ComportementsArme\ComportementArc.class, E:\S3\CPOA\JeuAventure\bin\ComportementsArme\ComportementEpee.class, E:\S3\CPOA\JeuAventure\bin\appli\Chevalier.class, E:\S3\CPOA\JeuAventure\bin\Comportements\ComportementArme.class, E:\S3\CPOA\JeuAventure\bin\ComportementsArme\ComportementPoignard.class, E:\S3\CPOA\JeuAventure\bin\appli\Personnage.class, E:\S3\CPOA\JeuAventure\bin\appli\main.class]
+
+!ENTRY org.eclipse.pde.build 4 3 2017-11-15 10:50:37.931
+!MESSAGE Illegal character in path at index 16: file:/C:/Program Files/eclipse/plugins/org.eclipse.pde.build_3.9.300.v20170515-0912/./
+!STACK 0
+java.net.URISyntaxException: Illegal character in path at index 16: file:/C:/Program Files/eclipse/plugins/org.eclipse.pde.build_3.9.300.v20170515-0912/./
+	at java.net.URI$Parser.fail(URI.java:2848)
+	at java.net.URI$Parser.checkChars(URI.java:3021)
+	at java.net.URI$Parser.parseHierarchical(URI.java:3105)
+	at java.net.URI$Parser.parse(URI.java:3053)
+	at java.net.URI.<init>(URI.java:588)
+	at java.net.URL.toURI(URL.java:946)
+	at org.eclipse.pde.internal.build.properties.PDEProperties.getAntPropertyValue(PDEProperties.java:54)
+	at org.eclipse.ant.core.Property.getValue(Property.java:123)
+	at org.eclipse.ant.internal.launching.launchConfigurations.AntLaunchDelegate.generateCommandLine(AntLaunchDelegate.java:440)
+	at org.eclipse.ant.internal.launching.launchConfigurations.AntLaunchDelegate.launch(AntLaunchDelegate.java:243)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:885)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:739)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:1039)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$8.run(DebugUIPlugin.java:1256)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56)
+
+!ENTRY org.eclipse.pde.build 4 3 2017-11-15 10:50:37.931
+!MESSAGE Illegal character in path at index 16: file:/C:/Program Files/eclipse/plugins/org.eclipse.pde.build_3.9.300.v20170515-0912/scripts/
+!STACK 0
+java.net.URISyntaxException: Illegal character in path at index 16: file:/C:/Program Files/eclipse/plugins/org.eclipse.pde.build_3.9.300.v20170515-0912/scripts/
+	at java.net.URI$Parser.fail(URI.java:2848)
+	at java.net.URI$Parser.checkChars(URI.java:3021)
+	at java.net.URI$Parser.parseHierarchical(URI.java:3105)
+	at java.net.URI$Parser.parse(URI.java:3053)
+	at java.net.URI.<init>(URI.java:588)
+	at java.net.URL.toURI(URL.java:946)
+	at org.eclipse.pde.internal.build.properties.PDEProperties.getAntPropertyValue(PDEProperties.java:54)
+	at org.eclipse.ant.core.Property.getValue(Property.java:123)
+	at org.eclipse.ant.internal.launching.launchConfigurations.AntLaunchDelegate.generateCommandLine(AntLaunchDelegate.java:440)
+	at org.eclipse.ant.internal.launching.launchConfigurations.AntLaunchDelegate.launch(AntLaunchDelegate.java:243)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:885)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:739)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:1039)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$8.run(DebugUIPlugin.java:1256)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56)
+
+!ENTRY org.eclipse.pde.build 4 3 2017-11-15 10:50:37.946
+!MESSAGE Illegal character in path at index 16: file:/C:/Program Files/eclipse/plugins/org.eclipse.pde.build_3.9.300.v20170515-0912/templates/
+!STACK 0
+java.net.URISyntaxException: Illegal character in path at index 16: file:/C:/Program Files/eclipse/plugins/org.eclipse.pde.build_3.9.300.v20170515-0912/templates/
+	at java.net.URI$Parser.fail(URI.java:2848)
+	at java.net.URI$Parser.checkChars(URI.java:3021)
+	at java.net.URI$Parser.parseHierarchical(URI.java:3105)
+	at java.net.URI$Parser.parse(URI.java:3053)
+	at java.net.URI.<init>(URI.java:588)
+	at java.net.URL.toURI(URL.java:946)
+	at org.eclipse.pde.internal.build.properties.PDEProperties.getAntPropertyValue(PDEProperties.java:54)
+	at org.eclipse.ant.core.Property.getValue(Property.java:123)
+	at org.eclipse.ant.internal.launching.launchConfigurations.AntLaunchDelegate.generateCommandLine(AntLaunchDelegate.java:440)
+	at org.eclipse.ant.internal.launching.launchConfigurations.AntLaunchDelegate.launch(AntLaunchDelegate.java:243)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:885)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:739)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:1039)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$8.run(DebugUIPlugin.java:1256)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56)
+
+!ENTRY org.eclipse.pde.build 4 3 2017-11-15 10:52:33.246
+!MESSAGE Illegal character in path at index 16: file:/C:/Program Files/eclipse/plugins/org.eclipse.pde.build_3.9.300.v20170515-0912/./
+!STACK 0
+java.net.URISyntaxException: Illegal character in path at index 16: file:/C:/Program Files/eclipse/plugins/org.eclipse.pde.build_3.9.300.v20170515-0912/./
+	at java.net.URI$Parser.fail(URI.java:2848)
+	at java.net.URI$Parser.checkChars(URI.java:3021)
+	at java.net.URI$Parser.parseHierarchical(URI.java:3105)
+	at java.net.URI$Parser.parse(URI.java:3053)
+	at java.net.URI.<init>(URI.java:588)
+	at java.net.URL.toURI(URL.java:946)
+	at org.eclipse.pde.internal.build.properties.PDEProperties.getAntPropertyValue(PDEProperties.java:54)
+	at org.eclipse.ant.core.Property.getValue(Property.java:123)
+	at org.eclipse.ant.internal.launching.launchConfigurations.AntLaunchDelegate.generateCommandLine(AntLaunchDelegate.java:440)
+	at org.eclipse.ant.internal.launching.launchConfigurations.AntLaunchDelegate.launch(AntLaunchDelegate.java:243)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:885)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:739)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:1039)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$8.run(DebugUIPlugin.java:1256)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56)
+
+!ENTRY org.eclipse.pde.build 4 3 2017-11-15 10:52:36.497
+!MESSAGE Illegal character in path at index 16: file:/C:/Program Files/eclipse/plugins/org.eclipse.pde.build_3.9.300.v20170515-0912/scripts/
+!STACK 0
+java.net.URISyntaxException: Illegal character in path at index 16: file:/C:/Program Files/eclipse/plugins/org.eclipse.pde.build_3.9.300.v20170515-0912/scripts/
+	at java.net.URI$Parser.fail(URI.java:2848)
+	at java.net.URI$Parser.checkChars(URI.java:3021)
+	at java.net.URI$Parser.parseHierarchical(URI.java:3105)
+	at java.net.URI$Parser.parse(URI.java:3053)
+	at java.net.URI.<init>(URI.java:588)
+	at java.net.URL.toURI(URL.java:946)
+	at org.eclipse.pde.internal.build.properties.PDEProperties.getAntPropertyValue(PDEProperties.java:54)
+	at org.eclipse.ant.core.Property.getValue(Property.java:123)
+	at org.eclipse.ant.internal.launching.launchConfigurations.AntLaunchDelegate.generateCommandLine(AntLaunchDelegate.java:440)
+	at org.eclipse.ant.internal.launching.launchConfigurations.AntLaunchDelegate.launch(AntLaunchDelegate.java:243)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:885)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:739)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:1039)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$8.run(DebugUIPlugin.java:1256)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56)
+
+!ENTRY org.eclipse.pde.build 4 3 2017-11-15 10:52:36.528
+!MESSAGE Illegal character in path at index 16: file:/C:/Program Files/eclipse/plugins/org.eclipse.pde.build_3.9.300.v20170515-0912/templates/
+!STACK 0
+java.net.URISyntaxException: Illegal character in path at index 16: file:/C:/Program Files/eclipse/plugins/org.eclipse.pde.build_3.9.300.v20170515-0912/templates/
+	at java.net.URI$Parser.fail(URI.java:2848)
+	at java.net.URI$Parser.checkChars(URI.java:3021)
+	at java.net.URI$Parser.parseHierarchical(URI.java:3105)
+	at java.net.URI$Parser.parse(URI.java:3053)
+	at java.net.URI.<init>(URI.java:588)
+	at java.net.URL.toURI(URL.java:946)
+	at org.eclipse.pde.internal.build.properties.PDEProperties.getAntPropertyValue(PDEProperties.java:54)
+	at org.eclipse.ant.core.Property.getValue(Property.java:123)
+	at org.eclipse.ant.internal.launching.launchConfigurations.AntLaunchDelegate.generateCommandLine(AntLaunchDelegate.java:440)
+	at org.eclipse.ant.internal.launching.launchConfigurations.AntLaunchDelegate.launch(AntLaunchDelegate.java:243)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:885)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:739)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:1039)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$8.run(DebugUIPlugin.java:1256)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56)
+
+!ENTRY org.infinitest.eclipse 1 0 2017-11-15 10:53:53.546
+!MESSAGE JeuAventure Files changed: [E:\S3\CPOA\JeuAventure\bin\ComportementsArme\ComportementEpee.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2017-11-15 10:54:04.820
+!MESSAGE JeuAventure Files changed: [E:\S3\CPOA\JeuAventure\bin\appli\main.class]
+
+!ENTRY org.eclipse.pde.build 4 3 2017-11-15 10:54:10.345
+!MESSAGE Illegal character in path at index 16: file:/C:/Program Files/eclipse/plugins/org.eclipse.pde.build_3.9.300.v20170515-0912/./
+!STACK 0
+java.net.URISyntaxException: Illegal character in path at index 16: file:/C:/Program Files/eclipse/plugins/org.eclipse.pde.build_3.9.300.v20170515-0912/./
+	at java.net.URI$Parser.fail(URI.java:2848)
+	at java.net.URI$Parser.checkChars(URI.java:3021)
+	at java.net.URI$Parser.parseHierarchical(URI.java:3105)
+	at java.net.URI$Parser.parse(URI.java:3053)
+	at java.net.URI.<init>(URI.java:588)
+	at java.net.URL.toURI(URL.java:946)
+	at org.eclipse.pde.internal.build.properties.PDEProperties.getAntPropertyValue(PDEProperties.java:54)
+	at org.eclipse.ant.core.Property.getValue(Property.java:123)
+	at org.eclipse.ant.internal.launching.launchConfigurations.AntLaunchDelegate.generateCommandLine(AntLaunchDelegate.java:440)
+	at org.eclipse.ant.internal.launching.launchConfigurations.AntLaunchDelegate.launch(AntLaunchDelegate.java:243)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:885)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:739)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:1039)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$8.run(DebugUIPlugin.java:1256)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56)
+
+!ENTRY org.eclipse.pde.build 4 3 2017-11-15 10:54:10.361
+!MESSAGE Illegal character in path at index 16: file:/C:/Program Files/eclipse/plugins/org.eclipse.pde.build_3.9.300.v20170515-0912/scripts/
+!STACK 0
+java.net.URISyntaxException: Illegal character in path at index 16: file:/C:/Program Files/eclipse/plugins/org.eclipse.pde.build_3.9.300.v20170515-0912/scripts/
+	at java.net.URI$Parser.fail(URI.java:2848)
+	at java.net.URI$Parser.checkChars(URI.java:3021)
+	at java.net.URI$Parser.parseHierarchical(URI.java:3105)
+	at java.net.URI$Parser.parse(URI.java:3053)
+	at java.net.URI.<init>(URI.java:588)
+	at java.net.URL.toURI(URL.java:946)
+	at org.eclipse.pde.internal.build.properties.PDEProperties.getAntPropertyValue(PDEProperties.java:54)
+	at org.eclipse.ant.core.Property.getValue(Property.java:123)
+	at org.eclipse.ant.internal.launching.launchConfigurations.AntLaunchDelegate.generateCommandLine(AntLaunchDelegate.java:440)
+	at org.eclipse.ant.internal.launching.launchConfigurations.AntLaunchDelegate.launch(AntLaunchDelegate.java:243)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:885)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:739)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:1039)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$8.run(DebugUIPlugin.java:1256)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56)
+
+!ENTRY org.eclipse.pde.build 4 3 2017-11-15 10:54:10.361
+!MESSAGE Illegal character in path at index 16: file:/C:/Program Files/eclipse/plugins/org.eclipse.pde.build_3.9.300.v20170515-0912/templates/
+!STACK 0
+java.net.URISyntaxException: Illegal character in path at index 16: file:/C:/Program Files/eclipse/plugins/org.eclipse.pde.build_3.9.300.v20170515-0912/templates/
+	at java.net.URI$Parser.fail(URI.java:2848)
+	at java.net.URI$Parser.checkChars(URI.java:3021)
+	at java.net.URI$Parser.parseHierarchical(URI.java:3105)
+	at java.net.URI$Parser.parse(URI.java:3053)
+	at java.net.URI.<init>(URI.java:588)
+	at java.net.URL.toURI(URL.java:946)
+	at org.eclipse.pde.internal.build.properties.PDEProperties.getAntPropertyValue(PDEProperties.java:54)
+	at org.eclipse.ant.core.Property.getValue(Property.java:123)
+	at org.eclipse.ant.internal.launching.launchConfigurations.AntLaunchDelegate.generateCommandLine(AntLaunchDelegate.java:440)
+	at org.eclipse.ant.internal.launching.launchConfigurations.AntLaunchDelegate.launch(AntLaunchDelegate.java:243)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:885)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:739)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:1039)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$8.run(DebugUIPlugin.java:1256)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56)
+
+!ENTRY org.infinitest.eclipse 1 0 2017-11-15 10:54:23.335
+!MESSAGE JeuAventure Files changed: [E:\S3\CPOA\JeuAventure\bin\ComportementsArme\ComportementArc.class]
+
+!ENTRY org.eclipse.pde.build 4 3 2017-11-15 10:54:27.094
+!MESSAGE Illegal character in path at index 16: file:/C:/Program Files/eclipse/plugins/org.eclipse.pde.build_3.9.300.v20170515-0912/./
+!STACK 0
+java.net.URISyntaxException: Illegal character in path at index 16: file:/C:/Program Files/eclipse/plugins/org.eclipse.pde.build_3.9.300.v20170515-0912/./
+	at java.net.URI$Parser.fail(URI.java:2848)
+	at java.net.URI$Parser.checkChars(URI.java:3021)
+	at java.net.URI$Parser.parseHierarchical(URI.java:3105)
+	at java.net.URI$Parser.parse(URI.java:3053)
+	at java.net.URI.<init>(URI.java:588)
+	at java.net.URL.toURI(URL.java:946)
+	at org.eclipse.pde.internal.build.properties.PDEProperties.getAntPropertyValue(PDEProperties.java:54)
+	at org.eclipse.ant.core.Property.getValue(Property.java:123)
+	at org.eclipse.ant.internal.launching.launchConfigurations.AntLaunchDelegate.generateCommandLine(AntLaunchDelegate.java:440)
+	at org.eclipse.ant.internal.launching.launchConfigurations.AntLaunchDelegate.launch(AntLaunchDelegate.java:243)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:885)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:739)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:1039)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$8.run(DebugUIPlugin.java:1256)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56)
+
+!ENTRY org.eclipse.pde.build 4 3 2017-11-15 10:54:27.094
+!MESSAGE Illegal character in path at index 16: file:/C:/Program Files/eclipse/plugins/org.eclipse.pde.build_3.9.300.v20170515-0912/scripts/
+!STACK 0
+java.net.URISyntaxException: Illegal character in path at index 16: file:/C:/Program Files/eclipse/plugins/org.eclipse.pde.build_3.9.300.v20170515-0912/scripts/
+	at java.net.URI$Parser.fail(URI.java:2848)
+	at java.net.URI$Parser.checkChars(URI.java:3021)
+	at java.net.URI$Parser.parseHierarchical(URI.java:3105)
+	at java.net.URI$Parser.parse(URI.java:3053)
+	at java.net.URI.<init>(URI.java:588)
+	at java.net.URL.toURI(URL.java:946)
+	at org.eclipse.pde.internal.build.properties.PDEProperties.getAntPropertyValue(PDEProperties.java:54)
+	at org.eclipse.ant.core.Property.getValue(Property.java:123)
+	at org.eclipse.ant.internal.launching.launchConfigurations.AntLaunchDelegate.generateCommandLine(AntLaunchDelegate.java:440)
+	at org.eclipse.ant.internal.launching.launchConfigurations.AntLaunchDelegate.launch(AntLaunchDelegate.java:243)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:885)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:739)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:1039)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$8.run(DebugUIPlugin.java:1256)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56)
+
+!ENTRY org.eclipse.pde.build 4 3 2017-11-15 10:54:27.110
+!MESSAGE Illegal character in path at index 16: file:/C:/Program Files/eclipse/plugins/org.eclipse.pde.build_3.9.300.v20170515-0912/templates/
+!STACK 0
+java.net.URISyntaxException: Illegal character in path at index 16: file:/C:/Program Files/eclipse/plugins/org.eclipse.pde.build_3.9.300.v20170515-0912/templates/
+	at java.net.URI$Parser.fail(URI.java:2848)
+	at java.net.URI$Parser.checkChars(URI.java:3021)
+	at java.net.URI$Parser.parseHierarchical(URI.java:3105)
+	at java.net.URI$Parser.parse(URI.java:3053)
+	at java.net.URI.<init>(URI.java:588)
+	at java.net.URL.toURI(URL.java:946)
+	at org.eclipse.pde.internal.build.properties.PDEProperties.getAntPropertyValue(PDEProperties.java:54)
+	at org.eclipse.ant.core.Property.getValue(Property.java:123)
+	at org.eclipse.ant.internal.launching.launchConfigurations.AntLaunchDelegate.generateCommandLine(AntLaunchDelegate.java:440)
+	at org.eclipse.ant.internal.launching.launchConfigurations.AntLaunchDelegate.launch(AntLaunchDelegate.java:243)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:885)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:739)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:1039)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$8.run(DebugUIPlugin.java:1256)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56)
+
+!ENTRY org.eclipse.pde.build 4 3 2017-11-15 10:54:45.159
+!MESSAGE Illegal character in path at index 16: file:/C:/Program Files/eclipse/plugins/org.eclipse.pde.build_3.9.300.v20170515-0912/./
+!STACK 0
+java.net.URISyntaxException: Illegal character in path at index 16: file:/C:/Program Files/eclipse/plugins/org.eclipse.pde.build_3.9.300.v20170515-0912/./
+	at java.net.URI$Parser.fail(URI.java:2848)
+	at java.net.URI$Parser.checkChars(URI.java:3021)
+	at java.net.URI$Parser.parseHierarchical(URI.java:3105)
+	at java.net.URI$Parser.parse(URI.java:3053)
+	at java.net.URI.<init>(URI.java:588)
+	at java.net.URL.toURI(URL.java:946)
+	at org.eclipse.pde.internal.build.properties.PDEProperties.getAntPropertyValue(PDEProperties.java:54)
+	at org.eclipse.ant.core.Property.getValue(Property.java:123)
+	at org.eclipse.ant.internal.launching.launchConfigurations.AntLaunchDelegate.generateCommandLine(AntLaunchDelegate.java:440)
+	at org.eclipse.ant.internal.launching.launchConfigurations.AntLaunchDelegate.launch(AntLaunchDelegate.java:243)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:885)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:739)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:1039)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$8.run(DebugUIPlugin.java:1256)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56)
+
+!ENTRY org.infinitest.eclipse 1 0 2017-11-15 10:54:46.487
+!MESSAGE JeuAventure Files changed: [E:\S3\CPOA\JeuAventure\bin\ComportementsArme\ComportementEpee.class]
+
+!ENTRY org.eclipse.pde.build 4 3 2017-11-15 10:54:47.159
+!MESSAGE Illegal character in path at index 16: file:/C:/Program Files/eclipse/plugins/org.eclipse.pde.build_3.9.300.v20170515-0912/scripts/
+!STACK 0
+java.net.URISyntaxException: Illegal character in path at index 16: file:/C:/Program Files/eclipse/plugins/org.eclipse.pde.build_3.9.300.v20170515-0912/scripts/
+	at java.net.URI$Parser.fail(URI.java:2848)
+	at java.net.URI$Parser.checkChars(URI.java:3021)
+	at java.net.URI$Parser.parseHierarchical(URI.java:3105)
+	at java.net.URI$Parser.parse(URI.java:3053)
+	at java.net.URI.<init>(URI.java:588)
+	at java.net.URL.toURI(URL.java:946)
+	at org.eclipse.pde.internal.build.properties.PDEProperties.getAntPropertyValue(PDEProperties.java:54)
+	at org.eclipse.ant.core.Property.getValue(Property.java:123)
+	at org.eclipse.ant.internal.launching.launchConfigurations.AntLaunchDelegate.generateCommandLine(AntLaunchDelegate.java:440)
+	at org.eclipse.ant.internal.launching.launchConfigurations.AntLaunchDelegate.launch(AntLaunchDelegate.java:243)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:885)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:739)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:1039)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$8.run(DebugUIPlugin.java:1256)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56)
+
+!ENTRY org.eclipse.pde.build 4 3 2017-11-15 10:54:47.175
+!MESSAGE Illegal character in path at index 16: file:/C:/Program Files/eclipse/plugins/org.eclipse.pde.build_3.9.300.v20170515-0912/templates/
+!STACK 0
+java.net.URISyntaxException: Illegal character in path at index 16: file:/C:/Program Files/eclipse/plugins/org.eclipse.pde.build_3.9.300.v20170515-0912/templates/
+	at java.net.URI$Parser.fail(URI.java:2848)
+	at java.net.URI$Parser.checkChars(URI.java:3021)
+	at java.net.URI$Parser.parseHierarchical(URI.java:3105)
+	at java.net.URI$Parser.parse(URI.java:3053)
+	at java.net.URI.<init>(URI.java:588)
+	at java.net.URL.toURI(URL.java:946)
+	at org.eclipse.pde.internal.build.properties.PDEProperties.getAntPropertyValue(PDEProperties.java:54)
+	at org.eclipse.ant.core.Property.getValue(Property.java:123)
+	at org.eclipse.ant.internal.launching.launchConfigurations.AntLaunchDelegate.generateCommandLine(AntLaunchDelegate.java:440)
+	at org.eclipse.ant.internal.launching.launchConfigurations.AntLaunchDelegate.launch(AntLaunchDelegate.java:243)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:885)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:739)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:1039)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$8.run(DebugUIPlugin.java:1256)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56)

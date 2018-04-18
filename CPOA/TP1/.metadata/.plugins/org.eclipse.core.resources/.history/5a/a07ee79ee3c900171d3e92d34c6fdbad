@@ -1,0 +1,7 @@
+package ComportementsArme;
+
+public class ComportementArc {
+	public void UtiliserArme() {
+		System.out.println("Attaque à l'arc");
+	}
+}

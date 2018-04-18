@@ -1,0 +1,17 @@
+package appli;
+
+public abstract class Personnage {
+	
+	protected ComportementArme arme;
+
+	public void Combattre() {
+		this.arme.utiliserArme();
+	}
+	
+	public setArme(ComportementArme a)
+	{
+		this.arme=a;
+	}
+	
+	
+}

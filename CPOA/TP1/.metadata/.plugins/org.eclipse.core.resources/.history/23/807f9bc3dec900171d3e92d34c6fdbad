@@ -1,0 +1,5 @@
+
+public interface ComportementCancaner {
+	
+	public void Cancaner() {}
+}

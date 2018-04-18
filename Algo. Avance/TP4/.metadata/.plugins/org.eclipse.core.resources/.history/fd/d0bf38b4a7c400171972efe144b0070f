@@ -1,0 +1,32 @@
+package hash;
+
+import java.util.List;
+
+public class MDHashTable<K, V> extends  AbstractHashTable<K,V>{
+	
+	
+	/**
+	 * Constructs an empty hashtable with an initial capacity of 4.
+	 *
+	*/
+	public MDHashTable() {
+		// TODO Auto-generated constructor stub
+		this.size=4;
+		this.table=new List[4];
+	}
+
+	@Override
+	public V put(K key, V value) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public V get(Object key) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+	
+	
+
+}

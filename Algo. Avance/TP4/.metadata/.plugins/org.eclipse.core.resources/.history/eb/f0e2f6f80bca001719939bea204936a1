@@ -1,0 +1,24 @@
+import java.util.Iterator;
+
+import hash.MDHashTable;
+import hash.Mapping;
+
+public class Exo2 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		MDHashTable<String, String> table1 = new  MDHashTable<>();
+		table1.put("two", "deux");
+		table1.put("four", "quatre");
+		System.out.println(table1.get("two"));
+		System.out.println(table1.get("deux"));
+		Iterator<Mapping<String, String>> it = table1.iterator();
+		while (it.hasNext()) {
+				Mapping<String, String> m = it.next();
+				System.out.println(m);
+		}
+		System.out.println(table1.size());
+		
+	}
+
+}

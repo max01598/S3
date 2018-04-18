@@ -1,0 +1,18 @@
+import hash.MDHashTable;
+
+public class Exo2 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		MDHashTable<String, String> table1 = new  MDHashTable<>();
+		table1.put("two", "deux");
+		table1.put("four", "quatre");
+		System.out.println(table1.get("two"));
+		System.out.println(table1.get("deux"));
+		table1.put("3", "bb");
+		table1.put("1", "ll");
+		
+		System.out.println(table1.toString());
+	}
+
+}

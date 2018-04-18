@@ -1,0 +1,101 @@
+package hash;
+
+import java.util.ArrayList;
+import java.util.List;
+
+
+
+public class MDHashTable<K, V> extends  AbstractHashTable<K,V>{
+	
+	
+	/**
+	 * Constructs an empty hashtable with an initial capacity of 4.
+	 *
+	*/
+	public MDHashTable() {
+		// TODO Auto-generated constructor stub
+		this.size=0;
+		this.table=new List[4];
+		for(int i=0;i<4;i++)
+		{
+			this.table[i]= new ArrayList<Mapping<K,V>>();
+		}
+	}
+
+	@Override
+	public V put(K key, V value) {
+		if(key==null || value ==null)
+		{
+			throw new NullPointerException();
+		}
+		int hashKey = key.hashCode();
+		int indexe = hashKey%table.length;
+		V valeurretour=null;
+		
+		for(int i=0;i<this.table[indexe].size();i++)
+		{
+			if(table[indexe].get(i).getKey().equals(key))
+			{
+				valeurretour=table[indexe].get(i).getValue();
+				table[indexe].remove(i);
+				table[indexe].add(new Mapping(key, value));
+				this.size=size+1;
+				return valeurretour;
+			}
+		}
+		
+		table[indexe].add(new Mapping(key, value));
+		this.size=size+1;
+		return valeurretour;
+	}
+
+	@Override
+	public V get(Object key) {
+		// TODO Auto-generated method stub
+		/*if(key==null)
+		{
+			throw new NullPointerException();
+		}*/
+		int hashKey = key.hashCode();
+		int indexe = hashKey%table.length;
+		V valeurretour=null;
+		for(int i=0;i<this.table[indexe].size();i++)
+		{
+			if(table[indexe].get(i).getKey().equals(key))
+			{
+				valeurretour=table[indexe].get(i).getValue();
+				return valeurretour;
+			}
+		}
+		return valeurretour;
+	}
+
+	@Override
+	public String toString() {
+		// TODO Auto-generated method stub
+		String contenu="{";
+		for(int i=0;i<this.table.length;i++)
+		{
+			for(int y=0;y<this.table[i].size();y++)
+			{
+				
+				if(y==(this.table[i].size())-1)
+				{
+					contenu=contenu+this.table[i].get(y).getKey()+"="+this.table[i].get(y).getValue();
+				}
+				else
+				{
+					contenu=contenu+this.table[i].get(y).getKey()+"="+this.table[i].get(y).getValue()+",";
+				}
+			}
+		}
+		contenu=contenu+"}";
+		return contenu;
+	}
+	
+	
+	
+	
+	
+
+}

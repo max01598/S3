@@ -1,0 +1,13 @@
+2.7)
+CREATE INDEX ParticiperIndexNumcliP
+ON Participer (numClip);
+CREATE INDEX LouerIndexNumcli
+ON Louer (numCli);
+CREATE INDEX ParticiperIndexLouer
+ON Participer (numCli,numLoc,dateDeb);
+
+2.9)
+CREATE UNIQUE INDEX numCli
+ON CLIENT (numCLi);  
+CREATE UNIQUE INDEX Louer
+ON LOUER (numCLi,numLoc,dateDeb); 

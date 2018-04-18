@@ -1,0 +1,29 @@
+select distinct Participer.NumLoc,count(Participer.NumCLiP), TP.Capacite, Participer.dateDeb
+from TYPE_LOCATION TP, LOCATION L, Participer
+where Participer.NumLoc = L.NUMLOC and L.NUMTYPELOC = TP.NUMTYPELOC 
+group by Participer.dateDeb, Participer.NumLoc, TP.Capacite,PARTICIPER.NUMCLI
+Having count(*)+1>TP.CAPACITE;
+
+
+CREATE OR REPLACE TRIGGER t_iud_participer
+BEFORE INSERT OR UPDATE OF NUMLOC
+ON Participer
+FOR EACH ROW
+DECLARE 
+CPT NUMBER;
+
+BEGIN 
+    select count(count(Participer.NumCLiP)) into CPT
+    from TYPE_LOCATION TP, LOCATION L, Participer
+    where Participer.NumLoc = L.NUMLOC and L.NUMTYPELOC = TP.NUMTYPELOC 
+    group by Participer.dateDeb, Participer.NumLoc, TP.Capacite,PARTICIPER.NUMCLI
+    Having count(*)+1>TP.CAPACITE;
+    
+    if CPT >0 then
+        raise_Application_Error(-20001,'PasPossible');
+    End if;
+    
+END;
+/
+
+/
